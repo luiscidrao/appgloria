@@ -1,33 +1,17 @@
 [
   {
+    "id": "HzJd8povtkw",
+    "titulo": "(11.12.25 - 18h30) Santa Missa | 2ª Semana do Advento | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/HzJd8povtkw/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-08T11:27:34Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
     "id": "4FuccZDtW60",
     "titulo": "(10.12.25 - 18h30) Santa Missa | 2ª Semana do Advento | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/4FuccZDtW60/hqdefault.jpg",
     "data_publicacao": "2025-12-10T23:27:58Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "_WUDBDGLMqE",
-    "titulo": "Teu fardo sobre mim - Minuto do Evangelho com Pe. Helano Samy | Evangelho (Mt 11,28-30)",
-    "thumbnail": "https://i.ytimg.com/vi/_WUDBDGLMqE/hqdefault.jpg",
-    "data_publicacao": "2025-12-10T19:23:03Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "nbuHYyEm_AQ",
-    "titulo": "Eu não consigo, mas Jesus sim | Evangelho (Mt 18,12-14) Entre orações e homilias 09.12.25",
-    "thumbnail": "https://i.ytimg.com/vi/nbuHYyEm_AQ/hqdefault.jpg",
-    "data_publicacao": "2025-12-10T13:46:17Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "N1kryWdXsO0",
-    "titulo": "Não deixar ninguém para trás - Minuto do Evangelho com Pe. Helano Samy | Evangelho (Mt 18,12-14)",
-    "thumbnail": "https://i.ytimg.com/vi/N1kryWdXsO0/hqdefault.jpg",
-    "data_publicacao": "2025-12-10T13:19:33Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -48,52 +32,12 @@
     "isUpcoming": false
   },
   {
-    "id": "5GSeDRLrlUs",
-    "titulo": "Bastidores da Glória | Festa da padroeira de 2025",
-    "thumbnail": "https://i.ytimg.com/vi/5GSeDRLrlUs/hqdefault.jpg",
-    "data_publicacao": "2025-12-08T22:01:34Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "BGwvtBHWANs",
-    "titulo": "Com os passos livres - Minuto do Evangelho com Pe. Helano Samy | Evangelho (Lc 1,26-38)",
-    "thumbnail": "https://i.ytimg.com/vi/BGwvtBHWANs/hqdefault.jpg",
-    "data_publicacao": "2025-12-08T21:40:34Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "BPO5gzxdVz8",
-    "titulo": "Eu vivo milagres | Evangelho (Mt 3,1-12) Entre orações e homilias 07.12.25",
-    "thumbnail": "https://i.ytimg.com/vi/BPO5gzxdVz8/hqdefault.jpg",
-    "data_publicacao": "2025-12-08T21:32:07Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "ryNsRnB_4S0",
-    "titulo": "O SIM que mudou o mundo | Evangelho (Lc 1,26-38) | Entre orações e homilias 08.12.25",
-    "thumbnail": "https://i.ytimg.com/vi/ryNsRnB_4S0/hqdefault.jpg",
-    "data_publicacao": "2025-12-08T18:32:25Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "jGDIeRigt6A",
     "titulo": "(08.12.25 - 12h) Imaculada Conceição da Bem-aventurada Virgem Maria | Hora da Graça",
     "thumbnail": "https://i.ytimg.com/vi/jGDIeRigt6A/hqdefault.jpg",
     "data_publicacao": "2025-12-08T17:16:09Z",
     "isLive": false,
     "isUpcoming": false
-  },
-  {
-    "id": "HzJd8povtkw",
-    "titulo": "(11.12.25 - 18h30) Santa Missa | 2ª Semana do Advento | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/HzJd8povtkw/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-08T11:27:34Z",
-    "isLive": false,
-    "isUpcoming": true
   },
   {
     "id": "cfJeeNaYS28",
@@ -108,14 +52,6 @@
     "titulo": "(07.12.25 - 9h)  Santa Missa | 2º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/NbOjqYRlt7E/hqdefault.jpg",
     "data_publicacao": "2025-12-08T01:21:44Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "oHJnQCS9uEY",
-    "titulo": "Ofício da Imaculada Conceição | Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/oHJnQCS9uEY/hqdefault.jpg",
-    "data_publicacao": "2025-12-08T01:19:19Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -140,6 +76,14 @@
     "titulo": "(06.12.25 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/-T6gJkiMjmI/hqdefault.jpg",
     "data_publicacao": "2025-12-07T01:16:35Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "rl4W0YEdJ_E",
+    "titulo": "(12.10.25 - 19h) Santa Missa | Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/rl4W0YEdJ_E/hqdefault.jpg",
+    "data_publicacao": "2025-10-13T00:33:18Z",
     "isLive": false,
     "isUpcoming": false
   }
