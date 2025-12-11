@@ -8,6 +8,7 @@ import 'services/liturgia_service.dart';
 import 'widgets/vitral_background.dart';
 import 'liturgia_detalhada_screen.dart';
 import 'screens/transmissoes_screen.dart';
+import 'screens/avisos_screen.dart'; // <--- Import novo
 
 void main() {
   runApp(const ParoquiaApp());
@@ -46,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
   final List<Widget> _screens = [
     const DashboardTab(),
     const TransmissoesScreen(),
-    const Center(child: Text("Avisos (Em breve)")),
+    const AvisosScreen(), // <--- Tela nova conectada
     const Center(child: Text("Dízimo (Em breve)")),
   ];
 
@@ -126,9 +127,7 @@ class _DashboardTabState extends State<DashboardTab> {
   Widget build(BuildContext context) {
     return Stack(
       children: [
-        const Positioned.fill(
-          child: VitralAnimado(),
-        ),
+        const Positioned.fill(child: VitralAnimado()),
 
         Column(
           children: [
@@ -268,10 +267,7 @@ class _DashboardTabState extends State<DashboardTab> {
                                 color: const Color(0xFFFFEBEE),
                                 iconColor: const Color(0xFFB71C1C),
                                 onTap: () {
-                                  Navigator.push(
-                                      context,
-                                      MaterialPageRoute(builder: (context) => const TransmissoesScreen())
-                                  );
+                                  Navigator.push(context, MaterialPageRoute(builder: (context) => const TransmissoesScreen()));
                                 },
                               ),
                             ),
@@ -280,7 +276,17 @@ class _DashboardTabState extends State<DashboardTab> {
                         const SizedBox(height: 16),
                         Row(
                           children: [
-                            Expanded(child: _buildServiceCard(icon: Icons.campaign, title: "Avisos", color: const Color(0xFFE3F2FD), iconColor: const Color(0xFF1565C0), onTap: () {})),
+                            Expanded(
+                                child: _buildServiceCard(
+                                    icon: Icons.campaign,
+                                    title: "Avisos",
+                                    color: const Color(0xFFE3F2FD),
+                                    iconColor: const Color(0xFF1565C0),
+                                    onTap: () {
+                                      Navigator.push(context, MaterialPageRoute(builder: (context) => const AvisosScreen()));
+                                    }
+                                )
+                            ),
                             const SizedBox(width: 16),
                             Expanded(child: _buildServiceCard(icon: FontAwesomeIcons.handHoldingHeart, title: "Dízimo", color: const Color(0xFFE8F5E9), iconColor: const Color(0xFF2E7D32), onTap: () {})),
                           ],
@@ -299,58 +305,21 @@ class _DashboardTabState extends State<DashboardTab> {
   }
 
   // --- MÉTODOS AUXILIARES ---
-
   Widget _buildLiturgiaHeroCard(BuildContext context, LiturgiaDiariaModel liturgia) {
     return Container(
-      decoration: BoxDecoration(
-        color: const Color(0xFFFFFCF5),
-        borderRadius: BorderRadius.circular(24),
-        border: Border.all(color: AppTheme.gold.withOpacity(0.4), width: 1),
-        boxShadow: [
-          BoxShadow(color: Colors.black.withOpacity(0.06), blurRadius: 15, offset: const Offset(0, 8)),
-        ],
-      ),
+      decoration: BoxDecoration(color: const Color(0xFFFFFCF5), borderRadius: BorderRadius.circular(24), border: Border.all(color: AppTheme.gold.withOpacity(0.4), width: 1), boxShadow: [BoxShadow(color: Colors.black.withOpacity(0.06), blurRadius: 15, offset: const Offset(0, 8))]),
       child: Material(
         color: Colors.transparent,
         child: InkWell(
           borderRadius: BorderRadius.circular(24),
-          onTap: () {
-            Navigator.push(context, MaterialPageRoute(builder: (context) => LiturgiaDetalhadaScreen(liturgia: liturgia)));
-          },
+          onTap: () { Navigator.push(context, MaterialPageRoute(builder: (context) => LiturgiaDetalhadaScreen(liturgia: liturgia))); },
           child: Padding(
             padding: const EdgeInsets.all(24),
             child: Row(
               children: [
-                Container(
-                  height: 60, width: 60,
-                  decoration: BoxDecoration(color: Colors.white, shape: BoxShape.circle, border: Border.all(color: AppTheme.gold, width: 1.5)),
-                  child: const Center(child: Icon(FontAwesomeIcons.bible, color: AppTheme.royalBlue, size: 28)),
-                ),
+                Container(height: 60, width: 60, decoration: BoxDecoration(color: Colors.white, shape: BoxShape.circle, border: Border.all(color: AppTheme.gold, width: 1.5)), child: const Center(child: Icon(FontAwesomeIcons.bible, color: AppTheme.royalBlue, size: 28))),
                 const SizedBox(width: 20),
-                Expanded(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Row(
-                        children: [
-                          Text("LITURGIA DIÁRIA", style: GoogleFonts.raleway(fontSize: 12, fontWeight: FontWeight.bold, color: AppTheme.gold, letterSpacing: 1.2)),
-                          const Spacer(),
-                          const Icon(Icons.arrow_forward, size: 16, color: AppTheme.gold)
-                        ],
-                      ),
-                      const SizedBox(height: 8),
-                      Text(liturgia.tituloDia, maxLines: 2, overflow: TextOverflow.ellipsis, style: GoogleFonts.montserrat(fontSize: 16, color: AppTheme.textDark, fontWeight: FontWeight.bold)),
-                      const SizedBox(height: 8),
-                      Row(
-                        children: [
-                          Icon(Icons.circle, size: 10, color: _getCorLiturgicaColor(liturgia.corLiturgica)),
-                          const SizedBox(width: 6),
-                          Text(liturgia.corLiturgica.replaceAll("Cor Litúrgica:", "").trim(), style: GoogleFonts.raleway(fontSize: 12, color: Colors.grey[600])),
-                        ],
-                      )
-                    ],
-                  ),
-                )
+                Expanded(child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [Row(children: [Text("LITURGIA DIÁRIA", style: GoogleFonts.raleway(fontSize: 12, fontWeight: FontWeight.bold, color: AppTheme.gold, letterSpacing: 1.2)), const Spacer(), const Icon(Icons.arrow_forward, size: 16, color: AppTheme.gold)]), const SizedBox(height: 8), Text(liturgia.tituloDia, maxLines: 2, overflow: TextOverflow.ellipsis, style: GoogleFonts.montserrat(fontSize: 16, color: AppTheme.textDark, fontWeight: FontWeight.bold)), const SizedBox(height: 8), Row(children: [Icon(Icons.circle, size: 10, color: _getCorLiturgicaColor(liturgia.corLiturgica)), const SizedBox(width: 6), Text(liturgia.corLiturgica.replaceAll("Cor Litúrgica:", "").trim(), style: GoogleFonts.raleway(fontSize: 12, color: Colors.grey[600]))])]))
               ],
             ),
           ),
@@ -359,25 +328,8 @@ class _DashboardTabState extends State<DashboardTab> {
     );
   }
 
-  Widget _buildErroCard() {
-    return Container(padding: const EdgeInsets.all(20), decoration: BoxDecoration(color: Colors.red.shade50, borderRadius: BorderRadius.circular(16)), child: Row(children: const [Icon(Icons.wifi_off, color: Colors.red), SizedBox(width: 16), Expanded(child: Text("Sem conexão."))]));
-  }
-
-  Color _getCorLiturgicaColor(String texto) {
-    String t = texto.toLowerCase();
-    if (t.contains('roxo')) return Colors.purple;
-    if (t.contains('verde')) return Colors.green;
-    if (t.contains('vermelho')) return Colors.red;
-    if (t.contains('branco')) return Colors.amber.shade100;
-    if (t.contains('rosa')) return Colors.pinkAccent;
-    return AppTheme.gold;
-  }
-
-  Widget _buildLoadingCard() {
-    return Container(height: 120, width: double.infinity, decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(24)), child: const Center(child: CircularProgressIndicator(color: AppTheme.gold)));
-  }
-
-  Widget _buildServiceCard({required IconData icon, required String title, required Color color, required Color iconColor, required VoidCallback onTap}) {
-    return Container(height: 110, decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(20), boxShadow: [BoxShadow(color: Colors.black.withOpacity(0.04), blurRadius: 15, offset: const Offset(0, 5))]), child: Material(color: Colors.transparent, child: InkWell(borderRadius: BorderRadius.circular(20), onTap: onTap, child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [Container(padding: const EdgeInsets.all(12), decoration: BoxDecoration(color: color, shape: BoxShape.circle), child: Icon(icon, color: iconColor, size: 24)), const SizedBox(height: 12), Text(title, style: GoogleFonts.montserrat(fontSize: 14, fontWeight: FontWeight.w600, color: Colors.grey[800]))]))));
-  }
+  Widget _buildErroCard() { return Container(padding: const EdgeInsets.all(20), decoration: BoxDecoration(color: Colors.red.shade50, borderRadius: BorderRadius.circular(16)), child: Row(children: const [Icon(Icons.wifi_off, color: Colors.red), SizedBox(width: 16), Expanded(child: Text("Sem conexão."))])); }
+  Color _getCorLiturgicaColor(String texto) { String t = texto.toLowerCase(); if (t.contains('roxo')) return Colors.purple; if (t.contains('verde')) return Colors.green; if (t.contains('vermelho')) return Colors.red; if (t.contains('branco')) return Colors.amber.shade100; if (t.contains('rosa')) return Colors.pinkAccent; return AppTheme.gold; }
+  Widget _buildLoadingCard() { return Container(height: 120, width: double.infinity, decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(24)), child: const Center(child: CircularProgressIndicator(color: AppTheme.gold))); }
+  Widget _buildServiceCard({required IconData icon, required String title, required Color color, required Color iconColor, required VoidCallback onTap}) { return Container(height: 110, decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(20), boxShadow: [BoxShadow(color: Colors.black.withOpacity(0.04), blurRadius: 15, offset: const Offset(0, 5))]), child: Material(color: Colors.transparent, child: InkWell(borderRadius: BorderRadius.circular(20), onTap: onTap, child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [Container(padding: const EdgeInsets.all(12), decoration: BoxDecoration(color: color, shape: BoxShape.circle), child: Icon(icon, color: iconColor, size: 24)), const SizedBox(height: 12), Text(title, style: GoogleFonts.montserrat(fontSize: 14, fontWeight: FontWeight.w600, color: Colors.grey[800]))])))); }
 }

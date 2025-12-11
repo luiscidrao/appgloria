@@ -42,7 +42,6 @@ dependencies:
   url_launcher: ^6.2.1
   html: ^0.15.4
   flutter_tts: ^3.8.3
-  youtube_player_iframe: ^5.1.0
   shared_preferences: ^2.2.2
 dev_dependencies:
   flutter_test:

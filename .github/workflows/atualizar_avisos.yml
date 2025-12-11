@@ -1,0 +1,25 @@
+name: Atualizar Avisos (Sheets)
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Roda a cada hora
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-sheets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install requests
+      - name: Sincronizar Google Sheets
+        run: python update_avisos.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto: Atualizando avisos da Planilha"
+          file_pattern: avisos.json
