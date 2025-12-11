@@ -2,8 +2,9 @@ name: Atualizar Avisos (Sheets)
 
 on:
   schedule:
-    - cron: '0 * * * *' # Roda a cada hora
-  workflow_dispatch:
+    # O "*/10" significa: "Rode a cada minuto múltiplo de 10" (00, 10, 20, 30, 40, 50)
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Permite rodar manualmente
 
 permissions:
   contents: write
