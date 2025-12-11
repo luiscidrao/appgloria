@@ -78,5 +78,69 @@
     "data_publicacao": "2025-12-08T18:32:25Z",
     "isLive": false,
     "isUpcoming": false
+  },
+  {
+    "id": "jGDIeRigt6A",
+    "titulo": "(08.12.25 - 12h) Imaculada Conceição da Bem-aventurada Virgem Maria | Hora da Graça",
+    "thumbnail": "https://i.ytimg.com/vi/jGDIeRigt6A/hqdefault.jpg",
+    "data_publicacao": "2025-12-08T17:16:09Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "HzJd8povtkw",
+    "titulo": "(11.12.25 - 18h30) Santa Missa | 2ª Semana do Advento | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/HzJd8povtkw/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-08T11:27:34Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "cfJeeNaYS28",
+    "titulo": "(07.12.25 - 17h)  Santa Missa | 2º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cfJeeNaYS28/hqdefault.jpg",
+    "data_publicacao": "2025-12-08T09:08:34Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "NbOjqYRlt7E",
+    "titulo": "(07.12.25 - 9h)  Santa Missa | 2º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/NbOjqYRlt7E/hqdefault.jpg",
+    "data_publicacao": "2025-12-08T01:21:44Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "oHJnQCS9uEY",
+    "titulo": "Ofício da Imaculada Conceição | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/oHJnQCS9uEY/hqdefault.jpg",
+    "data_publicacao": "2025-12-08T01:19:19Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "TdTii0Tt0Pk",
+    "titulo": "(07.12.25 - 19h)  Santa Missa | 2º Domingo do Advento | Domingo | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/TdTii0Tt0Pk/hqdefault.jpg",
+    "data_publicacao": "2025-12-08T00:23:47Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "FYPIjptvC-k",
+    "titulo": "(07.12.25 - 11h) Santa Missa | 2º Domingo do Advento | Domingo | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/FYPIjptvC-k/hqdefault.jpg",
+    "data_publicacao": "2025-12-07T16:22:37Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "-T6gJkiMjmI",
+    "titulo": "(06.12.25 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
+    "thumbnail": "https://i.ytimg.com/vi/-T6gJkiMjmI/hqdefault.jpg",
+    "data_publicacao": "2025-12-07T01:16:35Z",
+    "isLive": false,
+    "isUpcoming": false
   }
 ]
