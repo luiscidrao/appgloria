@@ -1,16 +1,15 @@
 import os
 import json
-import reqgit add .uests
+import requests
 
 # O robô pega a chave dos Segredos do GitHub automaticamente
 API_KEY = os.environ['YOUTUBE_API_KEY']
 
-# --- AQUI ESTÁ A ATUALIZAÇÃO ---
+# ID do Canal da Paróquia da Glória
 CHANNEL_ID = 'UClz9W7Ydm216ESYM7TxlN1w'
-# -------------------------------
 
 def get_videos():
-    # URL atualizada para buscar video E snippet (para pegar lives)
+    # URL para buscar snippets (detalhes) dos vídeos
     url = f"https://www.googleapis.com/youtube/v3/search?key={API_KEY}&channelId={CHANNEL_ID}&part=snippet&order=date&maxResults=10&type=video"
 
     try:
