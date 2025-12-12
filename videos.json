@@ -40,14 +40,6 @@
     "isUpcoming": false
   },
   {
-    "id": "NbOjqYRlt7E",
-    "titulo": "(07.12.25 - 9h)  Santa Missa | 2º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/NbOjqYRlt7E/hqdefault.jpg",
-    "data_publicacao": "2025-12-08T01:21:44Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "TdTii0Tt0Pk",
     "titulo": "(07.12.25 - 19h)  Santa Missa | 2º Domingo do Advento | Domingo | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/TdTii0Tt0Pk/hqdefault.jpg",
@@ -76,6 +68,14 @@
     "titulo": "(12.10.25 - 19h) Santa Missa | Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/rl4W0YEdJ_E/hqdefault.jpg",
     "data_publicacao": "2025-10-13T00:33:18Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
