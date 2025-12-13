@@ -72,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "-T6gJkiMjmI",
-    "titulo": "(06.12.25 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/-T6gJkiMjmI/hqdefault.jpg",
-    "data_publicacao": "2025-12-07T01:16:35Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "rl4W0YEdJ_E",
     "titulo": "(12.10.25 - 19h) Santa Missa | Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/rl4W0YEdJ_E/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "p16HveJozMw",
+    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
+    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
+    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
