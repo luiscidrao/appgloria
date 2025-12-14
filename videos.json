@@ -1,17 +1,17 @@
 [
   {
-    "id": "eHfnEs91q-U",
-    "titulo": "(14.12.25 - 19h)  Santa Missa | 3º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/eHfnEs91q-U/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-12T17:41:24Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "u5xjbwreVms",
     "titulo": "(14.12.25 - 17h)  Santa Missa | 3º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/u5xjbwreVms/hqdefault_live.jpg",
     "data_publicacao": "2025-12-12T17:40:48Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "eHfnEs91q-U",
+    "titulo": "(14.12.25 - 19h)  Santa Missa | 3º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/eHfnEs91q-U/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-12T17:41:24Z",
     "isLive": false,
     "isUpcoming": true
   },
