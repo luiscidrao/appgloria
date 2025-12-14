@@ -1,13 +1,5 @@
 [
   {
-    "id": "sSjzgB1w9a8",
-    "titulo": "(14.12.25 - 11h)  Santa Missa | 3º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/sSjzgB1w9a8/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-12T17:39:58Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "eHfnEs91q-U",
     "titulo": "(14.12.25 - 19h)  Santa Missa | 3º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/eHfnEs91q-U/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2025-12-12T17:40:48Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "sSjzgB1w9a8",
+    "titulo": "(14.12.25 - 11h)  Santa Missa | 3º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/sSjzgB1w9a8/hqdefault.jpg",
+    "data_publicacao": "2025-12-14T16:18:13Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "LrDMc5mv6dw",
@@ -92,14 +92,6 @@
     "titulo": "(12.10.25 - 19h) Santa Missa | Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/rl4W0YEdJ_E/hqdefault.jpg",
     "data_publicacao": "2025-10-13T00:33:18Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
