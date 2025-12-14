@@ -1,13 +1,5 @@
 [
   {
-    "id": "09Tph6OYEBM",
-    "titulo": "(14.12.25 - 9h)  Santa Missa | 3º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/09Tph6OYEBM/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-12T17:38:57Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "eHfnEs91q-U",
     "titulo": "(14.12.25 - 19h)  Santa Missa | 3º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/eHfnEs91q-U/hqdefault_live.jpg",
@@ -44,6 +36,14 @@
     "titulo": "(12.12.25 - 18h30) Santa Missa | Bem-aventurada Virgem Maria de Guadalupe | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/BkIfrZHECc8/hqdefault.jpg",
     "data_publicacao": "2025-12-12T23:38:51Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "09Tph6OYEBM",
+    "titulo": "(14.12.25 - 9h)  Santa Missa | 3º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/09Tph6OYEBM/hqdefault.jpg",
+    "data_publicacao": "2025-12-12T17:38:57Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "p16HveJozMw",
-    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
-    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
-    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
