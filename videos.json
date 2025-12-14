@@ -16,6 +16,30 @@
     "isUpcoming": true
   },
   {
+    "id": "sSjzgB1w9a8",
+    "titulo": "(14.12.25 - 11h)  Santa Missa | 3º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/sSjzgB1w9a8/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-12T17:39:58Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "09Tph6OYEBM",
+    "titulo": "(14.12.25 - 9h)  Santa Missa | 3º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/09Tph6OYEBM/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-12T17:38:57Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "LrDMc5mv6dw",
+    "titulo": "(13.12.25 - 18h30) Santa Luzia, virgem e mártir | Memória | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/LrDMc5mv6dw/hqdefault.jpg",
+    "data_publicacao": "2025-12-13T23:39:23Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "PLrAyltSXS0",
     "titulo": "(13.12.25 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/PLrAyltSXS0/hqdefault.jpg",
@@ -36,14 +60,6 @@
     "titulo": "(11.12.25 - 18h30) Santa Missa | 2ª Semana do Advento | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/HzJd8povtkw/hqdefault.jpg",
     "data_publicacao": "2025-12-11T23:02:57Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "4FuccZDtW60",
-    "titulo": "(10.12.25 - 18h30) Santa Missa | 2ª Semana do Advento | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/4FuccZDtW60/hqdefault.jpg",
-    "data_publicacao": "2025-12-10T23:27:58Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,6 +108,86 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "p16HveJozMw",
+    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
+    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
+    "data_publicacao": "2025-08-12T01:10:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "afwyR7zPnN0",
+    "titulo": "(10.07.25 - 18h30) Santa Missa | 14ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/afwyR7zPnN0/hqdefault.jpg",
+    "data_publicacao": "2025-07-10T22:31:33Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "RU_-VUiAR_0",
+    "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
+    "data_publicacao": "2025-06-13T23:04:14Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "6Xf2_mCihLY",
+    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
+    "data_publicacao": "2025-01-14T10:42:57Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "w9XOxe0_HnE",
+    "titulo": "(31.12.24 - 19h) Santa Missa | 7º Dia na Oitava de Natal | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/w9XOxe0_HnE/hqdefault.jpg",
+    "data_publicacao": "2025-01-01T00:16:58Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "576xoa570wM",
+    "titulo": "(19.11.24 - 19h) Santa Missa e Adoração | Capela São Carlos Borromeu | Iguatemi Bosque",
+    "thumbnail": "https://i.ytimg.com/vi/576xoa570wM/hqdefault.jpg",
+    "data_publicacao": "2024-11-20T01:39:03Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "WUZmJBeDgrc",
+    "titulo": "(23.08.24 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/WUZmJBeDgrc/hqdefault.jpg",
+    "data_publicacao": "2024-08-24T11:24:58Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "G3oRYhJGM4w",
+    "titulo": "(11h) 2º Domingo da Quaresma - Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/G3oRYhJGM4w/hqdefault.jpg",
+    "data_publicacao": "2024-02-25T16:13:59Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "7_FBAM1jWds",
+    "titulo": "SEXTA-FEIRA DA 6° SEMANA DA PÁSCOA e FESTA DE SÃO MATIAS APÓSTOLO",
+    "thumbnail": "https://i.ytimg.com/vi/7_FBAM1jWds/hqdefault.jpg",
+    "data_publicacao": "2021-05-14T22:54:22Z",
     "isLive": false,
     "isUpcoming": false
   }
