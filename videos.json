@@ -64,18 +64,18 @@
     "isUpcoming": false
   },
   {
-    "id": "jGDIeRigt6A",
-    "titulo": "(08.12.25 - 12h) Imaculada Conceição da Bem-aventurada Virgem Maria | Hora da Graça",
-    "thumbnail": "https://i.ytimg.com/vi/jGDIeRigt6A/hqdefault.jpg",
-    "data_publicacao": "2025-12-08T17:16:09Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "rl4W0YEdJ_E",
     "titulo": "(12.10.25 - 19h) Santa Missa | Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/rl4W0YEdJ_E/hqdefault.jpg",
     "data_publicacao": "2025-10-13T00:33:18Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
