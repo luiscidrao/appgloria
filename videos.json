@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "3pGT2PbjXZA",
+    "titulo": "(18.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/3pGT2PbjXZA/hqdefault.jpg",
+    "data_publicacao": "2025-12-18T23:34:08Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "G0aiXmZoGVo",
     "titulo": "(17.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/G0aiXmZoGVo/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(15.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Segunda-feira | Pe Ruan",
     "thumbnail": "https://i.ytimg.com/vi/-sr9OtOYgas/hqdefault.jpg",
     "data_publicacao": "2025-12-15T22:47:24Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "3pGT2PbjXZA",
-    "titulo": "(18.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/3pGT2PbjXZA/hqdefault.jpg",
-    "data_publicacao": "2025-12-15T13:23:58Z",
     "isLive": false,
     "isUpcoming": false
   },
