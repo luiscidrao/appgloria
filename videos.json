@@ -1,33 +1,9 @@
 [
   {
-    "id": "wCMlc3lWtrY",
-    "titulo": "(21.12.25 - 19h)  Santa Missa | 4º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/wCMlc3lWtrY/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-15T13:29:50Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "gInaNRjMujc",
-    "titulo": "(21.12.25 - 11h)  Santa Missa | 4º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/gInaNRjMujc/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-15T13:30:25Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "LCg2lhHV-7k",
     "titulo": "🔴Live",
     "thumbnail": "https://i.ytimg.com/vi/LCg2lhHV-7k/hqdefault_live.jpg",
     "data_publicacao": "2025-12-19T07:48:00Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
-    "id": "zD80dT_4f3w",
-    "titulo": "🔴Live",
-    "thumbnail": "https://i.ytimg.com/vi/zD80dT_4f3w/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-19T07:31:53Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -40,30 +16,6 @@
     "isUpcoming": false
   },
   {
-    "id": "8-IsYEt9PCw",
-    "titulo": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
-    "thumbnail": "https://i.ytimg.com/vi/8-IsYEt9PCw/hqdefault.jpg",
-    "data_publicacao": "2025-12-19T06:47:38Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "rh4DA2Uw_-Q",
-    "titulo": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
-    "thumbnail": "https://i.ytimg.com/vi/rh4DA2Uw_-Q/hqdefault.jpg",
-    "data_publicacao": "2025-12-19T06:47:11Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "jPkdhVDst8I",
-    "titulo": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
-    "thumbnail": "https://i.ytimg.com/vi/jPkdhVDst8I/hqdefault.jpg",
-    "data_publicacao": "2025-12-19T04:13:13Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "3pGT2PbjXZA",
     "titulo": "(18.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/3pGT2PbjXZA/hqdefault.jpg",
@@ -72,26 +24,74 @@
     "isUpcoming": false
   },
   {
-    "id": "v5rsB3khVEo",
-    "titulo": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
-    "thumbnail": "https://i.ytimg.com/vi/v5rsB3khVEo/hqdefault.jpg",
-    "data_publicacao": "2025-12-18T15:56:54Z",
+    "id": "G0aiXmZoGVo",
+    "titulo": "(17.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/G0aiXmZoGVo/hqdefault.jpg",
+    "data_publicacao": "2025-12-17T23:51:47Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "-I4W5OyJU_Y",
-    "titulo": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
-    "thumbnail": "https://i.ytimg.com/vi/-I4W5OyJU_Y/hqdefault.jpg",
-    "data_publicacao": "2025-12-18T15:57:09Z",
+    "id": "kYvUR3AF0_Y",
+    "titulo": "(16.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/kYvUR3AF0_Y/hqdefault.jpg",
+    "data_publicacao": "2025-12-16T23:24:16Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "anINqAtEyHk",
-    "titulo": "View the subsequent content through the homepage link#usa      #shortsvideo    #newyork",
-    "thumbnail": "https://i.ytimg.com/vi/anINqAtEyHk/hqdefault.jpg",
-    "data_publicacao": "2025-12-18T15:56:41Z",
+    "id": "09Tph6OYEBM",
+    "titulo": "(14.12.25 - 9h)  Santa Missa | 3º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/09Tph6OYEBM/hqdefault.jpg",
+    "data_publicacao": "2025-12-15T01:09:33Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "sSjzgB1w9a8",
+    "titulo": "(14.12.25 - 11h)  Santa Missa | 3º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/sSjzgB1w9a8/hqdefault.jpg",
+    "data_publicacao": "2025-12-14T16:18:13Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "rl4W0YEdJ_E",
+    "titulo": "(12.10.25 - 19h) Santa Missa | Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/rl4W0YEdJ_E/hqdefault.jpg",
+    "data_publicacao": "2025-10-13T00:33:18Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "p16HveJozMw",
+    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
+    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
+    "data_publicacao": "2025-08-12T01:10:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "afwyR7zPnN0",
+    "titulo": "(10.07.25 - 18h30) Santa Missa | 14ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/afwyR7zPnN0/hqdefault.jpg",
+    "data_publicacao": "2025-07-10T22:31:33Z",
     "isLive": false,
     "isUpcoming": false
   }
