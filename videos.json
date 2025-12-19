@@ -1,21 +1,5 @@
 [
   {
-    "id": "wCMlc3lWtrY",
-    "titulo": "(21.12.25 - 19h)  Santa Missa | 4º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/wCMlc3lWtrY/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-15T13:29:50Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "gInaNRjMujc",
-    "titulo": "(21.12.25 - 11h)  Santa Missa | 4º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/gInaNRjMujc/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-15T13:30:25Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "3pGT2PbjXZA",
     "titulo": "(18.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/3pGT2PbjXZA/hqdefault.jpg",
@@ -24,10 +8,34 @@
     "isUpcoming": false
   },
   {
+    "id": "nhRccrplB_k",
+    "titulo": "Salmo 127(128) - Felizes os que temem o Senhor e trilham seus caminhos!",
+    "thumbnail": "https://i.ytimg.com/vi/nhRccrplB_k/hqdefault.jpg",
+    "data_publicacao": "2025-12-18T10:25:25Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "tk4dO0Op_2o",
+    "titulo": "É o que Ele é  - Minuto do Evangelho com Pe. Helano Samy | Evangelho (Mt 1,1-17)",
+    "thumbnail": "https://i.ytimg.com/vi/tk4dO0Op_2o/hqdefault.jpg",
+    "data_publicacao": "2025-12-18T03:15:55Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "G0aiXmZoGVo",
     "titulo": "(17.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/G0aiXmZoGVo/hqdefault.jpg",
     "data_publicacao": "2025-12-17T23:51:47Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "fDvChCHPOSk",
+    "titulo": "Com profundo arrependimento - Minuto do Evangelho com Pe. Helano Samy | Evangelho (Mt 1,1-17)",
+    "thumbnail": "https://i.ytimg.com/vi/fDvChCHPOSk/hqdefault.jpg",
+    "data_publicacao": "2025-12-17T01:22:15Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -48,51 +56,27 @@
     "isUpcoming": false
   },
   {
-    "id": "09Tph6OYEBM",
-    "titulo": "(14.12.25 - 9h)  Santa Missa | 3º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/09Tph6OYEBM/hqdefault.jpg",
-    "data_publicacao": "2025-12-15T01:09:33Z",
+    "id": "wCMlc3lWtrY",
+    "titulo": "(21.12.25 - 19h)  Santa Missa | 4º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/wCMlc3lWtrY/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-15T13:29:50Z",
     "isLive": false,
-    "isUpcoming": false
+    "isUpcoming": true
   },
   {
-    "id": "sSjzgB1w9a8",
-    "titulo": "(14.12.25 - 11h)  Santa Missa | 3º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/sSjzgB1w9a8/hqdefault.jpg",
-    "data_publicacao": "2025-12-14T16:18:13Z",
+    "id": "gInaNRjMujc",
+    "titulo": "(21.12.25 - 11h)  Santa Missa | 4º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/gInaNRjMujc/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-15T13:30:25Z",
     "isLive": false,
-    "isUpcoming": false
+    "isUpcoming": true
   },
   {
-    "id": "LrDMc5mv6dw",
-    "titulo": "(13.12.25 - 18h30) Santa Luzia, virgem e mártir | Memória | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/LrDMc5mv6dw/hqdefault.jpg",
-    "data_publicacao": "2025-12-13T23:39:23Z",
+    "id": "ctotij7HReA",
+    "titulo": "(21.12.25 - 9h)  Santa Missa | 4º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/ctotij7HReA/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-15T13:28:22Z",
     "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "PLrAyltSXS0",
-    "titulo": "(13.12.25 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/PLrAyltSXS0/hqdefault.jpg",
-    "data_publicacao": "2025-12-13T17:01:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "rl4W0YEdJ_E",
-    "titulo": "(12.10.25 - 19h) Santa Missa | Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
-    "thumbnail": "https://i.ytimg.com/vi/rl4W0YEdJ_E/hqdefault.jpg",
-    "data_publicacao": "2025-10-13T00:33:18Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
-    "isLive": false,
-    "isUpcoming": false
+    "isUpcoming": true
   }
 ]
