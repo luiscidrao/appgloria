@@ -1,13 +1,5 @@
 [
   {
-    "id": "HTP_lQSsVDI",
-    "titulo": "(19.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/HTP_lQSsVDI/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-15T13:25:06Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "wCMlc3lWtrY",
     "titulo": "(21.12.25 - 19h)  Santa Missa | 4º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/wCMlc3lWtrY/hqdefault_live.jpg",
@@ -24,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "HTP_lQSsVDI",
+    "titulo": "(19.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/HTP_lQSsVDI/hqdefault.jpg",
+    "data_publicacao": "2025-12-19T23:28:28Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "3pGT2PbjXZA",
     "titulo": "(18.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/3pGT2PbjXZA/hqdefault.jpg",
@@ -36,22 +36,6 @@
     "titulo": "(17.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/G0aiXmZoGVo/hqdefault.jpg",
     "data_publicacao": "2025-12-17T23:51:47Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "kYvUR3AF0_Y",
-    "titulo": "(16.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/kYvUR3AF0_Y/hqdefault.jpg",
-    "data_publicacao": "2025-12-16T23:24:16Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "09Tph6OYEBM",
-    "titulo": "(14.12.25 - 9h)  Santa Missa | 3º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/09Tph6OYEBM/hqdefault.jpg",
-    "data_publicacao": "2025-12-15T01:09:33Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -100,6 +84,14 @@
     "titulo": "(10.07.25 - 18h30) Santa Missa | 14ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/afwyR7zPnN0/hqdefault.jpg",
     "data_publicacao": "2025-07-10T22:31:33Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "RU_-VUiAR_0",
+    "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
+    "data_publicacao": "2025-06-13T23:04:14Z",
     "isLive": false,
     "isUpcoming": false
   }
