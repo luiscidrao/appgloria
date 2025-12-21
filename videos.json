@@ -1,13 +1,5 @@
 [
   {
-    "id": "aeXilknaQ4E",
-    "titulo": "(21.12.25 - 17h)  Santa Missa | 4º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/aeXilknaQ4E/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-15T13:29:11Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "wCMlc3lWtrY",
     "titulo": "(21.12.25 - 19h)  Santa Missa | 4º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/wCMlc3lWtrY/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2025-12-15T13:28:22Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "aeXilknaQ4E",
+    "titulo": "(21.12.25 - 17h)  Santa Missa | 4º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/aeXilknaQ4E/hqdefault.jpg",
+    "data_publicacao": "2025-12-15T13:29:11Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "gInaNRjMujc",
@@ -92,14 +92,6 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "afwyR7zPnN0",
-    "titulo": "(10.07.25 - 18h30) Santa Missa | 14ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/afwyR7zPnN0/hqdefault.jpg",
-    "data_publicacao": "2025-07-10T22:31:33Z",
     "isLive": false,
     "isUpcoming": false
   }
