@@ -4,8 +4,8 @@
     "titulo": "(21.12.25 - 19h)  Santa Missa | 4º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/wCMlc3lWtrY/hqdefault_live.jpg",
     "data_publicacao": "2025-12-15T13:29:50Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "ctotij7HReA",
