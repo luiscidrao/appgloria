@@ -8,6 +8,14 @@
     "isUpcoming": true
   },
   {
+    "id": "aeXilknaQ4E",
+    "titulo": "(21.12.25 - 17h)  Santa Missa | 4º Domingo do Advento | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/aeXilknaQ4E/hqdefault.jpg",
+    "data_publicacao": "2025-12-22T09:05:42Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "wCMlc3lWtrY",
     "titulo": "(21.12.25 - 19h)  Santa Missa | 4º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/wCMlc3lWtrY/hqdefault.jpg",
@@ -52,14 +60,6 @@
     "titulo": "(17.12.25 - 18h30) Santa Missa | 3ª Semana do Advento | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/G0aiXmZoGVo/hqdefault.jpg",
     "data_publicacao": "2025-12-17T23:51:47Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "aeXilknaQ4E",
-    "titulo": "(21.12.25 - 17h)  Santa Missa | 4º Domingo do Advento | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/aeXilknaQ4E/hqdefault.jpg",
-    "data_publicacao": "2025-12-15T13:29:11Z",
     "isLive": false,
     "isUpcoming": false
   },
