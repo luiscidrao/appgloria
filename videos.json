@@ -1,13 +1,5 @@
 [
   {
-    "id": "GTSvYTSwBto",
-    "titulo": "(23.12.25 - 18h30) Santa Missa | 4ª Semana do Advento | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/GTSvYTSwBto/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-22T12:26:32Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "4xcc3VI3Yds",
     "titulo": "(24.12.25 - 19h)  Santa Missa | Missa da Noite do Natal do Senhor | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/4xcc3VI3Yds/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(22.12.25 - 18h30) Santa Missa | 4ª Semana do Advento | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/ETxK6ZutVFg/hqdefault.jpg",
     "data_publicacao": "2025-12-23T10:37:55Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "GTSvYTSwBto",
+    "titulo": "(23.12.25 - 18h30) Santa Missa | 4ª Semana do Advento | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/GTSvYTSwBto/hqdefault.jpg",
+    "data_publicacao": "2025-12-22T12:26:32Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "afwyR7zPnN0",
-    "titulo": "(10.07.25 - 18h30) Santa Missa | 14ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/afwyR7zPnN0/hqdefault.jpg",
-    "data_publicacao": "2025-07-10T22:31:33Z",
     "isLive": false,
     "isUpcoming": false
   }
