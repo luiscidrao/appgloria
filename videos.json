@@ -1,13 +1,5 @@
 [
   {
-    "id": "clNb-wy6VdE",
-    "titulo": "(25.12.25 - 11h) Santa Missa | Natal de Nosso Senhor Jesus Cristo, Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/clNb-wy6VdE/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-22T12:38:35Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "vIXKwIYekig",
     "titulo": "(28.12.25 - 17h)  Santa Missa | Sagrada Família de Jesus, Maria e José | Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/vIXKwIYekig/hqdefault_live.jpg",
@@ -44,6 +36,14 @@
     "titulo": "(22.12.25 - 18h30) Santa Missa | 4ª Semana do Advento | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/ETxK6ZutVFg/hqdefault.jpg",
     "data_publicacao": "2025-12-23T10:37:55Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "clNb-wy6VdE",
+    "titulo": "(25.12.25 - 11h) Santa Missa | Natal de Nosso Senhor Jesus Cristo, Solenidade | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/clNb-wy6VdE/hqdefault.jpg",
+    "data_publicacao": "2025-12-22T12:38:35Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "afwyR7zPnN0",
-    "titulo": "(10.07.25 - 18h30) Santa Missa | 14ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/afwyR7zPnN0/hqdefault.jpg",
-    "data_publicacao": "2025-07-10T22:31:33Z",
     "isLive": false,
     "isUpcoming": false
   }
