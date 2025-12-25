@@ -64,14 +64,6 @@
     "isUpcoming": false
   },
   {
-    "id": "JE_NgrmTCc8",
-    "titulo": "(20.12.25 - 18h30) Santa Missa | 4ª Semana do Advento | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/JE_NgrmTCc8/hqdefault.jpg",
-    "data_publicacao": "2025-12-20T23:21:56Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "rl4W0YEdJ_E",
     "titulo": "(12.10.25 - 19h) Santa Missa | Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/rl4W0YEdJ_E/hqdefault.jpg",
@@ -100,6 +92,14 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "afwyR7zPnN0",
+    "titulo": "(10.07.25 - 18h30) Santa Missa | 14ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/afwyR7zPnN0/hqdefault.jpg",
+    "data_publicacao": "2025-07-10T22:31:33Z",
     "isLive": false,
     "isUpcoming": false
   }
