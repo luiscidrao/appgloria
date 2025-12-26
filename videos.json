@@ -56,14 +56,6 @@
     "isUpcoming": false
   },
   {
-    "id": "ETxK6ZutVFg",
-    "titulo": "(22.12.25 - 18h30) Santa Missa | 4ª Semana do Advento | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/ETxK6ZutVFg/hqdefault.jpg",
-    "data_publicacao": "2025-12-23T10:37:55Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "wCMlc3lWtrY",
     "titulo": "(21.12.25 - 19h)  Santa Missa | 4º Domingo do Advento | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/wCMlc3lWtrY/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "p16HveJozMw",
+    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
+    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
+    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
