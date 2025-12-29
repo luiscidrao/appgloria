@@ -64,14 +64,6 @@
     "isUpcoming": false
   },
   {
-    "id": "a67trKIIAzY",
-    "titulo": "(25.12.25 - 17h) Santa Missa | Natal de Nosso Senhor Jesus Cristo, Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/a67trKIIAzY/hqdefault.jpg",
-    "data_publicacao": "2025-12-26T09:25:27Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "aOcuNSpNLyQ",
     "titulo": "(25.12.25 - 19h) Santa Missa | Natal de Nosso Senhor Jesus Cristo, Solenidade | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/aOcuNSpNLyQ/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(24.12.25 - 19h)  Santa Missa | Missa da Noite do Natal do Senhor | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/4xcc3VI3Yds/hqdefault.jpg",
     "data_publicacao": "2025-12-25T00:21:05Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
