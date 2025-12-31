@@ -1,17 +1,25 @@
 [
   {
-    "id": "OoZ7zMZWgtc",
-    "titulo": "(01.01.26 - 19h) Santa Missa | Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/OoZ7zMZWgtc/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-31T09:51:55Z",
+    "id": "jIir8dWOp7c",
+    "titulo": "(31.12.25 - 19h)  Santa Missa Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/jIir8dWOp7c/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-29T16:00:27Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "A4uOnJ4Xstg",
+    "titulo": "(31.12.25 - 23h30) Réveillon Mãe da Glória 2026 | Vigília, Adoração e Terço",
+    "thumbnail": "https://i.ytimg.com/vi/A4uOnJ4Xstg/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-31T22:15:14Z",
     "isLive": false,
     "isUpcoming": true
   },
   {
-    "id": "9ngfrry87ws",
-    "titulo": "(03.01.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/9ngfrry87ws/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-29T16:15:24Z",
+    "id": "OoZ7zMZWgtc",
+    "titulo": "(01.01.26 - 19h) Santa Missa | Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/OoZ7zMZWgtc/hqdefault_live.jpg",
+    "data_publicacao": "2025-12-31T09:51:55Z",
     "isLive": false,
     "isUpcoming": true
   },
