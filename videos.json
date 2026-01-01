@@ -1,13 +1,5 @@
 [
   {
-    "id": "YHI7wTar5ZI",
-    "titulo": "(01.01.26 - 11h) Santa Missa | Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/YHI7wTar5ZI/hqdefault_live.jpg",
-    "data_publicacao": "2025-12-29T16:03:28Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "OoZ7zMZWgtc",
     "titulo": "(01.01.26 - 19h) Santa Missa | Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/OoZ7zMZWgtc/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2025-12-29T16:15:24Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "YHI7wTar5ZI",
+    "titulo": "(01.01.26 - 11h) Santa Missa | Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/YHI7wTar5ZI/hqdefault.jpg",
+    "data_publicacao": "2026-01-01T16:52:25Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "A4uOnJ4Xstg",
@@ -92,14 +92,6 @@
     "titulo": "(26.12.25 - 18h30) Santa Missa | Santo Estêvão, protomártir - Festa | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/X_r3adjyJyU/hqdefault.jpg",
     "data_publicacao": "2025-12-27T11:05:33Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
