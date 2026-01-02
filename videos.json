@@ -56,14 +56,6 @@
     "isUpcoming": false
   },
   {
-    "id": "XkEqvsxu7AY",
-    "titulo": "(29.12.25 - 18h30) Santa Missa | 5º Dia na Oitava de Natal | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/XkEqvsxu7AY/hqdefault.jpg",
-    "data_publicacao": "2025-12-29T22:54:37Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "vIXKwIYekig",
     "titulo": "(28.12.25 - 17h)  Santa Missa | Sagrada Família de Jesus, Maria e José | Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/vIXKwIYekig/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(26.12.25 - 18h30) Santa Missa | Santo Estêvão, protomártir - Festa | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/X_r3adjyJyU/hqdefault.jpg",
     "data_publicacao": "2025-12-27T11:05:33Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
