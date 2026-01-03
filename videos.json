@@ -2,9 +2,9 @@
   {
     "id": "9ngfrry87ws",
     "titulo": "(03.01.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/9ngfrry87ws/hqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9ngfrry87ws/hqdefault.jpg",
     "data_publicacao": "2025-12-29T16:15:24Z",
-    "isLive": true,
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -84,14 +84,6 @@
     "titulo": "(28.12.25 - 11h)  Santa Missa | Sagrada Família de Jesus, Maria e José | Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/v5BJ1ovfA8o/hqdefault.jpg",
     "data_publicacao": "2025-12-28T16:21:21Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
