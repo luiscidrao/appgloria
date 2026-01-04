@@ -1,90 +1,10 @@
 [
   {
-    "id": "pw1aXyMXr8M",
-    "titulo": "(04.01.26 - 17h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/pw1aXyMXr8M/hqdefault.jpg",
-    "data_publicacao": "2025-12-29T16:13:55Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "XWhBBjuDRio",
     "titulo": "(04.01.26 - 19h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/XWhBBjuDRio/hqdefault_live.jpg",
     "data_publicacao": "2025-12-29T16:14:34Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "1-jyj2nVANI",
-    "titulo": "(04.01.26 - 11h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/1-jyj2nVANI/hqdefault.jpg",
-    "data_publicacao": "2026-01-04T16:31:17Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "9ngfrry87ws",
-    "titulo": "(03.01.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/9ngfrry87ws/hqdefault.jpg",
-    "data_publicacao": "2026-01-04T02:01:25Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "2GEVoipLtqM",
-    "titulo": "(03.01.26 - 18h30) Santa Missa | Epifania do Senhor, Solenidade | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/2GEVoipLtqM/hqdefault.jpg",
-    "data_publicacao": "2026-01-03T23:37:39Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "T78489PKB6U",
-    "titulo": "(02.01.26 - 18h30) Santa Missa | Santos Basílio Magno e Gregório Nazianzeno | Memória | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/T78489PKB6U/hqdefault.jpg",
-    "data_publicacao": "2026-01-03T00:08:17Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "OoZ7zMZWgtc",
-    "titulo": "(01.01.26 - 19h) Santa Missa | Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/OoZ7zMZWgtc/hqdefault.jpg",
-    "data_publicacao": "2026-01-02T00:45:04Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "YHI7wTar5ZI",
-    "titulo": "(01.01.26 - 11h) Santa Missa | Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/YHI7wTar5ZI/hqdefault.jpg",
-    "data_publicacao": "2026-01-01T16:52:25Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "jIir8dWOp7c",
-    "titulo": "(31.12.25 - 19h)  Santa Missa Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/jIir8dWOp7c/hqdefault.jpg",
-    "data_publicacao": "2026-01-01T00:47:08Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "0RMMqZ2xSNE",
-    "titulo": "(30.12.25 - 18h30) Santa Missa | Adoração na Glória - Adriana Arydes e Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/0RMMqZ2xSNE/hqdefault.jpg",
-    "data_publicacao": "2025-12-31T01:56:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "12Yn0O7pVF4",
-    "titulo": "(28.12.25 - 19h)  Santa Missa | Sagrada Família de Jesus, Maria e José | Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/12Yn0O7pVF4/hqdefault.jpg",
-    "data_publicacao": "2025-12-29T00:30:34Z",
-    "isLive": false,
+    "isLive": true,
     "isUpcoming": false
   }
 ]
