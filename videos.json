@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "1-jyj2nVANI",
+    "titulo": "(04.01.26 - 11h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/1-jyj2nVANI/hqdefault.jpg",
+    "data_publicacao": "2026-01-04T16:31:17Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "9ngfrry87ws",
     "titulo": "(03.01.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/9ngfrry87ws/hqdefault.jpg",
@@ -68,14 +76,6 @@
     "titulo": "(30.12.25 - 18h30) Santa Missa | Adoração na Glória - Adriana Arydes e Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/0RMMqZ2xSNE/hqdefault.jpg",
     "data_publicacao": "2025-12-31T01:56:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "1-jyj2nVANI",
-    "titulo": "(04.01.26 - 11h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/1-jyj2nVANI/hqdefault.jpg",
-    "data_publicacao": "2025-12-29T16:12:58Z",
     "isLive": false,
     "isUpcoming": false
   },
