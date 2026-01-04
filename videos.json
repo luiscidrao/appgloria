@@ -2,9 +2,9 @@
   {
     "id": "pw1aXyMXr8M",
     "titulo": "(04.01.26 - 17h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/pw1aXyMXr8M/hqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/pw1aXyMXr8M/hqdefault.jpg",
     "data_publicacao": "2025-12-29T16:13:55Z",
-    "isLive": true,
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -84,14 +84,6 @@
     "titulo": "(28.12.25 - 19h)  Santa Missa | Sagrada Família de Jesus, Maria e José | Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/12Yn0O7pVF4/hqdefault.jpg",
     "data_publicacao": "2025-12-29T00:30:34Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "v5BJ1ovfA8o",
-    "titulo": "(28.12.25 - 11h)  Santa Missa | Sagrada Família de Jesus, Maria e José | Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/v5BJ1ovfA8o/hqdefault.jpg",
-    "data_publicacao": "2025-12-28T16:21:21Z",
     "isLive": false,
     "isUpcoming": false
   }
