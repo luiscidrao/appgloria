@@ -1,5 +1,13 @@
 [
   {
+    "id": "pw1aXyMXr8M",
+    "titulo": "(04.01.26 - 17h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/pw1aXyMXr8M/hqdefault.jpg",
+    "data_publicacao": "2026-01-05T11:24:57Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "XWhBBjuDRio",
     "titulo": "(04.01.26 - 19h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/XWhBBjuDRio/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(30.12.25 - 18h30) Santa Missa | Adoração na Glória - Adriana Arydes e Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/0RMMqZ2xSNE/hqdefault.jpg",
     "data_publicacao": "2025-12-31T01:56:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "pw1aXyMXr8M",
-    "titulo": "(04.01.26 - 17h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/pw1aXyMXr8M/hqdefault.jpg",
-    "data_publicacao": "2025-12-29T16:13:55Z",
     "isLive": false,
     "isUpcoming": false
   },
