@@ -1,13 +1,5 @@
 [
   {
-    "id": "cvJcORdeRiQ",
-    "titulo": "(06.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/cvJcORdeRiQ/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-05T16:02:22Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "kaQpzazRyFo",
     "titulo": "(11.01.26 - 11h)  Santa Missa | Batismo do Senhor | Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/kaQpzazRyFo/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(05.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/eLs_IamabW8/hqdefault.jpg",
     "data_publicacao": "2026-01-05T22:42:54Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cvJcORdeRiQ",
+    "titulo": "(06.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/cvJcORdeRiQ/hqdefault.jpg",
+    "data_publicacao": "2026-01-05T16:02:22Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "p16HveJozMw",
-    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
-    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
-    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
