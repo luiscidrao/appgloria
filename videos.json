@@ -72,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "2GEVoipLtqM",
-    "titulo": "(03.01.26 - 18h30) Santa Missa | Epifania do Senhor, Solenidade | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/2GEVoipLtqM/hqdefault.jpg",
-    "data_publicacao": "2026-01-03T23:37:39Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "OoZ7zMZWgtc",
     "titulo": "(01.01.26 - 19h) Santa Missa | Santa Maria, Mãe de Deus, Solenidade | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/OoZ7zMZWgtc/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "p16HveJozMw",
+    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
+    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
+    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
