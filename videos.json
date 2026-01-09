@@ -1,13 +1,5 @@
 [
   {
-    "id": "Dk4P02dCF1M",
-    "titulo": "(09.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Dk4P02dCF1M/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-05T16:05:40Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "LAQRmO-nucw",
     "titulo": "(13.01.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | ANA CLARA E ÍTALO POETA",
     "thumbnail": "https://i.ytimg.com/vi/LAQRmO-nucw/hqdefault_live.jpg",
@@ -44,6 +36,14 @@
     "titulo": "(05.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/eLs_IamabW8/hqdefault.jpg",
     "data_publicacao": "2026-01-05T22:42:54Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "Dk4P02dCF1M",
+    "titulo": "(09.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/Dk4P02dCF1M/hqdefault.jpg",
+    "data_publicacao": "2026-01-05T16:05:40Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
     "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
     "data_publicacao": "2025-08-12T01:10:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "E3brG6Y7iek",
-    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
-    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
-    "data_publicacao": "2025-07-30T09:13:49Z",
     "isLive": false,
     "isUpcoming": false
   }
