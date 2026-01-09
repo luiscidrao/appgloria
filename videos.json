@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "1AtxZnLslBA",
+    "titulo": "(07.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/1AtxZnLslBA/hqdefault.jpg",
+    "data_publicacao": "2026-01-09T17:40:26Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "cvJcORdeRiQ",
     "titulo": "(06.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/cvJcORdeRiQ/hqdefault.jpg",
@@ -28,14 +36,6 @@
     "titulo": "(05.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/eLs_IamabW8/hqdefault.jpg",
     "data_publicacao": "2026-01-05T22:42:54Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "1AtxZnLslBA",
-    "titulo": "(07.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/1AtxZnLslBA/hqdefault.jpg",
-    "data_publicacao": "2026-01-05T16:03:20Z",
     "isLive": false,
     "isUpcoming": false
   },
