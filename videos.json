@@ -56,14 +56,6 @@
     "isUpcoming": false
   },
   {
-    "id": "1-jyj2nVANI",
-    "titulo": "(04.01.26 - 11h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/1-jyj2nVANI/hqdefault.jpg",
-    "data_publicacao": "2026-01-04T16:31:17Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "cTxLSHARTSg",
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
     "data_publicacao": "2025-06-13T23:04:14Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "6Xf2_mCihLY",
+    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
+    "data_publicacao": "2025-01-14T10:42:57Z",
     "isLive": false,
     "isUpcoming": false
   }
