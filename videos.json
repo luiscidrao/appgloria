@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "Dk4P02dCF1M",
+    "titulo": "(09.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/Dk4P02dCF1M/hqdefault.jpg",
+    "data_publicacao": "2026-01-10T06:22:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "d0UiqQLd6fM",
     "titulo": "(08.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/d0UiqQLd6fM/hqdefault.jpg",
@@ -32,26 +40,10 @@
     "isUpcoming": false
   },
   {
-    "id": "cvJcORdeRiQ",
-    "titulo": "(06.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/cvJcORdeRiQ/hqdefault.jpg",
-    "data_publicacao": "2026-01-07T00:31:44Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "eLs_IamabW8",
     "titulo": "(05.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/eLs_IamabW8/hqdefault.jpg",
     "data_publicacao": "2026-01-05T22:42:54Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Dk4P02dCF1M",
-    "titulo": "(09.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Dk4P02dCF1M/hqdefault.jpg",
-    "data_publicacao": "2026-01-05T16:05:40Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -72,14 +64,6 @@
     "isUpcoming": false
   },
   {
-    "id": "9ngfrry87ws",
-    "titulo": "(03.01.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/9ngfrry87ws/hqdefault.jpg",
-    "data_publicacao": "2026-01-04T02:01:25Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "cTxLSHARTSg",
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
@@ -92,6 +76,22 @@
     "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
     "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
     "data_publicacao": "2025-08-12T01:10:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "RU_-VUiAR_0",
+    "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
+    "data_publicacao": "2025-06-13T23:04:14Z",
     "isLive": false,
     "isUpcoming": false
   }
