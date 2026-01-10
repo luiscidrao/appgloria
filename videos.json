@@ -40,14 +40,6 @@
     "isUpcoming": false
   },
   {
-    "id": "eLs_IamabW8",
-    "titulo": "(05.01.26 - 18h30) Santa Missa | Tempo do Natal depois da Epifania | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/eLs_IamabW8/hqdefault.jpg",
-    "data_publicacao": "2026-01-05T22:42:54Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "XWhBBjuDRio",
     "titulo": "(04.01.26 - 19h)  Santa Missa | Epifania do Senhor, Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/XWhBBjuDRio/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
     "data_publicacao": "2025-01-14T10:42:57Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "w9XOxe0_HnE",
+    "titulo": "(31.12.24 - 19h) Santa Missa | 7º Dia na Oitava de Natal | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/w9XOxe0_HnE/hqdefault.jpg",
+    "data_publicacao": "2025-01-01T00:16:58Z",
     "isLive": false,
     "isUpcoming": false
   }
