@@ -1,13 +1,5 @@
 [
   {
-    "id": "pnNlmAExoPQ",
-    "titulo": "(11.01.26 - 17h)  Santa Missa | Batismo do Senhor | Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/pnNlmAExoPQ/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-05T16:08:42Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "LAQRmO-nucw",
     "titulo": "(13.01.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | ANA CLARA E ÍTALO POETA",
     "thumbnail": "https://i.ytimg.com/vi/LAQRmO-nucw/hqdefault_live.jpg",
@@ -64,6 +56,14 @@
     "isUpcoming": false
   },
   {
+    "id": "pnNlmAExoPQ",
+    "titulo": "(11.01.26 - 17h)  Santa Missa | Batismo do Senhor | Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/pnNlmAExoPQ/hqdefault.jpg",
+    "data_publicacao": "2026-01-05T16:08:42Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "cTxLSHARTSg",
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
@@ -92,14 +92,6 @@
     "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
     "data_publicacao": "2025-06-13T23:04:14Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "6Xf2_mCihLY",
-    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
-    "data_publicacao": "2025-01-14T10:42:57Z",
     "isLive": false,
     "isUpcoming": false
   }
