@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "pnNlmAExoPQ",
+    "titulo": "(11.01.26 - 17h)  Santa Missa | Batismo do Senhor | Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/pnNlmAExoPQ/hqdefault.jpg",
+    "data_publicacao": "2026-01-12T09:20:57Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "b5nq4XJOnlA",
     "titulo": "(11.01.26 - 19h)  Santa Missa | Batismo do Senhor | Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/b5nq4XJOnlA/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(07.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/1AtxZnLslBA/hqdefault.jpg",
     "data_publicacao": "2026-01-09T17:40:26Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "pnNlmAExoPQ",
-    "titulo": "(11.01.26 - 17h)  Santa Missa | Batismo do Senhor | Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/pnNlmAExoPQ/hqdefault.jpg",
-    "data_publicacao": "2026-01-05T16:08:42Z",
     "isLive": false,
     "isUpcoming": false
   },
