@@ -2,9 +2,9 @@
   {
     "id": "dZaEnRtoXDo",
     "titulo": "(14.01.26 - 18:30h)  Santa Missa | Quarta feira",
-    "thumbnail": "https://i.ytimg.com/vi/dZaEnRtoXDo/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-14T21:27:04Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/dZaEnRtoXDo/hqdefault.jpg",
+    "data_publicacao": "2026-01-14T22:44:28Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -76,14 +76,6 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "p16HveJozMw",
-    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
-    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
-    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
