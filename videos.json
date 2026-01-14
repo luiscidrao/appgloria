@@ -72,18 +72,18 @@
     "isUpcoming": false
   },
   {
-    "id": "d0UiqQLd6fM",
-    "titulo": "(08.01.26 - 18h30h)  Santa Missa | Tempo do Natal depois da Epifania | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/d0UiqQLd6fM/hqdefault.jpg",
-    "data_publicacao": "2026-01-09T23:59:02Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "cTxLSHARTSg",
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "p16HveJozMw",
+    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
+    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
+    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
