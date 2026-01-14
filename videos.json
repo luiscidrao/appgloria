@@ -1,13 +1,5 @@
 [
   {
-    "id": "LAQRmO-nucw",
-    "titulo": "(13.01.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | ANA CLARA E ÍTALO POETA",
-    "thumbnail": "https://i.ytimg.com/vi/LAQRmO-nucw/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-08T18:18:01Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "zE2EZfDelRY",
     "titulo": "(13.01.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/zE2EZfDelRY/hqdefault.jpg",
@@ -72,18 +64,18 @@
     "isUpcoming": false
   },
   {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
+    "id": "LAQRmO-nucw",
+    "titulo": "(13.01.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | ANA CLARA E ÍTALO POETA",
+    "thumbnail": "https://i.ytimg.com/vi/LAQRmO-nucw/hqdefault.jpg",
+    "data_publicacao": "2026-01-08T18:18:01Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "p16HveJozMw",
-    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
-    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
-    "data_publicacao": "2025-08-12T01:10:20Z",
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
