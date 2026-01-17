@@ -16,34 +16,18 @@
     "isUpcoming": true
   },
   {
-    "id": "oBpmnL_vrVA",
-    "titulo": "(17.01.26 - 18h30)  Santa Missa | 2º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/oBpmnL_vrVA/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-15T13:54:24Z",
+    "id": "QnhFezaUOtw",
+    "titulo": "(16.01.26 - 19h)  Santa Missa | 1ª Semana do Tempo Comum | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/QnhFezaUOtw/hqdefault.jpg",
+    "data_publicacao": "2026-01-17T11:12:14Z",
     "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "ich1AgyU77s",
-    "titulo": "(18.01.26 - 19h) Santa Missa | 2º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/ich1AgyU77s/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-15T13:51:09Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isUpcoming": false
   },
   {
     "id": "u6svRQ6YwW0",
     "titulo": "(15.01.26 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/u6svRQ6YwW0/hqdefault.jpg",
     "data_publicacao": "2026-01-16T10:47:25Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "QnhFezaUOtw",
-    "titulo": "(16.01.26 - 19h)  Santa Missa | 1ª Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/QnhFezaUOtw/hqdefault.jpg",
-    "data_publicacao": "2026-01-15T13:49:43Z",
     "isLive": false,
     "isUpcoming": false
   },
