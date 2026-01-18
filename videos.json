@@ -40,14 +40,6 @@
     "isUpcoming": false
   },
   {
-    "id": "dZaEnRtoXDo",
-    "titulo": "(14.01.26 - 18:30h)  Santa Missa | 1ª Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/dZaEnRtoXDo/hqdefault.jpg",
-    "data_publicacao": "2026-01-14T22:44:28Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "LAQRmO-nucw",
     "titulo": "(13.01.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | ANA CLARA E ÍTALO POETA",
     "thumbnail": "https://i.ytimg.com/vi/LAQRmO-nucw/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
     "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
     "data_publicacao": "2025-08-12T01:10:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
     "isLive": false,
     "isUpcoming": false
   }
