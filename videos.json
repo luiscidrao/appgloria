@@ -1,13 +1,5 @@
 [
   {
-    "id": "R-cTwRSfMQY",
-    "titulo": "(19.01.26 - 18h30) Santa Missa | 2ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/R-cTwRSfMQY/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-19T12:17:09Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "4PghFnEY5E0",
     "titulo": "Terço das Famílias",
     "thumbnail": "https://i.ytimg.com/vi/4PghFnEY5E0/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-01-19T12:39:12Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "R-cTwRSfMQY",
+    "titulo": "(19.01.26 - 18h30) Santa Missa | 2ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/R-cTwRSfMQY/hqdefault.jpg",
+    "data_publicacao": "2026-01-19T12:17:09Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "ich1AgyU77s",
@@ -92,14 +92,6 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "p16HveJozMw",
-    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
-    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
-    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
