@@ -1,13 +1,5 @@
 [
   {
-    "id": "5waBkYT5Lys",
-    "titulo": "(20.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/5waBkYT5Lys/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-19T12:34:01Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "4PghFnEY5E0",
     "titulo": "Terço das Famílias",
     "thumbnail": "https://i.ytimg.com/vi/4PghFnEY5E0/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(19.01.26 - 18h30) Santa Missa | 2ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/R-cTwRSfMQY/hqdefault.jpg",
     "data_publicacao": "2026-01-19T23:52:47Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "5waBkYT5Lys",
+    "titulo": "(20.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/5waBkYT5Lys/hqdefault.jpg",
+    "data_publicacao": "2026-01-19T12:34:01Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -68,14 +68,6 @@
     "titulo": "(15.01.26 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/u6svRQ6YwW0/hqdefault.jpg",
     "data_publicacao": "2026-01-16T10:47:25Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "zE2EZfDelRY",
-    "titulo": "(13.01.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/zE2EZfDelRY/hqdefault.jpg",
-    "data_publicacao": "2026-01-13T17:43:55Z",
     "isLive": false,
     "isUpcoming": false
   },
