@@ -32,14 +32,6 @@
     "isUpcoming": true
   },
   {
-    "id": "0SfAGnCS5po",
-    "titulo": "(21.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/0SfAGnCS5po/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-19T12:35:21Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "5waBkYT5Lys",
     "titulo": "(20.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/5waBkYT5Lys/hqdefault.jpg",
@@ -52,6 +44,14 @@
     "titulo": "(19.01.26 - 18h30) Santa Missa | 2ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/R-cTwRSfMQY/hqdefault.jpg",
     "data_publicacao": "2026-01-19T23:52:47Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "0SfAGnCS5po",
+    "titulo": "(21.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/0SfAGnCS5po/hqdefault.jpg",
+    "data_publicacao": "2026-01-19T12:35:21Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -80,14 +80,6 @@
     "isUpcoming": false
   },
   {
-    "id": "oBpmnL_vrVA",
-    "titulo": "(17.01.26 - 18h30)  Santa Missa | 2º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/oBpmnL_vrVA/hqdefault.jpg",
-    "data_publicacao": "2026-01-17T22:59:25Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "PHOfPKd__kc",
     "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
@@ -108,6 +100,14 @@
     "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
     "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
     "data_publicacao": "2025-08-12T01:10:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
     "isLive": false,
     "isUpcoming": false
   }
