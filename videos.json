@@ -4,8 +4,8 @@
     "titulo": "Terço das Famílias",
     "thumbnail": "https://i.ytimg.com/vi/4PghFnEY5E0/hqdefault_live.jpg",
     "data_publicacao": "2026-01-19T13:36:05Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "KnrRj2WxZyA",
@@ -14,6 +14,14 @@
     "data_publicacao": "2026-01-19T12:39:12Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "vG0fDLnHaQY",
+    "titulo": "(22.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/vG0fDLnHaQY/hqdefault.jpg",
+    "data_publicacao": "2026-01-22T23:20:40Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "0SfAGnCS5po",
@@ -36,14 +44,6 @@
     "titulo": "(19.01.26 - 18h30) Santa Missa | 2ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/R-cTwRSfMQY/hqdefault.jpg",
     "data_publicacao": "2026-01-19T23:52:47Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "vG0fDLnHaQY",
-    "titulo": "(22.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/vG0fDLnHaQY/hqdefault.jpg",
-    "data_publicacao": "2026-01-19T12:36:08Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,46 +92,6 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "RU_-VUiAR_0",
-    "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
-    "data_publicacao": "2025-06-13T23:04:14Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "6Xf2_mCihLY",
-    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
-    "data_publicacao": "2025-01-14T10:42:57Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "w9XOxe0_HnE",
-    "titulo": "(31.12.24 - 19h) Santa Missa | 7º Dia na Oitava de Natal | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/w9XOxe0_HnE/hqdefault.jpg",
-    "data_publicacao": "2025-01-01T00:16:58Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "576xoa570wM",
-    "titulo": "(19.11.24 - 19h) Santa Missa e Adoração | Capela São Carlos Borromeu | Iguatemi Bosque",
-    "thumbnail": "https://i.ytimg.com/vi/576xoa570wM/hqdefault.jpg",
-    "data_publicacao": "2024-11-20T01:39:03Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "G3oRYhJGM4w",
-    "titulo": "(11h) 2º Domingo da Quaresma - Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/G3oRYhJGM4w/hqdefault.jpg",
-    "data_publicacao": "2024-02-25T16:13:59Z",
     "isLive": false,
     "isUpcoming": false
   }
