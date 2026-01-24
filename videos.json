@@ -40,14 +40,6 @@
     "isUpcoming": false
   },
   {
-    "id": "5waBkYT5Lys",
-    "titulo": "(20.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/5waBkYT5Lys/hqdefault.jpg",
-    "data_publicacao": "2026-01-21T02:18:18Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "R-cTwRSfMQY",
     "titulo": "(19.01.26 - 18h30) Santa Missa | 2ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/R-cTwRSfMQY/hqdefault.jpg",
@@ -84,6 +76,14 @@
     "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
     "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
     "data_publicacao": "2025-08-12T01:10:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
     "isLive": false,
     "isUpcoming": false
   }
