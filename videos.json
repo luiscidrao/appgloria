@@ -48,14 +48,6 @@
     "isUpcoming": false
   },
   {
-    "id": "KUgKwjcteg4",
-    "titulo": "(18.01.26 - 11h)  Santa Missa | 2º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/KUgKwjcteg4/hqdefault.jpg",
-    "data_publicacao": "2026-01-18T17:11:00Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "PHOfPKd__kc",
     "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
@@ -84,6 +76,14 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "RU_-VUiAR_0",
+    "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
+    "data_publicacao": "2025-06-13T23:04:14Z",
     "isLive": false,
     "isUpcoming": false
   }
