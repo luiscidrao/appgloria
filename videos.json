@@ -1,13 +1,5 @@
 [
   {
-    "id": "KnrRj2WxZyA",
-    "titulo": "(24.01.26 - 18h30)  Santa Missa | 3º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/KnrRj2WxZyA/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-19T12:39:12Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "birWkWY8JB4",
     "titulo": "(23.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/birWkWY8JB4/hqdefault.jpg",
@@ -36,6 +28,14 @@
     "titulo": "(21.01.26 - 18h30)  Santa Missa | 2ª Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/0SfAGnCS5po/hqdefault.jpg",
     "data_publicacao": "2026-01-22T10:59:25Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "KnrRj2WxZyA",
+    "titulo": "(24.01.26 - 18h30)  Santa Missa | 3º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/KnrRj2WxZyA/hqdefault.jpg",
+    "data_publicacao": "2026-01-19T12:39:12Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -76,14 +76,6 @@
     "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
     "data_publicacao": "2025-06-13T23:04:14Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "6Xf2_mCihLY",
-    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
-    "data_publicacao": "2025-01-14T10:42:57Z",
     "isLive": false,
     "isUpcoming": false
   }
