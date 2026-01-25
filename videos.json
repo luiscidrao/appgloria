@@ -1,13 +1,5 @@
 [
   {
-    "id": "b4_2Ml-GzVo",
-    "titulo": "(25.01.26 - 17h)  Santa Missa | 3º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/b4_2Ml-GzVo/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-25T15:32:24Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "l9NvA-maGVo",
     "titulo": "(30.01.26 - 18h30)  Santa Missa | 3ª Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/l9NvA-maGVo/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-01-25T15:45:37Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "b4_2Ml-GzVo",
+    "titulo": "(25.01.26 - 17h)  Santa Missa | 3º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/b4_2Ml-GzVo/hqdefault.jpg",
+    "data_publicacao": "2026-01-25T15:32:24Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "3sY0txymjoA",
@@ -92,14 +92,6 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "RU_-VUiAR_0",
-    "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
-    "data_publicacao": "2025-06-13T23:04:14Z",
     "isLive": false,
     "isUpcoming": false
   }
