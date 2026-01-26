@@ -40,6 +40,14 @@
     "isUpcoming": true
   },
   {
+    "id": "b4_2Ml-GzVo",
+    "titulo": "(25.01.26 - 17h)  Santa Missa | 3º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/b4_2Ml-GzVo/hqdefault.jpg",
+    "data_publicacao": "2026-01-26T10:24:59Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "3sY0txymjoA",
     "titulo": "(25.01.26 - 11h)  Santa Missa | 3º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/3sY0txymjoA/hqdefault.jpg",
@@ -52,14 +60,6 @@
     "titulo": "(25.01.26 - 19h)  Santa Missa | 3º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/fNCwmNh3nZo/hqdefault.jpg",
     "data_publicacao": "2026-01-26T00:17:57Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "b4_2Ml-GzVo",
-    "titulo": "(25.01.26 - 17h)  Santa Missa | 3º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/b4_2Ml-GzVo/hqdefault.jpg",
-    "data_publicacao": "2026-01-25T15:32:24Z",
     "isLive": false,
     "isUpcoming": false
   },
