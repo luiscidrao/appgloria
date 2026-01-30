@@ -1,5 +1,13 @@
 [
   {
+    "id": "l9NvA-maGVo",
+    "titulo": "(30.01.26 - 18h30)  Santa Missa | 3ª Semana do Tempo Comum | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/l9NvA-maGVo/hqdefault_live.jpg",
+    "data_publicacao": "2026-01-25T15:46:40Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
     "id": "T171lD9gSM8",
     "titulo": "(01.02.26 - 19h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/T171lD9gSM8/hqdefault_live.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(27.01.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA",
     "thumbnail": "https://i.ytimg.com/vi/c_DvvDQt0yI/hqdefault.jpg",
     "data_publicacao": "2026-01-28T00:33:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "fNCwmNh3nZo",
-    "titulo": "(25.01.26 - 19h)  Santa Missa | 3º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/fNCwmNh3nZo/hqdefault.jpg",
-    "data_publicacao": "2026-01-26T00:17:57Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,6 +92,14 @@
     "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
     "data_publicacao": "2025-01-14T10:42:57Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "w9XOxe0_HnE",
+    "titulo": "(31.12.24 - 19h) Santa Missa | 7º Dia na Oitava de Natal | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/w9XOxe0_HnE/hqdefault.jpg",
+    "data_publicacao": "2025-01-01T00:16:58Z",
     "isLive": false,
     "isUpcoming": false
   }
