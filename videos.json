@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "HAEr4BcFE8c",
+    "titulo": "(29.01.26 - 18h30)  Santa Missa | 3ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/HAEr4BcFE8c/hqdefault.jpg",
+    "data_publicacao": "2026-01-30T10:42:39Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "3XlMbRBPI-w",
     "titulo": "(28.01.26 - 18h30)  Santa Missa | 3ª Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/3XlMbRBPI-w/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(25.01.26 - 19h)  Santa Missa | 3º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/fNCwmNh3nZo/hqdefault.jpg",
     "data_publicacao": "2026-01-26T00:17:57Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "HAEr4BcFE8c",
-    "titulo": "(29.01.26 - 18h30)  Santa Missa | 3ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/HAEr4BcFE8c/hqdefault.jpg",
-    "data_publicacao": "2026-01-25T15:45:37Z",
     "isLive": false,
     "isUpcoming": false
   },
