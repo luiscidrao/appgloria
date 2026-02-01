@@ -1,13 +1,5 @@
 [
   {
-    "id": "T171lD9gSM8",
-    "titulo": "(01.02.26 - 19h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/T171lD9gSM8/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-28T18:04:49Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "EmFS-t9fppE",
     "titulo": "(01.01.26 - 17h) Santa Missa | Dom Lázaro OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/EmFS-t9fppE/hqdefault.jpg",
@@ -16,10 +8,10 @@
     "isUpcoming": false
   },
   {
-    "id": "uV-_Byt4NOg",
-    "titulo": "(01.02.26 - 17h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/uV-_Byt4NOg/hqdefault.jpg",
-    "data_publicacao": "2026-01-28T18:04:01Z",
+    "id": "T171lD9gSM8",
+    "titulo": "(01.02.26 - 19h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/T171lD9gSM8/hqdefault.jpg",
+    "data_publicacao": "2026-01-28T18:04:49Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -56,6 +48,14 @@
     "isUpcoming": false
   },
   {
+    "id": "uV-_Byt4NOg",
+    "titulo": "(01.02.26 - 17h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/uV-_Byt4NOg/hqdefault.jpg",
+    "data_publicacao": "2026-01-28T18:04:01Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "c_DvvDQt0yI",
     "titulo": "(27.01.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA",
     "thumbnail": "https://i.ytimg.com/vi/c_DvvDQt0yI/hqdefault.jpg",
@@ -76,14 +76,6 @@
     "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
     "data_publicacao": "2025-09-14T16:20:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "p16HveJozMw",
-    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
-    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
-    "data_publicacao": "2025-08-12T01:10:20Z",
     "isLive": false,
     "isUpcoming": false
   }
