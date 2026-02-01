@@ -18,9 +18,9 @@
   {
     "id": "uV-_Byt4NOg",
     "titulo": "(01.02.26 - 17h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/uV-_Byt4NOg/hqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uV-_Byt4NOg/hqdefault.jpg",
     "data_publicacao": "2026-01-28T18:04:01Z",
-    "isLive": true,
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -92,14 +92,6 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "RU_-VUiAR_0",
-    "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
-    "data_publicacao": "2025-06-13T23:04:14Z",
     "isLive": false,
     "isUpcoming": false
   }
