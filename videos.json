@@ -1,13 +1,5 @@
 [
   {
-    "id": "C-S7AnmatAs",
-    "titulo": "(01.02.26 - 11h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/C-S7AnmatAs/hqdefault_live.jpg",
-    "data_publicacao": "2026-01-28T18:03:16Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "EmFS-t9fppE",
     "titulo": "(01.01.26 - 17h) Santa Missa | Dom Lázaro OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/EmFS-t9fppE/hqdefault_live.jpg",
@@ -44,6 +36,14 @@
     "titulo": "(29.01.26 - 18h30)  Santa Missa | 3ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/HAEr4BcFE8c/hqdefault.jpg",
     "data_publicacao": "2026-01-30T10:42:39Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "C-S7AnmatAs",
+    "titulo": "(01.02.26 - 11h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/C-S7AnmatAs/hqdefault.jpg",
+    "data_publicacao": "2026-01-28T18:03:16Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "(13.06.25 - 18h30) Santa Missa | Santo Antônio de Pádua presbítero e doutor da Igreja | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/RU_-VUiAR_0/hqdefault.jpg",
     "data_publicacao": "2025-06-13T23:04:14Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "6Xf2_mCihLY",
-    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
-    "data_publicacao": "2025-01-14T10:42:57Z",
     "isLive": false,
     "isUpcoming": false
   }
