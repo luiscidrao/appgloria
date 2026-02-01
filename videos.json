@@ -4,8 +4,8 @@
     "titulo": "(01.01.26 - 17h) Santa Missa | Dom Lázaro OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/EmFS-t9fppE/hqdefault_live.jpg",
     "data_publicacao": "2026-02-01T11:14:51Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "T171lD9gSM8",
@@ -14,6 +14,14 @@
     "data_publicacao": "2026-01-28T18:04:49Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "uV-_Byt4NOg",
+    "titulo": "(01.02.26 - 17h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/uV-_Byt4NOg/hqdefault_live.jpg",
+    "data_publicacao": "2026-01-28T18:04:01Z",
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "C-S7AnmatAs",
