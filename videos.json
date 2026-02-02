@@ -1,5 +1,13 @@
 [
   {
+    "id": "uV-_Byt4NOg",
+    "titulo": "(01.02.26 - 17h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/uV-_Byt4NOg/hqdefault.jpg",
+    "data_publicacao": "2026-02-02T09:29:27Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "T171lD9gSM8",
     "titulo": "(01.02.26 - 19h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/T171lD9gSM8/hqdefault.jpg",
@@ -44,14 +52,6 @@
     "titulo": "(29.01.26 - 18h30)  Santa Missa | 3ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/HAEr4BcFE8c/hqdefault.jpg",
     "data_publicacao": "2026-01-30T10:42:39Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "uV-_Byt4NOg",
-    "titulo": "(01.02.26 - 17h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/uV-_Byt4NOg/hqdefault.jpg",
-    "data_publicacao": "2026-01-28T18:04:01Z",
     "isLive": false,
     "isUpcoming": false
   },
