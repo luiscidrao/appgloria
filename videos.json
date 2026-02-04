@@ -1,13 +1,5 @@
 [
   {
-    "id": "VPe5SaRHBjs",
-    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-02T16:27:12Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "XeLNXWlra50",
     "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault_live.jpg",
@@ -60,6 +52,22 @@
     "titulo": "(02.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/Z6uLlhtNTBw/hqdefault.jpg",
     "data_publicacao": "2026-02-03T11:06:28Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "VPe5SaRHBjs",
+    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
+    "data_publicacao": "2026-02-02T16:27:12Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "p9G73b8SBE8",
+    "titulo": "(04.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/p9G73b8SBE8/hqdefault.jpg",
+    "data_publicacao": "2026-02-02T16:13:13Z",
     "isLive": false,
     "isUpcoming": false
   },
