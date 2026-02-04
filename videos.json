@@ -1,17 +1,17 @@
 [
   {
-    "id": "Ox0rcQv4otE",
-    "titulo": "(03.02.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
-    "thumbnail": "https://i.ytimg.com/vi/Ox0rcQv4otE/hqdefault.jpg",
-    "data_publicacao": "2026-02-03T11:58:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "XeLNXWlra50",
     "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault_live.jpg",
     "data_publicacao": "2026-02-02T16:40:41Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "J5U94bQntBw",
+    "titulo": "(09.02.26 - 19h) Santa Missa | Pe. Helano Samy - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/J5U94bQntBw/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:38:08Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -28,6 +28,14 @@
     "titulo": "(02.02.26 - 19h) Santa Missa | Dom Marcos OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/OtzvlsOm5is/hqdefault.jpg",
     "data_publicacao": "2026-02-03T14:23:26Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "Ox0rcQv4otE",
+    "titulo": "(03.02.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
+    "thumbnail": "https://i.ytimg.com/vi/Ox0rcQv4otE/hqdefault.jpg",
+    "data_publicacao": "2026-02-03T11:58:20Z",
     "isLive": false,
     "isUpcoming": false
   },
