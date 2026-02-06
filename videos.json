@@ -1,19 +1,27 @@
 [
   {
-    "id": "P0S4xeuui_k",
-    "titulo": "(05.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/P0S4xeuui_k/hqdefault.jpg",
-    "data_publicacao": "2026-02-05T23:36:27Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "XeLNXWlra50",
     "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault_live.jpg",
     "data_publicacao": "2026-02-02T16:40:41Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "J5U94bQntBw",
+    "titulo": "(09.02.26 - 19h) Santa Missa | Pe. Helano Samy - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/J5U94bQntBw/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:38:08Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "P0S4xeuui_k",
+    "titulo": "(05.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/P0S4xeuui_k/hqdefault.jpg",
+    "data_publicacao": "2026-02-05T23:36:27Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "VPe5SaRHBjs",
