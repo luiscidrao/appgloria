@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "OcrI0MPfIPM",
+    "titulo": "(05.02.26 - 19h) Santa Missa | Pe. Juscimar Gregório - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/OcrI0MPfIPM/hqdefault.jpg",
+    "data_publicacao": "2026-02-06T11:43:41Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "P0S4xeuui_k",
     "titulo": "(05.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/P0S4xeuui_k/hqdefault.jpg",
@@ -76,14 +84,6 @@
     "titulo": "(02.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/Z6uLlhtNTBw/hqdefault.jpg",
     "data_publicacao": "2026-02-03T11:06:28Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "OcrI0MPfIPM",
-    "titulo": "(05.02.26 - 19h) Santa Missa | Pe. Juscimar Gregório - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/OcrI0MPfIPM/hqdefault.jpg",
-    "data_publicacao": "2026-02-02T16:29:57Z",
     "isLive": false,
     "isUpcoming": false
   },
