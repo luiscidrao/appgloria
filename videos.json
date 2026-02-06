@@ -1,13 +1,5 @@
 [
   {
-    "id": "Umj0aWzlMCo",
-    "titulo": "(06.02.26 - 19h) Santa Missa | Pe. Luiz Furtado - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/Umj0aWzlMCo/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-02T16:32:03Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "XeLNXWlra50",
     "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault_live.jpg",
@@ -88,18 +80,18 @@
     "isUpcoming": false
   },
   {
-    "id": "uV-_Byt4NOg",
-    "titulo": "(01.02.26 - 17h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/uV-_Byt4NOg/hqdefault.jpg",
-    "data_publicacao": "2026-02-02T09:29:27Z",
+    "id": "Umj0aWzlMCo",
+    "titulo": "(06.02.26 - 19h) Santa Missa | Pe. Luiz Furtado - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/Umj0aWzlMCo/hqdefault.jpg",
+    "data_publicacao": "2026-02-02T16:32:03Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "C-S7AnmatAs",
-    "titulo": "(01.02.26 - 11h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/C-S7AnmatAs/hqdefault.jpg",
-    "data_publicacao": "2026-02-01T16:36:16Z",
+    "id": "Q-PbgVpH6dI",
+    "titulo": "(06.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/Q-PbgVpH6dI/hqdefault.jpg",
+    "data_publicacao": "2026-02-02T16:15:23Z",
     "isLive": false,
     "isUpcoming": false
   }
