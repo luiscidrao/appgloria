@@ -1,21 +1,5 @@
 [
   {
-    "id": "kz2nRd1goXA",
-    "titulo": "(07.02.26 - 19h) Santa Missa | Pe. José Augusto - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/kz2nRd1goXA/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-02T16:34:48Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
-    "id": "xjfYHrQBaG8",
-    "titulo": "(07.02.26 - 18h30) Santa Missa | 5º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/xjfYHrQBaG8/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-02T16:17:18Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "XeLNXWlra50",
     "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault_live.jpg",
@@ -88,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "En_OB3KT4W0",
-    "titulo": "(03.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/En_OB3KT4W0/hqdefault.jpg",
-    "data_publicacao": "2026-02-03T23:35:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "Z6uLlhtNTBw",
     "titulo": "(02.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/Z6uLlhtNTBw/hqdefault.jpg",
@@ -104,10 +80,18 @@
     "isUpcoming": false
   },
   {
-    "id": "C-S7AnmatAs",
-    "titulo": "(01.02.26 - 11h)  Santa Missa | 4º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/C-S7AnmatAs/hqdefault.jpg",
-    "data_publicacao": "2026-02-01T16:36:16Z",
+    "id": "kz2nRd1goXA",
+    "titulo": "(07.02.26 - 19h) Santa Missa | Pe. José Augusto - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/kz2nRd1goXA/hqdefault.jpg",
+    "data_publicacao": "2026-02-02T16:34:48Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "xjfYHrQBaG8",
+    "titulo": "(07.02.26 - 18h30) Santa Missa | 5º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/xjfYHrQBaG8/hqdefault.jpg",
+    "data_publicacao": "2026-02-02T16:17:18Z",
     "isLive": false,
     "isUpcoming": false
   }
