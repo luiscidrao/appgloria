@@ -2,9 +2,9 @@
   {
     "id": "nK2nD9OdwE8",
     "titulo": "Tarde da Misericórdia | Um dia especial de oração e defesa da vida",
-    "thumbnail": "https://i.ytimg.com/vi/nK2nD9OdwE8/hqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/nK2nD9OdwE8/hqdefault.jpg",
     "data_publicacao": "2026-02-08T11:30:10Z",
-    "isLive": true,
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -84,14 +84,6 @@
     "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
     "data_publicacao": "2026-02-05T11:29:04Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "En_OB3KT4W0",
-    "titulo": "(03.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/En_OB3KT4W0/hqdefault.jpg",
-    "data_publicacao": "2026-02-03T23:35:01Z",
     "isLive": false,
     "isUpcoming": false
   }
