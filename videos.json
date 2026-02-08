@@ -4,8 +4,8 @@
     "titulo": "Tarde da Misericórdia | Um dia especial de oração e defesa da vida",
     "thumbnail": "https://i.ytimg.com/vi/nK2nD9OdwE8/hqdefault_live.jpg",
     "data_publicacao": "2026-02-08T11:30:10Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "XeLNXWlra50",
@@ -16,12 +16,52 @@
     "isUpcoming": true
   },
   {
+    "id": "J5U94bQntBw",
+    "titulo": "(09.02.26 - 19h) Santa Missa | Pe. Helano Samy - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/J5U94bQntBw/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:38:08Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "t-G1VNf8Kk4",
+    "titulo": "(10.02.26 - 19h) Santa Missa | Pe. Vanderlúcio Souza - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/t-G1VNf8Kk4/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:39:23Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "fyUttDFgVLc",
+    "titulo": "(08.02.26 - 17h) Santa Missa | Pe. Éder Lopes - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/fyUttDFgVLc/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:36:56Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "SOopS2GKNpE",
+    "titulo": "(08.02.26 - 17h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/SOopS2GKNpE/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:19:44Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
     "id": "PSfVRX65h5s",
     "titulo": "(08.02.26 - 11h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/PSfVRX65h5s/hqdefault.jpg",
     "data_publicacao": "2026-02-08T17:42:56Z",
     "isLive": false,
     "isUpcoming": false
+  },
+  {
+    "id": "aXMI0TDo-f8",
+    "titulo": "(08.02.26 - 19h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/aXMI0TDo-f8/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:18:08Z",
+    "isLive": false,
+    "isUpcoming": true
   },
   {
     "id": "kz2nRd1goXA",
