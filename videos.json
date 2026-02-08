@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "8IfZ5isVebY",
+    "titulo": "(07.02.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
+    "thumbnail": "https://i.ytimg.com/vi/8IfZ5isVebY/hqdefault.jpg",
+    "data_publicacao": "2026-02-08T02:19:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "xjfYHrQBaG8",
     "titulo": "(07.02.26 - 18h30) Santa Missa | 5º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/xjfYHrQBaG8/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(06.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/Q-PbgVpH6dI/hqdefault.jpg",
     "data_publicacao": "2026-02-07T11:25:23Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "8IfZ5isVebY",
-    "titulo": "(07.02.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/8IfZ5isVebY/hqdefault.jpg",
-    "data_publicacao": "2026-02-07T10:17:41Z",
     "isLive": false,
     "isUpcoming": false
   },
