@@ -1,13 +1,5 @@
 [
   {
-    "id": "PSfVRX65h5s",
-    "titulo": "(08.02.26 - 11h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/PSfVRX65h5s/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-02T16:18:59Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "nK2nD9OdwE8",
     "titulo": "Tarde da Misericórdia | Um dia especial de oração e defesa da vida",
     "thumbnail": "https://i.ytimg.com/vi/nK2nD9OdwE8/hqdefault_live.jpg",
@@ -80,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "VPe5SaRHBjs",
-    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
-    "data_publicacao": "2026-02-05T11:29:04Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "En_OB3KT4W0",
     "titulo": "(03.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/En_OB3KT4W0/hqdefault.jpg",
@@ -100,6 +84,14 @@
     "titulo": "(02.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/Z6uLlhtNTBw/hqdefault.jpg",
     "data_publicacao": "2026-02-03T11:06:28Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "PSfVRX65h5s",
+    "titulo": "(08.02.26 - 11h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/PSfVRX65h5s/hqdefault.jpg",
+    "data_publicacao": "2026-02-02T16:18:59Z",
     "isLive": false,
     "isUpcoming": false
   }
