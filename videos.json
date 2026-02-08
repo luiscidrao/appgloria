@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "kz2nRd1goXA",
+    "titulo": "(07.02.26 - 19h) Santa Missa | Pe. José Augusto - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/kz2nRd1goXA/hqdefault.jpg",
+    "data_publicacao": "2026-02-08T11:37:35Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "8IfZ5isVebY",
     "titulo": "(07.02.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/8IfZ5isVebY/hqdefault.jpg",
@@ -84,14 +92,6 @@
     "titulo": "(02.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/Z6uLlhtNTBw/hqdefault.jpg",
     "data_publicacao": "2026-02-03T11:06:28Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "kz2nRd1goXA",
-    "titulo": "(07.02.26 - 19h) Santa Missa | Pe. José Augusto - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/kz2nRd1goXA/hqdefault.jpg",
-    "data_publicacao": "2026-02-02T16:34:48Z",
     "isLive": false,
     "isUpcoming": false
   }
