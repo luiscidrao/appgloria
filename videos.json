@@ -1,13 +1,5 @@
 [
   {
-    "id": "aXMI0TDo-f8",
-    "titulo": "(08.02.26 - 19h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/aXMI0TDo-f8/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-02T16:18:08Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "nK2nD9OdwE8",
     "titulo": "Tarde da Misericórdia | Um dia especial de oração e defesa da vida",
     "thumbnail": "https://i.ytimg.com/vi/nK2nD9OdwE8/hqdefault.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-02-02T16:40:41Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "aXMI0TDo-f8",
+    "titulo": "(08.02.26 - 19h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/aXMI0TDo-f8/hqdefault.jpg",
+    "data_publicacao": "2026-02-09T00:22:36Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "PSfVRX65h5s",
@@ -76,14 +76,6 @@
     "titulo": "(05.02.26 - 19h) Santa Missa | Pe. Juscimar Gregório - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/OcrI0MPfIPM/hqdefault.jpg",
     "data_publicacao": "2026-02-06T11:43:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "P0S4xeuui_k",
-    "titulo": "(05.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/P0S4xeuui_k/hqdefault.jpg",
-    "data_publicacao": "2026-02-05T23:36:27Z",
     "isLive": false,
     "isUpcoming": false
   },
