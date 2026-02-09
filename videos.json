@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "fyUttDFgVLc",
+    "titulo": "(08.02.26 - 17h) Santa Missa | Pe. Éder Lopes - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/fyUttDFgVLc/hqdefault.jpg",
+    "data_publicacao": "2026-02-09T09:37:07Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "SOopS2GKNpE",
     "titulo": "(08.02.26 - 17h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/SOopS2GKNpE/hqdefault.jpg",
@@ -84,14 +92,6 @@
     "titulo": "(06.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/Q-PbgVpH6dI/hqdefault.jpg",
     "data_publicacao": "2026-02-07T11:25:23Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "OcrI0MPfIPM",
-    "titulo": "(05.02.26 - 19h) Santa Missa | Pe. Juscimar Gregório - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/OcrI0MPfIPM/hqdefault.jpg",
-    "data_publicacao": "2026-02-06T11:43:41Z",
     "isLive": false,
     "isUpcoming": false
   }
