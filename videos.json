@@ -1,17 +1,17 @@
 [
   {
-    "id": "nK2nD9OdwE8",
-    "titulo": "Tarde da Misericórdia | Um dia especial de oração e defesa da vida",
-    "thumbnail": "https://i.ytimg.com/vi/nK2nD9OdwE8/hqdefault.jpg",
-    "data_publicacao": "2026-02-08T11:30:10Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "XeLNXWlra50",
     "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault_live.jpg",
     "data_publicacao": "2026-02-02T16:40:41Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "J5U94bQntBw",
+    "titulo": "(09.02.26 - 19h) Santa Missa | Pe. Helano Samy - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/J5U94bQntBw/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:38:08Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -36,6 +36,14 @@
     "titulo": "(07.02.26 - 19h) Santa Missa | Pe. José Augusto - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/kz2nRd1goXA/hqdefault.jpg",
     "data_publicacao": "2026-02-08T11:37:35Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "nK2nD9OdwE8",
+    "titulo": "Tarde da Misericórdia | Um dia especial de oração e defesa da vida",
+    "thumbnail": "https://i.ytimg.com/vi/nK2nD9OdwE8/hqdefault.jpg",
+    "data_publicacao": "2026-02-08T11:30:10Z",
     "isLive": false,
     "isUpcoming": false
   },
