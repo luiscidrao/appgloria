@@ -1,9 +1,9 @@
 [
   {
-    "id": "hIzmaKyXQRk",
-    "titulo": "(09.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/hIzmaKyXQRk/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:19:13Z",
+    "id": "J5U94bQntBw",
+    "titulo": "(09.02.26 - 19h) Santa Missa | Pe. Helano Samy - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/J5U94bQntBw/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:38:08Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -22,6 +22,14 @@
     "data_publicacao": "2026-02-09T16:30:39Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "hIzmaKyXQRk",
+    "titulo": "(09.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/hIzmaKyXQRk/hqdefault.jpg",
+    "data_publicacao": "2026-02-09T16:19:13Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "fyUttDFgVLc",
@@ -92,14 +100,6 @@
     "titulo": "(06.02.26 - 19h) Santa Missa | Pe. Luiz Furtado - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/Umj0aWzlMCo/hqdefault.jpg",
     "data_publicacao": "2026-02-07T11:37:07Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Q-PbgVpH6dI",
-    "titulo": "(06.02.26 - 18h30) Santa Missa | 4ª Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Q-PbgVpH6dI/hqdefault.jpg",
-    "data_publicacao": "2026-02-07T11:25:23Z",
     "isLive": false,
     "isUpcoming": false
   }
