@@ -1,21 +1,5 @@
 [
   {
-    "id": "hi5WA4RB1E0",
-    "titulo": "(10.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | PE. NETO RÊGO",
-    "thumbnail": "https://i.ytimg.com/vi/hi5WA4RB1E0/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:20:38Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
-    "id": "fxAY56eceBg",
-    "titulo": "(10.02.26 - 20h) Movimento Aviva | Adoração ao Santíssimo Sacramento - Capela de N. Sra. de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/fxAY56eceBg/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-10T23:30:26Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
@@ -120,6 +104,22 @@
     "isUpcoming": false
   },
   {
+    "id": "hi5WA4RB1E0",
+    "titulo": "(10.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | PE. NETO RÊGO",
+    "thumbnail": "https://i.ytimg.com/vi/hi5WA4RB1E0/hqdefault.jpg",
+    "data_publicacao": "2026-02-11T01:59:11Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "fxAY56eceBg",
+    "titulo": "(10.02.26 - 20h) Movimento Aviva | Adoração ao Santíssimo Sacramento - Capela de N. Sra. de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/fxAY56eceBg/hqdefault.jpg",
+    "data_publicacao": "2026-02-10T23:30:26Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "J5U94bQntBw",
     "titulo": "(09.02.26 - 19h) Santa Missa | Pe. Helano Samy - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/J5U94bQntBw/hqdefault.jpg",
@@ -180,22 +180,6 @@
     "titulo": "(07.02.26 - 19h) Santa Missa | Pe. José Augusto - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/kz2nRd1goXA/hqdefault.jpg",
     "data_publicacao": "2026-02-08T11:37:35Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "8IfZ5isVebY",
-    "titulo": "(07.02.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/8IfZ5isVebY/hqdefault.jpg",
-    "data_publicacao": "2026-02-08T02:19:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "xjfYHrQBaG8",
-    "titulo": "(07.02.26 - 18h30) Santa Missa | 5º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/xjfYHrQBaG8/hqdefault.jpg",
-    "data_publicacao": "2026-02-07T23:48:45Z",
     "isLive": false,
     "isUpcoming": false
   }
