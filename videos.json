@@ -1,9 +1,9 @@
 [
   {
-    "id": "wTqv5_C2wyA",
-    "titulo": "(11.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/wTqv5_C2wyA/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:21:43Z",
+    "id": "XeLNXWlra50",
+    "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-02T16:40:41Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -64,6 +64,14 @@
     "isUpcoming": false
   },
   {
+    "id": "wTqv5_C2wyA",
+    "titulo": "(11.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/wTqv5_C2wyA/hqdefault.jpg",
+    "data_publicacao": "2026-02-09T16:21:43Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "fyUttDFgVLc",
     "titulo": "(08.02.26 - 17h) Santa Missa | Pe. Éder Lopes - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/fyUttDFgVLc/hqdefault.jpg",
@@ -92,14 +100,6 @@
     "titulo": "(08.02.26 - 19h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/aXMI0TDo-f8/hqdefault.jpg",
     "data_publicacao": "2026-02-09T00:22:36Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "PSfVRX65h5s",
-    "titulo": "(08.02.26 - 11h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/PSfVRX65h5s/hqdefault.jpg",
-    "data_publicacao": "2026-02-08T17:42:56Z",
     "isLive": false,
     "isUpcoming": false
   }
