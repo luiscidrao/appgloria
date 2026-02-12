@@ -1,13 +1,5 @@
 [
   {
-    "id": "XeLNXWlra50",
-    "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-02T16:40:41Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-02-09T16:30:39Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "wTqv5_C2wyA",
+    "titulo": "(11.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/wTqv5_C2wyA/hqdefault.jpg",
+    "data_publicacao": "2026-02-12T00:16:24Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "fxAY56eceBg",
@@ -60,14 +60,6 @@
     "titulo": "(09.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/hIzmaKyXQRk/hqdefault.jpg",
     "data_publicacao": "2026-02-10T10:40:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "wTqv5_C2wyA",
-    "titulo": "(11.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/wTqv5_C2wyA/hqdefault.jpg",
-    "data_publicacao": "2026-02-09T16:21:43Z",
     "isLive": false,
     "isUpcoming": false
   },
