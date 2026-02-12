@@ -1,13 +1,5 @@
 [
   {
-    "id": "N7Cqtoa0ZkM",
-    "titulo": "(12.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/N7Cqtoa0ZkM/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:23:01Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
@@ -20,62 +12,6 @@
     "titulo": "(17.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/tunHg5YaxPU/hqdefault_live.jpg",
     "data_publicacao": "2026-02-09T16:30:39Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "GIQADhwRXvA",
-    "titulo": "(16.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/GIQADhwRXvA/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:29:45Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "KBNuOduqUoo",
-    "titulo": "(15.02.26 - 17h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/KBNuOduqUoo/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:27:08Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "xU7-2JREyVA",
-    "titulo": "(15.02.26 - 11h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/xU7-2JREyVA/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:28:26Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "v3zE4DRSyt4",
-    "titulo": "(15.02.26 - 19h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/v3zE4DRSyt4/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:27:44Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "MgulrslMjBI",
-    "titulo": "(13.02.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/MgulrslMjBI/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:26:09Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "07kiuutG7Mo",
-    "titulo": "(14.02.26 - 18h30) Santa Missa | 6º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/07kiuutG7Mo/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:25:37Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "vlXNpOEfSAw",
-    "titulo": "(13.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/vlXNpOEfSAw/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:23:51Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -136,6 +72,14 @@
     "isUpcoming": false
   },
   {
+    "id": "N7Cqtoa0ZkM",
+    "titulo": "(12.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/N7Cqtoa0ZkM/hqdefault.jpg",
+    "data_publicacao": "2026-02-09T16:23:01Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "SOopS2GKNpE",
     "titulo": "(08.02.26 - 17h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/SOopS2GKNpE/hqdefault.jpg",
@@ -148,94 +92,6 @@
     "titulo": "(08.02.26 - 19h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/aXMI0TDo-f8/hqdefault.jpg",
     "data_publicacao": "2026-02-09T00:22:36Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "PSfVRX65h5s",
-    "titulo": "(08.02.26 - 11h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/PSfVRX65h5s/hqdefault.jpg",
-    "data_publicacao": "2026-02-08T17:42:56Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "8IfZ5isVebY",
-    "titulo": "(07.02.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/8IfZ5isVebY/hqdefault.jpg",
-    "data_publicacao": "2026-02-08T02:19:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "VPe5SaRHBjs",
-    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
-    "data_publicacao": "2026-02-05T11:29:04Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "PHOfPKd__kc",
-    "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
-    "data_publicacao": "2026-01-10T23:44:52Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "p16HveJozMw",
-    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
-    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
-    "data_publicacao": "2025-08-12T01:10:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "E3brG6Y7iek",
-    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
-    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
-    "data_publicacao": "2025-07-30T09:13:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "6Xf2_mCihLY",
-    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
-    "data_publicacao": "2025-01-14T10:42:57Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "w9XOxe0_HnE",
-    "titulo": "(31.12.24 - 19h) Santa Missa | 7º Dia na Oitava de Natal | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/w9XOxe0_HnE/hqdefault.jpg",
-    "data_publicacao": "2025-01-01T00:16:58Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "576xoa570wM",
-    "titulo": "(19.11.24 - 19h) Santa Missa e Adoração | Capela São Carlos Borromeu | Iguatemi Bosque",
-    "thumbnail": "https://i.ytimg.com/vi/576xoa570wM/hqdefault.jpg",
-    "data_publicacao": "2024-11-20T01:39:03Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "G3oRYhJGM4w",
-    "titulo": "(11h) 2º Domingo da Quaresma - Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/G3oRYhJGM4w/hqdefault.jpg",
-    "data_publicacao": "2024-02-25T16:13:59Z",
     "isLive": false,
     "isUpcoming": false
   }
