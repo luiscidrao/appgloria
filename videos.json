@@ -88,18 +88,18 @@
     "isUpcoming": false
   },
   {
-    "id": "PSfVRX65h5s",
-    "titulo": "(08.02.26 - 11h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/PSfVRX65h5s/hqdefault.jpg",
-    "data_publicacao": "2026-02-08T17:42:56Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "8IfZ5isVebY",
     "titulo": "(07.02.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/8IfZ5isVebY/hqdefault.jpg",
     "data_publicacao": "2026-02-08T02:19:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "VPe5SaRHBjs",
+    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
+    "data_publicacao": "2026-02-05T11:29:04Z",
     "isLive": false,
     "isUpcoming": false
   }
