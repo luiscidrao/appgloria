@@ -1,13 +1,5 @@
 [
   {
-    "id": "MgulrslMjBI",
-    "titulo": "(13.02.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/MgulrslMjBI/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:26:09Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-02-09T16:30:39Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "MgulrslMjBI",
+    "titulo": "(13.02.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/MgulrslMjBI/hqdefault.jpg",
+    "data_publicacao": "2026-02-13T17:05:52Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "N7Cqtoa0ZkM",
@@ -92,14 +92,6 @@
     "titulo": "(07.02.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/8IfZ5isVebY/hqdefault.jpg",
     "data_publicacao": "2026-02-08T02:19:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "VPe5SaRHBjs",
-    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
-    "data_publicacao": "2026-02-05T11:29:04Z",
     "isLive": false,
     "isUpcoming": false
   }
