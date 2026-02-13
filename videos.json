@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "N7Cqtoa0ZkM",
+    "titulo": "(12.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/N7Cqtoa0ZkM/hqdefault.jpg",
+    "data_publicacao": "2026-02-13T11:09:26Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "XeLNXWlra50",
     "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault.jpg",
@@ -64,22 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "hIzmaKyXQRk",
-    "titulo": "(09.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/hIzmaKyXQRk/hqdefault.jpg",
-    "data_publicacao": "2026-02-10T10:40:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "N7Cqtoa0ZkM",
-    "titulo": "(12.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/N7Cqtoa0ZkM/hqdefault.jpg",
-    "data_publicacao": "2026-02-09T16:23:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "aXMI0TDo-f8",
     "titulo": "(08.02.26 - 19h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/aXMI0TDo-f8/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(08.02.26 - 11h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/PSfVRX65h5s/hqdefault.jpg",
     "data_publicacao": "2026-02-08T17:42:56Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "8IfZ5isVebY",
+    "titulo": "(07.02.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
+    "thumbnail": "https://i.ytimg.com/vi/8IfZ5isVebY/hqdefault.jpg",
+    "data_publicacao": "2026-02-08T02:19:20Z",
     "isLive": false,
     "isUpcoming": false
   }
