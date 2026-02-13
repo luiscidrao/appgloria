@@ -88,18 +88,18 @@
     "isUpcoming": false
   },
   {
-    "id": "aXMI0TDo-f8",
-    "titulo": "(08.02.26 - 19h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/aXMI0TDo-f8/hqdefault.jpg",
-    "data_publicacao": "2026-02-09T00:22:36Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "VPe5SaRHBjs",
     "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
     "data_publicacao": "2026-02-05T11:29:04Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "PHOfPKd__kc",
+    "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
+    "data_publicacao": "2026-01-10T23:44:52Z",
     "isLive": false,
     "isUpcoming": false
   }
