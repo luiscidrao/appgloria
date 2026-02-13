@@ -80,18 +80,18 @@
     "isUpcoming": false
   },
   {
-    "id": "SOopS2GKNpE",
-    "titulo": "(08.02.26 - 17h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/SOopS2GKNpE/hqdefault.jpg",
-    "data_publicacao": "2026-02-09T09:11:27Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "aXMI0TDo-f8",
     "titulo": "(08.02.26 - 19h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/aXMI0TDo-f8/hqdefault.jpg",
     "data_publicacao": "2026-02-09T00:22:36Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "PSfVRX65h5s",
+    "titulo": "(08.02.26 - 11h)  Santa Missa | 5º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/PSfVRX65h5s/hqdefault.jpg",
+    "data_publicacao": "2026-02-08T17:42:56Z",
     "isLive": false,
     "isUpcoming": false
   }
