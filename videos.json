@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "vlXNpOEfSAw",
+    "titulo": "(13.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/vlXNpOEfSAw/hqdefault.jpg",
+    "data_publicacao": "2026-02-14T00:21:21Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "MgulrslMjBI",
     "titulo": "(13.02.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/MgulrslMjBI/hqdefault.jpg",
@@ -76,14 +84,6 @@
     "titulo": "(09.02.26 - 19h) Santa Missa | Pe. Helano Samy - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/J5U94bQntBw/hqdefault.jpg",
     "data_publicacao": "2026-02-10T14:06:50Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "vlXNpOEfSAw",
-    "titulo": "(13.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/vlXNpOEfSAw/hqdefault.jpg",
-    "data_publicacao": "2026-02-09T16:23:51Z",
     "isLive": false,
     "isUpcoming": false
   },
