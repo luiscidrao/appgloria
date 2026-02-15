@@ -1,13 +1,5 @@
 [
   {
-    "id": "KBNuOduqUoo",
-    "titulo": "(15.02.26 - 17h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/KBNuOduqUoo/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:27:08Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
@@ -96,10 +88,10 @@
     "isUpcoming": false
   },
   {
-    "id": "VPe5SaRHBjs",
-    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
-    "data_publicacao": "2026-02-05T11:29:04Z",
+    "id": "KBNuOduqUoo",
+    "titulo": "(15.02.26 - 17h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/KBNuOduqUoo/hqdefault.jpg",
+    "data_publicacao": "2026-02-09T16:27:08Z",
     "isLive": false,
     "isUpcoming": false
   }
