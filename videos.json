@@ -72,26 +72,26 @@
     "isUpcoming": false
   },
   {
-    "id": "hi5WA4RB1E0",
-    "titulo": "(10.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | PE. NETO RÊGO",
-    "thumbnail": "https://i.ytimg.com/vi/hi5WA4RB1E0/hqdefault.jpg",
-    "data_publicacao": "2026-02-11T01:59:11Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "J5U94bQntBw",
-    "titulo": "(09.02.26 - 19h) Santa Missa | Pe. Helano Samy - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/J5U94bQntBw/hqdefault.jpg",
-    "data_publicacao": "2026-02-10T14:06:50Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "07kiuutG7Mo",
     "titulo": "(14.02.26 - 18h30) Santa Missa | 6º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/07kiuutG7Mo/hqdefault.jpg",
     "data_publicacao": "2026-02-09T16:25:37Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "VPe5SaRHBjs",
+    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
+    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
+    "data_publicacao": "2026-02-05T11:29:04Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "PHOfPKd__kc",
+    "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
+    "data_publicacao": "2026-01-10T23:44:52Z",
     "isLive": false,
     "isUpcoming": false
   }
