@@ -48,14 +48,6 @@
     "isUpcoming": false
   },
   {
-    "id": "wTqv5_C2wyA",
-    "titulo": "(11.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/wTqv5_C2wyA/hqdefault.jpg",
-    "data_publicacao": "2026-02-12T00:16:24Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "fxAY56eceBg",
     "titulo": "(10.02.26 - 20h) Movimento Aviva | Adoração ao Santíssimo Sacramento - Capela de N. Sra. de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/fxAY56eceBg/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
     "data_publicacao": "2026-02-05T11:29:04Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "PHOfPKd__kc",
+    "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
+    "data_publicacao": "2026-01-10T23:44:52Z",
     "isLive": false,
     "isUpcoming": false
   }
