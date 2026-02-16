@@ -1,13 +1,5 @@
 [
   {
-    "id": "v3zE4DRSyt4",
-    "titulo": "(15.02.26 - 19h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/v3zE4DRSyt4/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:27:44Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-02-09T16:30:39Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "v3zE4DRSyt4",
+    "titulo": "(15.02.26 - 19h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/v3zE4DRSyt4/hqdefault.jpg",
+    "data_publicacao": "2026-02-16T00:23:39Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "xU7-2JREyVA",
@@ -92,14 +92,6 @@
     "titulo": "(10.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | PE. NETO RÊGO",
     "thumbnail": "https://i.ytimg.com/vi/hi5WA4RB1E0/hqdefault.jpg",
     "data_publicacao": "2026-02-11T01:59:11Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "KBNuOduqUoo",
-    "titulo": "(15.02.26 - 17h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/KBNuOduqUoo/hqdefault.jpg",
-    "data_publicacao": "2026-02-09T16:27:08Z",
     "isLive": false,
     "isUpcoming": false
   }
