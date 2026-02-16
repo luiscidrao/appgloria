@@ -80,18 +80,18 @@
     "isUpcoming": false
   },
   {
-    "id": "t-G1VNf8Kk4",
-    "titulo": "(10.02.26 - 19h) Santa Missa | Pe. Vanderlúcio Souza - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/t-G1VNf8Kk4/hqdefault.jpg",
-    "data_publicacao": "2026-02-11T11:40:59Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "hi5WA4RB1E0",
     "titulo": "(10.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | PE. NETO RÊGO",
     "thumbnail": "https://i.ytimg.com/vi/hi5WA4RB1E0/hqdefault.jpg",
     "data_publicacao": "2026-02-11T01:59:11Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "KBNuOduqUoo",
+    "titulo": "(15.02.26 - 17h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/KBNuOduqUoo/hqdefault.jpg",
+    "data_publicacao": "2026-02-09T16:27:08Z",
     "isLive": false,
     "isUpcoming": false
   }
