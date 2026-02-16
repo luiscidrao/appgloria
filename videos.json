@@ -1,13 +1,5 @@
 [
   {
-    "id": "GIQADhwRXvA",
-    "titulo": "(16.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/GIQADhwRXvA/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:29:45Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-02-09T16:30:39Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "GIQADhwRXvA",
+    "titulo": "(16.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/GIQADhwRXvA/hqdefault.jpg",
+    "data_publicacao": "2026-02-09T16:29:45Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "KBNuOduqUoo",
@@ -92,14 +92,6 @@
     "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
     "data_publicacao": "2026-01-10T23:44:52Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
