@@ -56,14 +56,6 @@
     "isUpcoming": false
   },
   {
-    "id": "MgulrslMjBI",
-    "titulo": "(13.02.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/MgulrslMjBI/hqdefault.jpg",
-    "data_publicacao": "2026-02-13T17:05:52Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "XeLNXWlra50",
     "titulo": "(11.02.26 - 19h) Santa Missa | Dom Gregório Paixão OSB - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/XeLNXWlra50/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
     "data_publicacao": "2026-01-10T23:44:52Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
