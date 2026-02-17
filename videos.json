@@ -1,13 +1,5 @@
 [
   {
-    "id": "tunHg5YaxPU",
-    "titulo": "(17.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/tunHg5YaxPU/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:30:39Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "yj6RmsXBAeU",
     "titulo": "(17.02.26 - 22h) Vigília na Glória | O mover do Espirito Santo | Inicio da quaresma com Frei Gilson",
     "thumbnail": "https://i.ytimg.com/vi/yj6RmsXBAeU/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-02-09T16:31:27Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "tunHg5YaxPU",
+    "titulo": "(17.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/tunHg5YaxPU/hqdefault.jpg",
+    "data_publicacao": "2026-02-17T22:56:40Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "GIQADhwRXvA",
@@ -92,14 +92,6 @@
     "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
     "data_publicacao": "2026-01-10T23:44:52Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
