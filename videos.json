@@ -4,8 +4,8 @@
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
     "data_publicacao": "2026-02-09T16:31:27Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "tunHg5YaxPU",
@@ -56,14 +56,6 @@
     "isUpcoming": false
   },
   {
-    "id": "VPe5SaRHBjs",
-    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
-    "data_publicacao": "2026-02-05T11:29:04Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "PHOfPKd__kc",
     "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
@@ -72,18 +64,26 @@
     "isUpcoming": false
   },
   {
-    "id": "cTxLSHARTSg",
-    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
-    "data_publicacao": "2025-09-14T16:20:49Z",
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "p16HveJozMw",
-    "titulo": "(11.08.25 - 19h) Santa Missa | Dom Aurélio | Glória 25",
-    "thumbnail": "https://i.ytimg.com/vi/p16HveJozMw/hqdefault.jpg",
-    "data_publicacao": "2025-08-12T01:10:20Z",
+    "id": "6Xf2_mCihLY",
+    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
+    "data_publicacao": "2025-01-14T10:42:57Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "576xoa570wM",
+    "titulo": "(19.11.24 - 19h) Santa Missa e Adoração | Capela São Carlos Borromeu | Iguatemi Bosque",
+    "thumbnail": "https://i.ytimg.com/vi/576xoa570wM/hqdefault.jpg",
+    "data_publicacao": "2024-11-20T01:39:03Z",
     "isLive": false,
     "isUpcoming": false
   }
