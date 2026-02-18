@@ -72,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "hi5WA4RB1E0",
-    "titulo": "(10.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | PE. NETO RÊGO",
-    "thumbnail": "https://i.ytimg.com/vi/hi5WA4RB1E0/hqdefault.jpg",
-    "data_publicacao": "2026-02-11T01:59:11Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "VPe5SaRHBjs",
     "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
     "data_publicacao": "2026-01-10T23:44:52Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
