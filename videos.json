@@ -2,9 +2,9 @@
   {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
-    "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-09T16:31:27Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault.jpg",
+    "data_publicacao": "2026-02-18T16:37:12Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -76,14 +76,6 @@
     "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
     "data_publicacao": "2025-01-14T10:42:57Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "576xoa570wM",
-    "titulo": "(19.11.24 - 19h) Santa Missa e Adoração | Capela São Carlos Borromeu | Iguatemi Bosque",
-    "thumbnail": "https://i.ytimg.com/vi/576xoa570wM/hqdefault.jpg",
-    "data_publicacao": "2024-11-20T01:39:03Z",
     "isLive": false,
     "isUpcoming": false
   }
