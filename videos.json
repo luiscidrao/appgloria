@@ -1,17 +1,17 @@
 [
   {
-    "id": "IZiNhSq_ssE",
-    "titulo": "(18.02.26 - 19h)  Santa Missa | Quarta-feira de Cinzas",
-    "thumbnail": "https://i.ytimg.com/vi/IZiNhSq_ssE/hqdefault.jpg",
-    "data_publicacao": "2026-02-19T00:40:52Z",
+    "id": "JUeP5yfM8Q4",
+    "titulo": "(18.02.26 - 17h)  Santa Missa | Quarta-feira de Cinzas",
+    "thumbnail": "https://i.ytimg.com/vi/JUeP5yfM8Q4/hqdefault.jpg",
+    "data_publicacao": "2026-02-19T09:15:48Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "JUeP5yfM8Q4",
-    "titulo": "(18.02.26 - 17h)  Santa Missa | Quarta-feira de Cinzas",
-    "thumbnail": "https://i.ytimg.com/vi/JUeP5yfM8Q4/hqdefault.jpg",
-    "data_publicacao": "2026-02-18T20:14:43Z",
+    "id": "IZiNhSq_ssE",
+    "titulo": "(18.02.26 - 19h)  Santa Missa | Quarta-feira de Cinzas",
+    "thumbnail": "https://i.ytimg.com/vi/IZiNhSq_ssE/hqdefault.jpg",
+    "data_publicacao": "2026-02-19T00:40:52Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -36,14 +36,6 @@
     "titulo": "(16.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/GIQADhwRXvA/hqdefault.jpg",
     "data_publicacao": "2026-02-16T23:20:33Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "KBNuOduqUoo",
-    "titulo": "(15.02.26 - 17h)  Santa Missa | 6º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/KBNuOduqUoo/hqdefault.jpg",
-    "data_publicacao": "2026-02-16T09:13:56Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -76,6 +68,14 @@
     "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
     "data_publicacao": "2026-02-05T11:29:04Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cTxLSHARTSg",
+    "titulo": "(14.09.25 - 11h) Santa Missa | Exaltação da Santa Cruz - Festa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cTxLSHARTSg/hqdefault.jpg",
+    "data_publicacao": "2025-09-14T16:20:49Z",
     "isLive": false,
     "isUpcoming": false
   }
