@@ -2,9 +2,9 @@
   {
     "id": "IZiNhSq_ssE",
     "titulo": "(18.02.26 - 19h)  Santa Missa | Quarta-feira de Cinzas",
-    "thumbnail": "https://i.ytimg.com/vi/IZiNhSq_ssE/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-18T18:49:07Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/IZiNhSq_ssE/hqdefault.jpg",
+    "data_publicacao": "2026-02-19T00:40:52Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -76,14 +76,6 @@
     "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
     "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
     "data_publicacao": "2026-02-05T11:29:04Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "PHOfPKd__kc",
-    "titulo": "(10.01.26 - 18h30) Santa Missa | Batismo do Senhor | Festa | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/PHOfPKd__kc/hqdefault.jpg",
-    "data_publicacao": "2026-01-10T23:44:52Z",
     "isLive": false,
     "isUpcoming": false
   }
