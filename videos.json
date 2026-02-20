@@ -1,13 +1,5 @@
 [
   {
-    "id": "JExQ6pprtpI",
-    "titulo": "(20.02.26 - 18h30)  Santa Missa | Depois das Cinzas | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/JExQ6pprtpI/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-19T19:26:41Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "pin0QhMD81k",
     "titulo": "(21.02.26 - 8h30) Batismo comunitário | Paróquia da Glória",
     "thumbnail": "https://i.ytimg.com/vi/pin0QhMD81k/hqdefault_live.jpg",
@@ -36,6 +28,14 @@
     "titulo": "(19.02.26 - 18h30)  Santa Missa | Depois das Cinzas | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/LTpkymAIbeo/hqdefault.jpg",
     "data_publicacao": "2026-02-19T23:46:45Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "JExQ6pprtpI",
+    "titulo": "(20.02.26 - 18h30)  Santa Missa | Depois das Cinzas | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/JExQ6pprtpI/hqdefault.jpg",
+    "data_publicacao": "2026-02-19T19:26:41Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -100,6 +100,14 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "6Xf2_mCihLY",
+    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
+    "data_publicacao": "2025-01-14T10:42:57Z",
     "isLive": false,
     "isUpcoming": false
   }
