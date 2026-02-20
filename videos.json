@@ -16,6 +16,38 @@
     "isUpcoming": true
   },
   {
+    "id": "_4T3wELKMtc",
+    "titulo": "(22.02.26 - 17h)  Santa Missa | 1º Domingo da Quaresma | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/_4T3wELKMtc/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-19T19:29:04Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "zftw21CxULo",
+    "titulo": "(22.02.26 - 19h)  Santa Missa | 1º Domingo da Quaresma | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/zftw21CxULo/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-19T19:29:50Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "7W1bQPAsCWc",
+    "titulo": "(21.02.26 - 18h30) Santa Missa | Depois das Cinzas | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/7W1bQPAsCWc/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-19T19:27:36Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "JExQ6pprtpI",
+    "titulo": "(20.02.26 - 18h30)  Santa Missa | Depois das Cinzas | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/JExQ6pprtpI/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-19T19:26:41Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
     "id": "LTpkymAIbeo",
     "titulo": "(19.02.26 - 18h30)  Santa Missa | Depois das Cinzas | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/LTpkymAIbeo/hqdefault.jpg",
@@ -88,10 +120,10 @@
     "isUpcoming": false
   },
   {
-    "id": "VPe5SaRHBjs",
-    "titulo": "(04.02.26 - 19h) Santa Missa | Pe. Rogério Marques - Festa de Nossa Senhora de Lourdes",
-    "thumbnail": "https://i.ytimg.com/vi/VPe5SaRHBjs/hqdefault.jpg",
-    "data_publicacao": "2026-02-05T11:29:04Z",
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
     "isLive": false,
     "isUpcoming": false
   }
