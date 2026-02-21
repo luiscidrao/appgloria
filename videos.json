@@ -1,9 +1,9 @@
 [
   {
-    "id": "pin0QhMD81k",
-    "titulo": "(21.02.26 - 8h30) Batismo comunitário | Paróquia da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/pin0QhMD81k/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-19T19:35:28Z",
+    "id": "MLgxdH4b32M",
+    "titulo": "21.02.26-8h30)Batismo Comunitário",
+    "thumbnail": "https://i.ytimg.com/vi/MLgxdH4b32M/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-21T12:31:17Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -12,6 +12,14 @@
     "titulo": "(22.02.26 - 11h)  Santa Missa | 1º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/TAY7d4pLUqA/hqdefault_live.jpg",
     "data_publicacao": "2026-02-19T19:28:27Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "_4T3wELKMtc",
+    "titulo": "(22.02.26 - 17h)  Santa Missa | 1º Domingo da Quaresma | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/_4T3wELKMtc/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-19T19:29:04Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -92,22 +100,6 @@
     "titulo": "(13.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/vlXNpOEfSAw/hqdefault.jpg",
     "data_publicacao": "2026-02-14T00:21:21Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "E3brG6Y7iek",
-    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
-    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
-    "data_publicacao": "2025-07-30T09:13:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "6Xf2_mCihLY",
-    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
-    "data_publicacao": "2025-01-14T10:42:57Z",
     "isLive": false,
     "isUpcoming": false
   }
