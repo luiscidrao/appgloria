@@ -16,18 +16,18 @@
     "isUpcoming": true
   },
   {
-    "id": "7W1bQPAsCWc",
-    "titulo": "(21.02.26 - 18h30) Santa Missa | Depois das Cinzas | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/7W1bQPAsCWc/hqdefault.jpg",
-    "data_publicacao": "2026-02-21T23:22:09Z",
+    "id": "MLgxdH4b32M",
+    "titulo": "21.02.26-8h30)Batismo Comunitário",
+    "thumbnail": "https://i.ytimg.com/vi/MLgxdH4b32M/hqdefault.jpg",
+    "data_publicacao": "2026-02-22T03:47:01Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "MLgxdH4b32M",
-    "titulo": "21.02.26-8h30)Batismo Comunitário",
-    "thumbnail": "https://i.ytimg.com/vi/MLgxdH4b32M/hqdefault.jpg",
-    "data_publicacao": "2026-02-21T12:31:17Z",
+    "id": "7W1bQPAsCWc",
+    "titulo": "(21.02.26 - 18h30) Santa Missa | Depois das Cinzas | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/7W1bQPAsCWc/hqdefault.jpg",
+    "data_publicacao": "2026-02-21T23:22:09Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -64,14 +64,6 @@
     "isUpcoming": false
   },
   {
-    "id": "IZiNhSq_ssE",
-    "titulo": "(18.02.26 - 19h)  Santa Missa | Quarta-feira de Cinzas",
-    "thumbnail": "https://i.ytimg.com/vi/IZiNhSq_ssE/hqdefault.jpg",
-    "data_publicacao": "2026-02-19T00:40:52Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(13.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/vlXNpOEfSAw/hqdefault.jpg",
     "data_publicacao": "2026-02-14T00:21:21Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
     "isLive": false,
     "isUpcoming": false
   }
