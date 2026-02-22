@@ -1,17 +1,17 @@
 [
   {
-    "id": "_4T3wELKMtc",
-    "titulo": "(22.02.26 - 17h)  Santa Missa | 1º Domingo da Quaresma | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/_4T3wELKMtc/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-19T19:29:04Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "TAY7d4pLUqA",
     "titulo": "(22.02.26 - 11h)  Santa Missa | 1º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/TAY7d4pLUqA/hqdefault.jpg",
     "data_publicacao": "2026-02-22T16:28:16Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "_4T3wELKMtc",
+    "titulo": "(22.02.26 - 17h)  Santa Missa | 1º Domingo da Quaresma | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/_4T3wELKMtc/hqdefault.jpg",
+    "data_publicacao": "2026-02-19T19:29:04Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -76,14 +76,6 @@
     "titulo": "(17.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/tunHg5YaxPU/hqdefault.jpg",
     "data_publicacao": "2026-02-17T22:56:40Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "vlXNpOEfSAw",
-    "titulo": "(13.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/vlXNpOEfSAw/hqdefault.jpg",
-    "data_publicacao": "2026-02-14T00:21:21Z",
     "isLive": false,
     "isUpcoming": false
   }
