@@ -1,13 +1,5 @@
 [
   {
-    "id": "UihM__q_JK4",
-    "titulo": "(23.02.26 - 18h30) Santa Missa | Missa Votiva a São Padre Pio | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/UihM__q_JK4/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-23T14:07:09Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "S25MJkFhPrE",
     "titulo": "(01.03.26 - 19h)  Santa Missa | 2º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/S25MJkFhPrE/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-02-23T14:27:48Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "UihM__q_JK4",
+    "titulo": "(23.02.26 - 18h30) Santa Missa | Missa Votiva a São Padre Pio | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/UihM__q_JK4/hqdefault.jpg",
+    "data_publicacao": "2026-02-23T14:07:09Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "_4T3wELKMtc",
@@ -92,14 +92,6 @@
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault.jpg",
     "data_publicacao": "2026-02-18T16:37:12Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "tunHg5YaxPU",
-    "titulo": "(17.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/tunHg5YaxPU/hqdefault.jpg",
-    "data_publicacao": "2026-02-17T22:56:40Z",
     "isLive": false,
     "isUpcoming": false
   }
