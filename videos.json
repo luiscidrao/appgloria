@@ -80,18 +80,18 @@
     "isUpcoming": false
   },
   {
-    "id": "JUeP5yfM8Q4",
-    "titulo": "(18.02.26 - 17h)  Santa Missa | Quarta-feira de Cinzas",
-    "thumbnail": "https://i.ytimg.com/vi/JUeP5yfM8Q4/hqdefault.jpg",
-    "data_publicacao": "2026-02-19T09:15:48Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "MDqvum3n8iw",
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault.jpg",
     "data_publicacao": "2026-02-18T16:37:12Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "tunHg5YaxPU",
+    "titulo": "(17.02.26 - 18h30) Santa Missa | 6ª Semana do Tempo Comum | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/tunHg5YaxPU/hqdefault.jpg",
+    "data_publicacao": "2026-02-17T22:56:40Z",
     "isLive": false,
     "isUpcoming": false
   }
