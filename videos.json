@@ -1,5 +1,13 @@
 [
   {
+    "id": "xrZAwuTbiXM",
+    "titulo": "(25.02.26 - 18h30) Santa Missa | 1ª Semana da Quaresma | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/xrZAwuTbiXM/hqdefault_live.jpg",
+    "data_publicacao": "2026-02-23T14:18:02Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
     "id": "S25MJkFhPrE",
     "titulo": "(01.03.26 - 19h)  Santa Missa | 2º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/S25MJkFhPrE/hqdefault_live.jpg",
@@ -80,18 +88,18 @@
     "isUpcoming": false
   },
   {
-    "id": "LTpkymAIbeo",
-    "titulo": "(19.02.26 - 18h30)  Santa Missa | Depois das Cinzas | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/LTpkymAIbeo/hqdefault.jpg",
-    "data_publicacao": "2026-02-19T23:46:45Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "vlXNpOEfSAw",
     "titulo": "(13.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/vlXNpOEfSAw/hqdefault.jpg",
     "data_publicacao": "2026-02-14T00:21:21Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "E3brG6Y7iek",
+    "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
+    "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
+    "data_publicacao": "2025-07-30T09:13:49Z",
     "isLive": false,
     "isUpcoming": false
   }
