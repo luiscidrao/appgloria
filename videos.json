@@ -1,13 +1,5 @@
 [
   {
-    "id": "BwNs4XiBAA4",
-    "titulo": "(24.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | BABI MARIA",
-    "thumbnail": "https://i.ytimg.com/vi/BwNs4XiBAA4/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-23T14:10:03Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "S25MJkFhPrE",
     "titulo": "(01.03.26 - 19h)  Santa Missa | 2º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/S25MJkFhPrE/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-02-23T14:27:48Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "BwNs4XiBAA4",
+    "titulo": "(24.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | BABI MARIA",
+    "thumbnail": "https://i.ytimg.com/vi/BwNs4XiBAA4/hqdefault.jpg",
+    "data_publicacao": "2026-02-25T02:06:00Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "UihM__q_JK4",
@@ -92,14 +92,6 @@
     "titulo": "(18.02.26 - 11h)  Santa Missa | Quarta-feira de Cinzas",
     "thumbnail": "https://i.ytimg.com/vi/MDqvum3n8iw/hqdefault.jpg",
     "data_publicacao": "2026-02-18T16:37:12Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "vlXNpOEfSAw",
-    "titulo": "(13.02.26 - 18h30) Santa Missa | 5ª Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/vlXNpOEfSAw/hqdefault.jpg",
-    "data_publicacao": "2026-02-14T00:21:21Z",
     "isLive": false,
     "isUpcoming": false
   }
