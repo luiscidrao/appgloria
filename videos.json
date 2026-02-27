@@ -40,14 +40,6 @@
     "isUpcoming": false
   },
   {
-    "id": "UihM__q_JK4",
-    "titulo": "(23.02.26 - 18h30) Santa Missa | Missa Votiva a São Padre Pio | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/UihM__q_JK4/hqdefault.jpg",
-    "data_publicacao": "2026-02-23T23:39:23Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "zftw21CxULo",
     "titulo": "(22.02.26 - 19h)  Santa Missa | 1º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/zftw21CxULo/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "Testemunho - Suely Façanha | O câncer será sua missão.",
     "thumbnail": "https://i.ytimg.com/vi/E3brG6Y7iek/hqdefault.jpg",
     "data_publicacao": "2025-07-30T09:13:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "6Xf2_mCihLY",
+    "titulo": "(13.01.25 - 18h30) Santa Missa | 1ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/6Xf2_mCihLY/hqdefault.jpg",
+    "data_publicacao": "2025-01-14T10:42:57Z",
     "isLive": false,
     "isUpcoming": false
   }
