@@ -1,13 +1,5 @@
 [
   {
-    "id": "35glAEUI1fk",
-    "titulo": "(01.03.26 - 11h)  Santa Missa | 2º Domingo da Quaresma | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/35glAEUI1fk/hqdefault_live.jpg",
-    "data_publicacao": "2026-02-23T14:27:05Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "S25MJkFhPrE",
     "titulo": "(01.03.26 - 19h)  Santa Missa | 2º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/S25MJkFhPrE/hqdefault_live.jpg",
@@ -44,6 +36,14 @@
     "titulo": "(24.02.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | BABI MARIA",
     "thumbnail": "https://i.ytimg.com/vi/BwNs4XiBAA4/hqdefault.jpg",
     "data_publicacao": "2026-02-25T02:06:00Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "35glAEUI1fk",
+    "titulo": "(01.03.26 - 11h)  Santa Missa | 2º Domingo da Quaresma | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/35glAEUI1fk/hqdefault.jpg",
+    "data_publicacao": "2026-02-23T14:27:05Z",
     "isLive": false,
     "isUpcoming": false
   },
