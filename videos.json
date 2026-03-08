@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "-wqxxtJQ8Eg",
+    "titulo": "(08.03.26 - 11h)  Santa Missa | 2º Domingo da Quaresma | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/-wqxxtJQ8Eg/hqdefault.jpg",
+    "data_publicacao": "2026-03-08T16:31:25Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "AljSWm0Y3G4",
     "titulo": "(07.03.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/AljSWm0Y3G4/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(03.03.26 - 18h30) Santa Missa | 2ª Semana da Quaresma | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/pXvupQNcijw/hqdefault.jpg",
     "data_publicacao": "2026-03-04T10:43:45Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "-wqxxtJQ8Eg",
-    "titulo": "(08.03.26 - 11h)  Santa Missa | 2º Domingo da Quaresma | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/-wqxxtJQ8Eg/hqdefault.jpg",
-    "data_publicacao": "2026-03-02T16:39:17Z",
     "isLive": false,
     "isUpcoming": false
   }
