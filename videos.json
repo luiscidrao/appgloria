@@ -1,13 +1,5 @@
 [
   {
-    "id": "3N_vgtn9Kfo",
-    "titulo": "(08.03.26 - 19h)  Santa Missa | 3º Domingo da Quaresma | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/3N_vgtn9Kfo/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-02T16:38:13Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "GTT_jlhbHmM",
     "titulo": "(09.03.26 - 18h30) Santa Missa | 3ª Semana da Quaresma | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/GTT_jlhbHmM/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(08.03.26 - 17h) Santa Missa | 3º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/Suhw_AOOemE/hqdefault.jpg",
     "data_publicacao": "2026-03-08T21:31:42Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "3N_vgtn9Kfo",
+    "titulo": "(08.03.26 - 19h)  Santa Missa | 3º Domingo da Quaresma | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/3N_vgtn9Kfo/hqdefault.jpg",
+    "data_publicacao": "2026-03-09T00:38:34Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -60,14 +60,6 @@
     "titulo": "(06.03.26 - 18h30) Santa Missa | 2ª Semana da Quaresma | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/QUo5H6EVQK4/hqdefault.jpg",
     "data_publicacao": "2026-03-06T23:23:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "KODS_jYRv4Y",
-    "titulo": "(05.03.26 - 18h30) Santa Missa | 2ª Semana da Quaresma | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/KODS_jYRv4Y/hqdefault.jpg",
-    "data_publicacao": "2026-03-05T23:49:44Z",
     "isLive": false,
     "isUpcoming": false
   },
