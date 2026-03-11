@@ -1,13 +1,5 @@
 [
   {
-    "id": "O71rKlSEWH4",
-    "titulo": "(11.03.26 - 18h30) Santa Missa | 3ª Semana da Quaresma | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/O71rKlSEWH4/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-09T12:46:52Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "SngVSMbS_94",
     "titulo": "(15.03.26 - 17h) Santa Missa | 4º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/SngVSMbS_94/hqdefault_live.jpg",
@@ -36,6 +28,14 @@
     "titulo": "(09.03.26 - 18h30) Santa Missa | 3ª Semana da Quaresma | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/GTT_jlhbHmM/hqdefault.jpg",
     "data_publicacao": "2026-03-09T23:08:58Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "O71rKlSEWH4",
+    "titulo": "(11.03.26 - 18h30) Santa Missa | 3ª Semana da Quaresma | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/O71rKlSEWH4/hqdefault.jpg",
+    "data_publicacao": "2026-03-09T12:46:52Z",
     "isLive": false,
     "isUpcoming": false
   },
