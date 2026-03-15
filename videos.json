@@ -16,14 +16,6 @@
     "isUpcoming": true
   },
   {
-    "id": "wZkRIUg959U",
-    "titulo": "(15.03.26 - 19h)  Santa Missa | 4º Domingo da Quaresma | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/wZkRIUg959U/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-09T12:50:44Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "h5WLYVoakdo",
     "titulo": "(14.03.26 - 18h30) Santa Missa | 4º Domingo da Quaresma | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/h5WLYVoakdo/hqdefault.jpg",
@@ -68,14 +60,6 @@
     "titulo": "(10.03.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | DAVIDSON SILVA",
     "thumbnail": "https://i.ytimg.com/vi/8as1hwxK9S8/hqdefault.jpg",
     "data_publicacao": "2026-03-11T02:10:39Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Suhw_AOOemE",
-    "titulo": "(08.03.26 - 17h) Santa Missa | 3º Domingo da Quaresma | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/Suhw_AOOemE/hqdefault.jpg",
-    "data_publicacao": "2026-03-08T21:31:42Z",
     "isLive": false,
     "isUpcoming": false
   }
