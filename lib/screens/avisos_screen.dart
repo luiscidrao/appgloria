@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:share_plus/share_plus.dart';
 import '../theme.dart';
 import '../services/avisos_service.dart';
 import '../widgets/vitral_background.dart';
@@ -54,6 +55,8 @@ class _AvisosScreenState extends State<AvisosScreen> {
           builder: (context, snapshot) {
             if (snapshot.connectionState == ConnectionState.waiting) {
               return const Center(child: CircularProgressIndicator(color: AppTheme.gold));
+            } else if (snapshot.hasError) {
+              return _buildErrorState();
             } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
               return _buildEmptyState();
             }
@@ -85,7 +88,50 @@ class _AvisosScreenState extends State<AvisosScreen> {
             "Nenhum aviso no momento.",
             style: GoogleFonts.raleway(fontSize: 16, color: Colors.grey[600]),
           ),
+          const SizedBox(height: 8),
+          Text(
+            "Puxe para baixo para atualizar.",
+            style: GoogleFonts.raleway(fontSize: 13, color: Colors.grey[400]),
+          ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildErrorState() {
+    return Center(
+      child: Padding(
+        padding: const EdgeInsets.all(32),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(Icons.wifi_off_rounded, size: 64, color: Colors.grey[400]),
+            const SizedBox(height: 20),
+            Text(
+              "Sem conexão",
+              style: GoogleFonts.montserrat(
+                  fontSize: 18, fontWeight: FontWeight.bold, color: AppTheme.royalBlue),
+            ),
+            const SizedBox(height: 8),
+            Text(
+              "Verifique sua internet e tente novamente.",
+              textAlign: TextAlign.center,
+              style: GoogleFonts.raleway(fontSize: 14, color: Colors.grey[600]),
+            ),
+            const SizedBox(height: 24),
+            ElevatedButton.icon(
+              onPressed: _refresh,
+              icon: const Icon(Icons.refresh),
+              label: const Text("Tentar novamente"),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: AppTheme.royalBlue,
+                foregroundColor: Colors.white,
+                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -137,9 +183,30 @@ class _AvisosScreenState extends State<AvisosScreen> {
                     ],
                   ),
                 ),
-                // Ícone de alfinete para destaques
-                if (aviso.destaque)
-                  const Icon(Icons.push_pin, color: AppTheme.gold, size: 20),
+                Row(
+                  children: [
+                    // Ícone de alfinete para destaques
+                    if (aviso.destaque)
+                      const Padding(
+                        padding: EdgeInsets.only(right: 8),
+                        child: Icon(Icons.push_pin, color: AppTheme.gold, size: 20),
+                      ),
+                    // Botão de compartilhar
+                    InkWell(
+                      borderRadius: BorderRadius.circular(20),
+                      onTap: () {
+                        Share.share(
+                          '📢 *${aviso.titulo}*\n\n${aviso.mensagem}\n\n— Paróquia da Glória',
+                          subject: aviso.titulo,
+                        );
+                      },
+                      child: Padding(
+                        padding: const EdgeInsets.all(4),
+                        child: Icon(Icons.share_outlined, size: 18, color: Colors.grey[500]),
+                      ),
+                    ),
+                  ],
+                ),
               ],
             ),
             const SizedBox(height: 12),

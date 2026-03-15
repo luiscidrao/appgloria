@@ -75,9 +75,9 @@ class _TransmissoesScreenState extends State<TransmissoesScreen> {
             if (snapshot.connectionState == ConnectionState.waiting) {
               return const Center(child: CircularProgressIndicator(color: AppTheme.gold));
             } else if (snapshot.hasError) {
-              return Center(child: Text("Erro de conexão. Verifique sua internet."));
+              return _buildErrorState();
             } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-              return const Center(child: Text("Nenhuma transmissão encontrada."));
+              return _buildEmptyState();
             }
 
             final allVideos = snapshot.data!;
@@ -126,6 +126,65 @@ class _TransmissoesScreenState extends State<TransmissoesScreen> {
     );
   }
 
+  Widget _buildErrorState() {
+    return Center(
+      child: Padding(
+        padding: const EdgeInsets.all(32),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(Icons.wifi_off_rounded, size: 64, color: Colors.grey[400]),
+            const SizedBox(height: 20),
+            Text(
+              "Sem conexão",
+              style: GoogleFonts.montserrat(
+                  fontSize: 18, fontWeight: FontWeight.bold, color: AppTheme.royalBlue),
+            ),
+            const SizedBox(height: 8),
+            Text(
+              "Verifique sua internet e tente novamente.",
+              textAlign: TextAlign.center,
+              style: GoogleFonts.raleway(fontSize: 14, color: Colors.grey[600]),
+            ),
+            const SizedBox(height: 24),
+            ElevatedButton.icon(
+              onPressed: _refresh,
+              icon: const Icon(Icons.refresh),
+              label: const Text("Tentar novamente"),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: AppTheme.royalBlue,
+                foregroundColor: Colors.white,
+                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildEmptyState() {
+    return Center(
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(Icons.videocam_off_outlined, size: 64, color: Colors.grey[400]),
+          const SizedBox(height: 16),
+          Text(
+            "Nenhuma transmissão encontrada.",
+            style: GoogleFonts.raleway(fontSize: 16, color: Colors.grey[600]),
+          ),
+          const SizedBox(height: 8),
+          Text(
+            "Puxe para baixo para atualizar.",
+            style: GoogleFonts.raleway(fontSize: 13, color: Colors.grey[400]),
+          ),
+        ],
+      ),
+    );
+  }
+
   Widget _buildSectionTitle(String title, IconData icon) {
     return Row(
       children: [
@@ -165,7 +224,17 @@ class _TransmissoesScreenState extends State<TransmissoesScreen> {
                 child: Stack(
                   alignment: Alignment.center,
                   children: [
-                    Image.network(video.thumbnail, height: 200, width: double.infinity, fit: BoxFit.cover),
+                    Image.network(
+                      video.thumbnail,
+                      height: 200,
+                      width: double.infinity,
+                      fit: BoxFit.cover,
+                      errorBuilder: (context, error, stack) => Container(
+                        height: 200,
+                        color: AppTheme.royalBlue.withOpacity(0.1),
+                        child: const Center(child: Icon(Icons.play_circle_outline, size: 60, color: AppTheme.royalBlue)),
+                      ),
+                    ),
                     // Filtro escuro
                     Container(color: Colors.black26),
 
@@ -262,7 +331,16 @@ class _TransmissoesScreenState extends State<TransmissoesScreen> {
                     alignment: Alignment.center,
                     fit: StackFit.expand,
                     children: [
-                      Image.network(video.thumbnail, fit: BoxFit.cover),
+                      Image.network(
+                        video.thumbnail,
+                        fit: BoxFit.cover,
+                        errorBuilder: (context, error, stack) => Container(
+                          color: AppTheme.royalBlue.withOpacity(0.1),
+                          child: const Center(
+                            child: Icon(Icons.play_circle_outline, size: 32, color: AppTheme.royalBlue),
+                          ),
+                        ),
+                      ),
                       Container(
                           decoration: BoxDecoration(color: Colors.black.withOpacity(0.5), shape: BoxShape.circle),
                           padding: const EdgeInsets.all(8),

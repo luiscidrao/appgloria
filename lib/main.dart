@@ -8,7 +8,8 @@ import 'services/liturgia_service.dart';
 import 'widgets/vitral_background.dart';
 import 'liturgia_detalhada_screen.dart';
 import 'screens/transmissoes_screen.dart';
-import 'screens/avisos_screen.dart'; // <--- Import novo
+import 'screens/avisos_screen.dart';
+import 'screens/dizimo_screen.dart';
 
 void main() {
   runApp(const ParoquiaApp());
@@ -48,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
     const DashboardTab(),
     const TransmissoesScreen(),
     const AvisosScreen(), // <--- Tela nova conectada
-    const Center(child: Text("Dízimo (Em breve)")),
+    const DizimoScreen(),
   ];
 
   @override
@@ -216,8 +217,15 @@ class _DashboardTabState extends State<DashboardTab> {
                     topLeft: Radius.circular(40),
                     topRight: Radius.circular(40),
                   ),
-                  child: SingleChildScrollView(
-                    physics: const ClampingScrollPhysics(),
+                  child: RefreshIndicator(
+                    onRefresh: () async {
+                      setState(() {
+                        _liturgiaFuture = _service.getLiturgiaDoDia();
+                      });
+                    },
+                    color: AppTheme.gold,
+                    child: SingleChildScrollView(
+                    physics: const AlwaysScrollableScrollPhysics(),
                     padding: const EdgeInsets.fromLTRB(24, 40, 24, 40),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -288,12 +296,13 @@ class _DashboardTabState extends State<DashboardTab> {
                                 )
                             ),
                             const SizedBox(width: 16),
-                            Expanded(child: _buildServiceCard(icon: FontAwesomeIcons.handHoldingHeart, title: "Dízimo", color: const Color(0xFFE8F5E9), iconColor: const Color(0xFF2E7D32), onTap: () {})),
+                            Expanded(child: _buildServiceCard(icon: FontAwesomeIcons.handHoldingHeart, title: "Dízimo", color: const Color(0xFFE8F5E9), iconColor: const Color(0xFF2E7D32), onTap: () { Navigator.push(context, MaterialPageRoute(builder: (context) => const DizimoScreen())); })),
                           ],
                         ),
                         const SizedBox(height: 20),
                       ],
                     ),
+                  ),
                   ),
                 ),
               ),
@@ -328,7 +337,27 @@ class _DashboardTabState extends State<DashboardTab> {
     );
   }
 
-  Widget _buildErroCard() { return Container(padding: const EdgeInsets.all(20), decoration: BoxDecoration(color: Colors.red.shade50, borderRadius: BorderRadius.circular(16)), child: Row(children: const [Icon(Icons.wifi_off, color: Colors.red), SizedBox(width: 16), Expanded(child: Text("Sem conexão."))])); }
+  Widget _buildErroCard() {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: Colors.red.shade50,
+        borderRadius: BorderRadius.circular(16),
+        border: Border.all(color: Colors.red.shade200),
+      ),
+      child: Row(
+        children: [
+          const Icon(Icons.wifi_off, color: Colors.red),
+          const SizedBox(width: 16),
+          const Expanded(child: Text("Sem conexão. Verifique sua internet.")),
+          TextButton(
+            onPressed: () => setState(() { _liturgiaFuture = _service.getLiturgiaDoDia(); }),
+            child: const Text("Tentar", style: TextStyle(color: Colors.red)),
+          ),
+        ],
+      ),
+    );
+  }
   Color _getCorLiturgicaColor(String texto) { String t = texto.toLowerCase(); if (t.contains('roxo')) return Colors.purple; if (t.contains('verde')) return Colors.green; if (t.contains('vermelho')) return Colors.red; if (t.contains('branco')) return Colors.amber.shade100; if (t.contains('rosa')) return Colors.pinkAccent; return AppTheme.gold; }
   Widget _buildLoadingCard() { return Container(height: 120, width: double.infinity, decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(24)), child: const Center(child: CircularProgressIndicator(color: AppTheme.gold))); }
   Widget _buildServiceCard({required IconData icon, required String title, required Color color, required Color iconColor, required VoidCallback onTap}) { return Container(height: 110, decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(20), boxShadow: [BoxShadow(color: Colors.black.withOpacity(0.04), blurRadius: 15, offset: const Offset(0, 5))]), child: Material(color: Colors.transparent, child: InkWell(borderRadius: BorderRadius.circular(20), onTap: onTap, child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [Container(padding: const EdgeInsets.all(12), decoration: BoxDecoration(color: color, shape: BoxShape.circle), child: Icon(icon, color: iconColor, size: 24)), const SizedBox(height: 12), Text(title, style: GoogleFonts.montserrat(fontSize: 14, fontWeight: FontWeight.w600, color: Colors.grey[800]))])))); }

@@ -22,12 +22,15 @@ class _LiturgiaDetalhadaScreenState extends State<LiturgiaDetalhadaScreen> with 
 
   double _fontSize = 18.0;
   bool _isPlaying = false;
+  late bool _hasSegundaLeitura;
 
   @override
   void initState() {
     super.initState();
     initializeDateFormatting('pt_BR', null);
-    _tabController = TabController(length: 3, vsync: this);
+    _hasSegundaLeitura = widget.liturgia.segundaLeitura.corpo.isNotEmpty &&
+        widget.liturgia.segundaLeitura.corpo != "Indisponível";
+    _tabController = TabController(length: _hasSegundaLeitura ? 4 : 3, vsync: this);
     _configurarAudio();
   }
 
@@ -112,10 +115,11 @@ class _LiturgiaDetalhadaScreenState extends State<LiturgiaDetalhadaScreen> with 
               labelColor: AppTheme.royalBlue, // Texto ativo Azul
               unselectedLabelColor: Colors.grey, // Texto inativo cinza
               labelStyle: GoogleFonts.montserrat(fontWeight: FontWeight.bold),
-              tabs: const [
-                Tab(text: "1ª LEITURA"),
-                Tab(text: "SALMOS"),
-                Tab(text: "EVANGELHO"),
+              tabs: [
+                const Tab(text: "1ª LEITURA"),
+                const Tab(text: "SALMOS"),
+                if (_hasSegundaLeitura) const Tab(text: "2ª LEITURA"),
+                const Tab(text: "EVANGELHO"),
               ],
             ),
           ),
@@ -156,7 +160,12 @@ class _LiturgiaDetalhadaScreenState extends State<LiturgiaDetalhadaScreen> with 
                         String texto = "";
                         if (index == 0) texto = widget.liturgia.primeiraLeitura.corpo;
                         if (index == 1) texto = widget.liturgia.salmo.corpo;
-                        if (index == 2) texto = widget.liturgia.evangelho.corpo;
+                        if (_hasSegundaLeitura) {
+                          if (index == 2) texto = widget.liturgia.segundaLeitura.corpo;
+                          if (index == 3) texto = widget.liturgia.evangelho.corpo;
+                        } else {
+                          if (index == 2) texto = widget.liturgia.evangelho.corpo;
+                        }
                         _speak(texto);
                       },
                       child: CircleAvatar(
@@ -225,6 +234,7 @@ class _LiturgiaDetalhadaScreenState extends State<LiturgiaDetalhadaScreen> with 
               children: [
                 _buildTextoView(widget.liturgia.primeiraLeitura),
                 _buildTextoView(widget.liturgia.salmo),
+                if (_hasSegundaLeitura) _buildTextoView(widget.liturgia.segundaLeitura),
                 _buildTextoView(widget.liturgia.evangelho),
               ],
             ),

@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:html/parser.dart' as parser;
 import 'package:html/dom.dart';
@@ -35,7 +36,9 @@ class LiturgiaService {
 
   Future<LiturgiaDiariaModel> getLiturgiaDoDia() async {
     try {
-      final response = await http.get(Uri.parse(_url));
+      final response = await http
+          .get(Uri.parse(_url))
+          .timeout(const Duration(seconds: 20));
 
       if (response.statusCode == 200) {
         var document = parser.parse(response.body);
@@ -63,6 +66,7 @@ class LiturgiaService {
         throw Exception('Site indisponível');
       }
     } catch (e) {
+      debugPrint("Erro liturgia: $e");
       throw Exception('Erro: $e');
     }
   }

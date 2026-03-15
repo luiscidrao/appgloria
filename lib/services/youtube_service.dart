@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 
@@ -32,7 +33,9 @@ class YoutubeService {
       // Isso garante que se você atualizar o JSON, o usuário vê na hora.
       String urlSemCache = "$_jsonUrl?t=${DateTime.now().millisecondsSinceEpoch}";
 
-      final response = await http.get(Uri.parse(urlSemCache));
+      final response = await http
+          .get(Uri.parse(urlSemCache))
+          .timeout(const Duration(seconds: 15));
 
       if (response.statusCode == 200) {
         final List<dynamic> list = json.decode(response.body);
@@ -58,11 +61,11 @@ class YoutubeService {
           );
         }).toList();
       } else {
-        throw Exception('Erro ao baixar lista de vídeos');
+        throw Exception('Erro ao baixar lista de vídeos: ${response.statusCode}');
       }
     } catch (e) {
-      print("Erro no YoutubeService: $e");
-      return []; // Retorna lista vazia se der erro (sem internet)
+      debugPrint("Erro no YoutubeService: $e");
+      rethrow;
     }
   }
 }

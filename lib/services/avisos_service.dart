@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
 class AvisoModel {
@@ -16,21 +17,19 @@ class AvisoModel {
 }
 
 class AvisosService {
-  // ==============================================================================
-  // 🔴 IMPORTANTE: Substitua este link pelo seu RAW do 'avisos.json' no GitHub
-  // ==============================================================================
-  final String _jsonUrl = 'https://raw.githubusercontent.com/SEU_USUARIO/appgloria/main/avisos.json';
+  final String _jsonUrl =
+      'https://raw.githubusercontent.com/luiscidrao/appgloria/refs/heads/main/avisos.json';
 
   Future<List<AvisoModel>> getAvisos() async {
+    final String urlSemCache =
+        "$_jsonUrl?t=${DateTime.now().millisecondsSinceEpoch}";
     try {
-      // O '?t=...' evita que o celular guarde cache velho
-      String urlSemCache = "$_jsonUrl?t=${DateTime.now().millisecondsSinceEpoch}";
-
-      final response = await http.get(Uri.parse(urlSemCache));
+      final response = await http
+          .get(Uri.parse(urlSemCache))
+          .timeout(const Duration(seconds: 15));
 
       if (response.statusCode == 200) {
         final List<dynamic> list = json.decode(response.body);
-
         return list.map((item) {
           return AvisoModel(
             titulo: item['titulo'] ?? "",
@@ -40,11 +39,11 @@ class AvisosService {
           );
         }).toList();
       } else {
-        throw Exception('Erro ao carregar avisos');
+        throw Exception('Erro ao carregar avisos: ${response.statusCode}');
       }
     } catch (e) {
-      print("Erro avisos: $e");
-      return []; // Retorna lista vazia se der erro
+      debugPrint("Erro avisos: $e");
+      rethrow;
     }
   }
 }
