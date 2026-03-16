@@ -1,10 +1,18 @@
 [
   {
+    "id": "PQuxh204N9k",
+    "titulo": "(17.03.26 - 18h30) Santa Missa - Dom José Antônio | Noite de cura e libertação - Rodrigo Ferreira",
+    "thumbnail": "https://i.ytimg.com/vi/PQuxh204N9k/hqdefault_live.jpg",
+    "data_publicacao": "2026-03-16T22:52:11Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
     "id": "d0-ZhpMoqDA",
     "titulo": "(16.03.26 - 18h30) Santa Missa | 4ª Semana da Quaresma | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/d0-ZhpMoqDA/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-16T17:17:18Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/d0-ZhpMoqDA/hqdefault.jpg",
+    "data_publicacao": "2026-03-16T22:47:04Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
