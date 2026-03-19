@@ -1,13 +1,5 @@
 [
   {
-    "id": "nAo6QChMKRg",
-    "titulo": "(18.03.26 - 18h30) Glória 50 | Santa Missa - Pe. Helano Samy | Noite de cura - Rodrigo Ferreira",
-    "thumbnail": "https://i.ytimg.com/vi/nAo6QChMKRg/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-17T11:25:47Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "dq3xcLJy24g",
     "titulo": "(22.03.26 - 17h) Glória 50 | Santa Missa - Pe. Helano Samy | Pe. Fábio de Melo e Tony Allysson",
     "thumbnail": "https://i.ytimg.com/vi/dq3xcLJy24g/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(17.03.26 - 18h30) Glória 50 |  Santa Missa - Dom José Antônio | Noite de cura - Rodrigo Ferreira",
     "thumbnail": "https://i.ytimg.com/vi/PQuxh204N9k/hqdefault.jpg",
     "data_publicacao": "2026-03-18T01:47:54Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "nAo6QChMKRg",
+    "titulo": "(18.03.26 - 18h30) Glória 50 | Santa Missa - Pe. Helano Samy | Noite de cura - Rodrigo Ferreira",
+    "thumbnail": "https://i.ytimg.com/vi/nAo6QChMKRg/hqdefault.jpg",
+    "data_publicacao": "2026-03-17T11:25:47Z",
     "isLive": false,
     "isUpcoming": false
   },
