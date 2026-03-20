@@ -1,13 +1,5 @@
 [
   {
-    "id": "ep0D4wKOgEE",
-    "titulo": "(19.03.26 - 19h) Glória 50 | Santa Missa - Pe. Daniel Antônio | Ramon e Rafael",
-    "thumbnail": "https://i.ytimg.com/vi/ep0D4wKOgEE/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-17T11:29:29Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "dq3xcLJy24g",
     "titulo": "(22.03.26 - 17h) Glória 50 | Santa Missa - Pe. Helano Samy | Pe. Fábio de Melo e Tony Allysson",
     "thumbnail": "https://i.ytimg.com/vi/dq3xcLJy24g/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-03-17T11:40:45Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "ep0D4wKOgEE",
+    "titulo": "(19.03.26 - 19h) Glória 50 | Santa Missa - Pe. Daniel Antônio | Ramon e Rafael",
+    "thumbnail": "https://i.ytimg.com/vi/ep0D4wKOgEE/hqdefault.jpg",
+    "data_publicacao": "2026-03-20T02:15:56Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "6xi5xVu3qNk",
@@ -68,14 +68,6 @@
     "titulo": "(15.03.26 - 11h)  Santa Missa | 4º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/1cg00_wrs2E/hqdefault.jpg",
     "data_publicacao": "2026-03-15T16:26:34Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "h5WLYVoakdo",
-    "titulo": "(14.03.26 - 18h30) Santa Missa | 4º Domingo da Quaresma | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/h5WLYVoakdo/hqdefault.jpg",
-    "data_publicacao": "2026-03-14T23:34:45Z",
     "isLive": false,
     "isUpcoming": false
   },
