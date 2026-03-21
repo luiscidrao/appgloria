@@ -1,13 +1,5 @@
 [
   {
-    "id": "RypI7BLcdJg",
-    "titulo": "(20.03.26 - 18h30) Glória 50 | Santa Missa - Dom Gregório Paixão | Flávio Vitor Jr",
-    "thumbnail": "https://i.ytimg.com/vi/RypI7BLcdJg/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-17T11:36:53Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "dq3xcLJy24g",
     "titulo": "(22.03.26 - 17h) Glória 50 | Santa Missa - Pe. Helano Samy | Pe. Fábio de Melo e Tony Allysson",
     "thumbnail": "https://i.ytimg.com/vi/dq3xcLJy24g/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-03-17T11:40:45Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "RypI7BLcdJg",
+    "titulo": "(20.03.26 - 18h30) Glória 50 | Santa Missa - Dom Gregório Paixão | Flávio Vitor Jr",
+    "thumbnail": "https://i.ytimg.com/vi/RypI7BLcdJg/hqdefault.jpg",
+    "data_publicacao": "2026-03-21T02:19:01Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "ep0D4wKOgEE",
@@ -60,14 +60,6 @@
     "titulo": "(15.03.26 - 19h)  Santa Missa | 4º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/wZkRIUg959U/hqdefault.jpg",
     "data_publicacao": "2026-03-16T00:27:52Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "1cg00_wrs2E",
-    "titulo": "(15.03.26 - 11h)  Santa Missa | 4º Domingo da Quaresma | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/1cg00_wrs2E/hqdefault.jpg",
-    "data_publicacao": "2026-03-15T16:26:34Z",
     "isLive": false,
     "isUpcoming": false
   }
