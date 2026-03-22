@@ -4,8 +4,8 @@
     "titulo": "(22.03.26 - 11h)  Santa Missa | 5º Domingo da Quaresma | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/V4dHu2Ikw1E/hqdefault_live.jpg",
     "data_publicacao": "2026-03-22T02:34:02Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "dq3xcLJy24g",
