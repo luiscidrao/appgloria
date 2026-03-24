@@ -1,13 +1,5 @@
 [
   {
-    "id": "XdEp2Np4Czw",
-    "titulo": "(24.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/XdEp2Np4Czw/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-23T19:57:17Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "yUyC8-8B_FI",
     "titulo": "(24.03.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
     "thumbnail": "https://i.ytimg.com/vi/yUyC8-8B_FI/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(23.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/w0HF-7TR4i0/hqdefault.jpg",
     "data_publicacao": "2026-03-23T23:03:16Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "XdEp2Np4Czw",
+    "titulo": "(24.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/XdEp2Np4Czw/hqdefault.jpg",
+    "data_publicacao": "2026-03-23T19:57:17Z",
     "isLive": false,
     "isUpcoming": false
   },
