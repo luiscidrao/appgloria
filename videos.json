@@ -1,19 +1,19 @@
 [
   {
-    "id": "rgdQpvbx054",
-    "titulo": "(26.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/rgdQpvbx054/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-23T19:59:25Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "9c7QdujjeC8",
     "titulo": "(27.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/9c7QdujjeC8/hqdefault_live.jpg",
     "data_publicacao": "2026-03-23T20:00:27Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "rgdQpvbx054",
+    "titulo": "(26.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/rgdQpvbx054/hqdefault.jpg",
+    "data_publicacao": "2026-03-23T19:59:25Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "AEaNq0ZWYAs",
