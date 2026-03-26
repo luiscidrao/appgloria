@@ -8,12 +8,20 @@
     "isUpcoming": true
   },
   {
-    "id": "AEaNq0ZWYAs",
-    "titulo": "(25.03.26 - 18h30) Santa Missa | Anunciação do Senhor | Solenidade | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/AEaNq0ZWYAs/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-23T19:58:05Z",
+    "id": "rgdQpvbx054",
+    "titulo": "(26.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/rgdQpvbx054/hqdefault_live.jpg",
+    "data_publicacao": "2026-03-23T19:59:25Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "AEaNq0ZWYAs",
+    "titulo": "(25.03.26 - 18h30) Santa Missa | Anunciação do Senhor | Solenidade | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/AEaNq0ZWYAs/hqdefault.jpg",
+    "data_publicacao": "2026-03-25T23:46:25Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "yUyC8-8B_FI",
@@ -52,14 +60,6 @@
     "titulo": "(21.03.26 - 18h30) Glória 50 | Santa Missa - Pe. Helano Samy | Ana Clara e Ítalo Poeta",
     "thumbnail": "https://i.ytimg.com/vi/1GfaiaW9-rE/hqdefault.jpg",
     "data_publicacao": "2026-03-22T01:53:56Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "RypI7BLcdJg",
-    "titulo": "(20.03.26 - 18h30) Glória 50 | Santa Missa - Dom Gregório Paixão | Flávio Vitor Jr",
-    "thumbnail": "https://i.ytimg.com/vi/RypI7BLcdJg/hqdefault.jpg",
-    "data_publicacao": "2026-03-21T02:19:01Z",
     "isLive": false,
     "isUpcoming": false
   },
