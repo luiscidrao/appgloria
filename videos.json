@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "9c7QdujjeC8",
+    "titulo": "(27.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/9c7QdujjeC8/hqdefault.jpg",
+    "data_publicacao": "2026-03-28T00:14:12Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "rgdQpvbx054",
     "titulo": "(26.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/rgdQpvbx054/hqdefault.jpg",
@@ -52,22 +60,6 @@
     "titulo": "(23.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/w0HF-7TR4i0/hqdefault.jpg",
     "data_publicacao": "2026-03-23T23:03:16Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "9c7QdujjeC8",
-    "titulo": "(27.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/9c7QdujjeC8/hqdefault.jpg",
-    "data_publicacao": "2026-03-23T20:00:27Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "dq3xcLJy24g",
-    "titulo": "(22.03.26 - 17h) Glória 50 | Santa Missa - Pe. Helano Samy | Pe. Fábio de Melo e Tony Allysson",
-    "thumbnail": "https://i.ytimg.com/vi/dq3xcLJy24g/hqdefault.jpg",
-    "data_publicacao": "2026-03-23T03:18:12Z",
     "isLive": false,
     "isUpcoming": false
   },
