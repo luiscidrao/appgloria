@@ -1,9 +1,9 @@
 [
   {
-    "id": "g69m4Jgk4gc",
-    "titulo": "(29.03.26 - 9h) Santa Missa | Domingo de Ramos e da Paixão do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/g69m4Jgk4gc/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-29T12:40:52Z",
+    "id": "DPSMm9GKrKA",
+    "titulo": "(29.03.26 - 11h) Santa Missa | Domingo de Ramos e da Paixão do Senhor | Domingo | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/DPSMm9GKrKA/hqdefault_live.jpg",
+    "data_publicacao": "2026-03-27T21:10:21Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -22,6 +22,14 @@
     "data_publicacao": "2026-03-27T21:11:13Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "g69m4Jgk4gc",
+    "titulo": "(29.03.26 - 9h) Santa Missa | Domingo de Ramos e da Paixão do Senhor",
+    "thumbnail": "https://i.ytimg.com/vi/g69m4Jgk4gc/hqdefault.jpg",
+    "data_publicacao": "2026-03-29T12:40:52Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "NTPqhZRp-gM",
