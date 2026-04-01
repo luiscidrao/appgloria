@@ -1,5 +1,13 @@
 [
   {
+    "id": "fAUQWeRrcIE",
+    "titulo": "(01.04.26 - 18h30) Semana Santa | Quarta-feira - Ofício das Trevas 20h",
+    "thumbnail": "https://i.ytimg.com/vi/fAUQWeRrcIE/hqdefault_live.jpg",
+    "data_publicacao": "2026-03-30T19:41:33Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
     "id": "Q-ifyvN3rsE",
     "titulo": "(04.04.26 - 18h00) Sábado Santo",
     "thumbnail": "https://i.ytimg.com/vi/Q-ifyvN3rsE/hqdefault_live.jpg",
@@ -68,22 +76,6 @@
     "titulo": "(2803.26 - 18h30) Santa Missa | Domingo de Ramos e da Paixão do Senhor | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/NTPqhZRp-gM/hqdefault.jpg",
     "data_publicacao": "2026-03-28T23:37:31Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "9c7QdujjeC8",
-    "titulo": "(27.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/9c7QdujjeC8/hqdefault.jpg",
-    "data_publicacao": "2026-03-28T00:14:12Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "rgdQpvbx054",
-    "titulo": "(26.03.26 - 18h30) Santa Missa | 5ª Semana da Quaresma | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/rgdQpvbx054/hqdefault.jpg",
-    "data_publicacao": "2026-03-26T23:42:29Z",
     "isLive": false,
     "isUpcoming": false
   }
