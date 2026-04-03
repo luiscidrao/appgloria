@@ -1,13 +1,5 @@
 [
   {
-    "id": "pZoofa1Oook",
-    "titulo": "(02.04.26 - 18h00) Semana Santa | Ceia do Senhor | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/pZoofa1Oook/hqdefault_live.jpg",
-    "data_publicacao": "2026-03-30T19:45:04Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "pgdecRcL7x8",
     "titulo": "(04.04.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/pgdecRcL7x8/hqdefault_live.jpg",
@@ -44,6 +36,14 @@
     "titulo": "(30.03.26 - 18h30) Semana Santa | Segunda-feira - Celebração Penitencial 20h",
     "thumbnail": "https://i.ytimg.com/vi/4wd-MfMHVy0/hqdefault.jpg",
     "data_publicacao": "2026-03-30T23:53:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "pZoofa1Oook",
+    "titulo": "(02.04.26 - 18h00) Semana Santa | Ceia do Senhor | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/pZoofa1Oook/hqdefault.jpg",
+    "data_publicacao": "2026-03-30T19:45:04Z",
     "isLive": false,
     "isUpcoming": false
   },
