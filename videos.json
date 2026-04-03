@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "0unEGr6sEnI",
+    "titulo": "(03.04.26 - 15h00) Paixão do Senhor | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/0unEGr6sEnI/hqdefault.jpg",
+    "data_publicacao": "2026-04-03T22:43:24Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "pZoofa1Oook",
     "titulo": "(02.04.26 - 18h00) Semana Santa | Ceia do Senhor | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/pZoofa1Oook/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(31.03.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | PE. ÉDER",
     "thumbnail": "https://i.ytimg.com/vi/NXLZRzYLY4I/hqdefault.jpg",
     "data_publicacao": "2026-04-01T01:42:11Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "0unEGr6sEnI",
-    "titulo": "(03.04.26 - 15h00) Paixão do Senhor | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/0unEGr6sEnI/hqdefault.jpg",
-    "data_publicacao": "2026-03-30T19:46:20Z",
     "isLive": false,
     "isUpcoming": false
   },
