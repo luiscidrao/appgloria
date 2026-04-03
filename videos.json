@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "pZoofa1Oook",
+    "titulo": "(02.04.26 - 18h00) Semana Santa | Ceia do Senhor | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/pZoofa1Oook/hqdefault.jpg",
+    "data_publicacao": "2026-04-03T00:17:22Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "fAUQWeRrcIE",
     "titulo": "(01.04.26 - 18h30) Semana Santa | Quarta-feira - Ofício das Trevas 20h",
     "thumbnail": "https://i.ytimg.com/vi/fAUQWeRrcIE/hqdefault.jpg",
@@ -32,22 +40,6 @@
     "isUpcoming": false
   },
   {
-    "id": "4wd-MfMHVy0",
-    "titulo": "(30.03.26 - 18h30) Semana Santa | Segunda-feira - Celebração Penitencial 20h",
-    "thumbnail": "https://i.ytimg.com/vi/4wd-MfMHVy0/hqdefault.jpg",
-    "data_publicacao": "2026-03-30T23:53:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "pZoofa1Oook",
-    "titulo": "(02.04.26 - 18h00) Semana Santa | Ceia do Senhor | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/pZoofa1Oook/hqdefault.jpg",
-    "data_publicacao": "2026-03-30T19:45:04Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "g69m4Jgk4gc",
     "titulo": "(29.03.26 - 9h) Santa Missa | Domingo de Ramos e da Paixão do Senhor",
     "thumbnail": "https://i.ytimg.com/vi/g69m4Jgk4gc/hqdefault.jpg",
@@ -60,14 +52,6 @@
     "titulo": "(29.03.26 - 19h) Santa Missa | Domingo de Ramos e da Paixão do Senhor | Domingo | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/DvAsuFISBFA/hqdefault.jpg",
     "data_publicacao": "2026-03-30T00:57:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "CwJx-nFhEes",
-    "titulo": "(29.03.26 - 17h) Santa Missa | Domingo de Ramos e da Paixão do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/CwJx-nFhEes/hqdefault.jpg",
-    "data_publicacao": "2026-03-29T22:10:19Z",
     "isLive": false,
     "isUpcoming": false
   },
