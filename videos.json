@@ -4,8 +4,8 @@
     "titulo": "(04.04.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/pgdecRcL7x8/hqdefault_live.jpg",
     "data_publicacao": "2026-04-02T14:32:58Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "23jTcyIgDPA",
@@ -60,14 +60,6 @@
     "titulo": "(29.03.26 - 11h) Santa Missa | Domingo de Ramos e da Paixão do Senhor | Domingo | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/DPSMm9GKrKA/hqdefault.jpg",
     "data_publicacao": "2026-03-29T16:48:32Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "NTPqhZRp-gM",
-    "titulo": "(2803.26 - 18h30) Santa Missa | Domingo de Ramos e da Paixão do Senhor | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/NTPqhZRp-gM/hqdefault.jpg",
-    "data_publicacao": "2026-03-28T23:37:31Z",
     "isLive": false,
     "isUpcoming": false
   }
