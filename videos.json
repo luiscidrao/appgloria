@@ -16,6 +16,14 @@
     "isUpcoming": false
   },
   {
+    "id": "hIgbr38YsVc",
+    "titulo": "(05.04.26 - 09h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
+    "thumbnail": "https://i.ytimg.com/vi/hIgbr38YsVc/hqdefault.jpg",
+    "data_publicacao": "2026-04-02T14:29:46Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "5boieltIP6c",
     "titulo": "(05.04.26 - 11h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
     "thumbnail": "https://i.ytimg.com/vi/5boieltIP6c/hqdefault.jpg",
@@ -56,14 +64,6 @@
     "isUpcoming": false
   },
   {
-    "id": "hIgbr38YsVc",
-    "titulo": "(05.04.26 - 09h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/hIgbr38YsVc/hqdefault.jpg",
-    "data_publicacao": "2026-04-02T14:29:46Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "NXLZRzYLY4I",
     "titulo": "(31.03.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | PE. ÉDER",
     "thumbnail": "https://i.ytimg.com/vi/NXLZRzYLY4I/hqdefault.jpg",
@@ -76,14 +76,6 @@
     "titulo": "(30.03.26 - 18h30) Semana Santa | Segunda-feira - Celebração Penitencial 20h",
     "thumbnail": "https://i.ytimg.com/vi/4wd-MfMHVy0/hqdefault.jpg",
     "data_publicacao": "2026-03-30T23:53:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "DPSMm9GKrKA",
-    "titulo": "(29.03.26 - 11h) Santa Missa | Domingo de Ramos e da Paixão do Senhor | Domingo | Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/DPSMm9GKrKA/hqdefault.jpg",
-    "data_publicacao": "2026-03-29T16:48:32Z",
     "isLive": false,
     "isUpcoming": false
   }
