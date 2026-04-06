@@ -1,5 +1,13 @@
 [
   {
+    "id": "23jTcyIgDPA",
+    "titulo": "(05.04.26 - 17h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
+    "thumbnail": "https://i.ytimg.com/vi/23jTcyIgDPA/hqdefault.jpg",
+    "data_publicacao": "2026-04-06T09:28:31Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "hIgbr38YsVc",
     "titulo": "(05.04.26 - 09h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
     "thumbnail": "https://i.ytimg.com/vi/hIgbr38YsVc/hqdefault.jpg",
@@ -52,14 +60,6 @@
     "titulo": "(02.04.26 - 18h00) Semana Santa | Ceia do Senhor | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/pZoofa1Oook/hqdefault.jpg",
     "data_publicacao": "2026-04-03T00:17:22Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "23jTcyIgDPA",
-    "titulo": "(05.04.26 - 17h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/23jTcyIgDPA/hqdefault.jpg",
-    "data_publicacao": "2026-04-02T14:30:46Z",
     "isLive": false,
     "isUpcoming": false
   },
