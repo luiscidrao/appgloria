@@ -1,25 +1,25 @@
 [
   {
-    "id": "u9EEh12k1iI",
-    "titulo": "(05.04.26 - 19h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/u9EEh12k1iI/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-02T14:28:19Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
-    "id": "23jTcyIgDPA",
-    "titulo": "(05.04.26 - 17h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/23jTcyIgDPA/hqdefault.jpg",
-    "data_publicacao": "2026-04-02T14:30:46Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "5boieltIP6c",
     "titulo": "(05.04.26 - 11h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
     "thumbnail": "https://i.ytimg.com/vi/5boieltIP6c/hqdefault.jpg",
     "data_publicacao": "2026-04-05T16:33:08Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "hIgbr38YsVc",
+    "titulo": "(05.04.26 - 09h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
+    "thumbnail": "https://i.ytimg.com/vi/hIgbr38YsVc/hqdefault.jpg",
+    "data_publicacao": "2026-04-06T01:23:09Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "u9EEh12k1iI",
+    "titulo": "(05.04.26 - 19h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
+    "thumbnail": "https://i.ytimg.com/vi/u9EEh12k1iI/hqdefault.jpg",
+    "data_publicacao": "2026-04-06T00:25:03Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -56,10 +56,10 @@
     "isUpcoming": false
   },
   {
-    "id": "hIgbr38YsVc",
-    "titulo": "(05.04.26 - 09h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/hIgbr38YsVc/hqdefault.jpg",
-    "data_publicacao": "2026-04-02T14:29:46Z",
+    "id": "23jTcyIgDPA",
+    "titulo": "(05.04.26 - 17h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
+    "thumbnail": "https://i.ytimg.com/vi/23jTcyIgDPA/hqdefault.jpg",
+    "data_publicacao": "2026-04-02T14:30:46Z",
     "isLive": false,
     "isUpcoming": false
   },
