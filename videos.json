@@ -1,13 +1,5 @@
 [
   {
-    "id": "3x3M3e2wSlw",
-    "titulo": "(07.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/3x3M3e2wSlw/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-06T12:01:55Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "EQuQS7t1S50",
     "titulo": "(07.04.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
     "thumbnail": "https://i.ytimg.com/vi/EQuQS7t1S50/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(06.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/HKeJc8ELg6U/hqdefault.jpg",
     "data_publicacao": "2026-04-07T11:01:57Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "3x3M3e2wSlw",
+    "titulo": "(07.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/3x3M3e2wSlw/hqdefault.jpg",
+    "data_publicacao": "2026-04-06T12:01:55Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "(02.04.26 - 18h00) Semana Santa | Ceia do Senhor | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/pZoofa1Oook/hqdefault.jpg",
     "data_publicacao": "2026-04-03T00:17:22Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "fAUQWeRrcIE",
-    "titulo": "(01.04.26 - 18h30) Semana Santa | Quarta-feira - Ofício das Trevas 20h",
-    "thumbnail": "https://i.ytimg.com/vi/fAUQWeRrcIE/hqdefault.jpg",
-    "data_publicacao": "2026-04-02T01:12:18Z",
     "isLive": false,
     "isUpcoming": false
   }
