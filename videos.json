@@ -1,19 +1,27 @@
 [
   {
-    "id": "EQuQS7t1S50",
-    "titulo": "(07.04.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
-    "thumbnail": "https://i.ytimg.com/vi/EQuQS7t1S50/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-07T11:12:59Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "hQPPlWcP8Lg",
     "titulo": "(13.04.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/hQPPlWcP8Lg/hqdefault_live.jpg",
     "data_publicacao": "2026-04-06T12:23:36Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "lpRDeUPcXjQ",
+    "titulo": "(13.04.26 - 18h30) Santa Missa | 2ª Semana da Páscoa | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/lpRDeUPcXjQ/hqdefault_live.jpg",
+    "data_publicacao": "2026-04-06T12:23:11Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "EQuQS7t1S50",
+    "titulo": "(07.04.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
+    "thumbnail": "https://i.ytimg.com/vi/EQuQS7t1S50/hqdefault.jpg",
+    "data_publicacao": "2026-04-07T11:12:59Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "HKeJc8ELg6U",
@@ -84,14 +92,6 @@
     "titulo": "(03.04.26 - 15h00) Paixão do Senhor | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/0unEGr6sEnI/hqdefault.jpg",
     "data_publicacao": "2026-04-03T22:43:24Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "pZoofa1Oook",
-    "titulo": "(02.04.26 - 18h00) Semana Santa | Ceia do Senhor | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/pZoofa1Oook/hqdefault.jpg",
-    "data_publicacao": "2026-04-03T00:17:22Z",
     "isLive": false,
     "isUpcoming": false
   }
