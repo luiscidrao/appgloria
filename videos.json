@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "-qpWjzDUEX0",
+    "titulo": "(08.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/-qpWjzDUEX0/hqdefault.jpg",
+    "data_publicacao": "2026-04-09T00:25:14Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "EQuQS7t1S50",
     "titulo": "(07.04.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
     "thumbnail": "https://i.ytimg.com/vi/EQuQS7t1S50/hqdefault.jpg",
@@ -40,26 +48,10 @@
     "isUpcoming": false
   },
   {
-    "id": "-qpWjzDUEX0",
-    "titulo": "(08.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/-qpWjzDUEX0/hqdefault.jpg",
-    "data_publicacao": "2026-04-06T12:04:47Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "23jTcyIgDPA",
     "titulo": "(05.04.26 - 17h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
     "thumbnail": "https://i.ytimg.com/vi/23jTcyIgDPA/hqdefault.jpg",
     "data_publicacao": "2026-04-06T09:28:31Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "hIgbr38YsVc",
-    "titulo": "(05.04.26 - 09h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/hIgbr38YsVc/hqdefault.jpg",
-    "data_publicacao": "2026-04-06T01:23:09Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,6 +84,14 @@
     "titulo": "(04.04.26 - 18h00) Sábado Santo",
     "thumbnail": "https://i.ytimg.com/vi/Q-ifyvN3rsE/hqdefault.jpg",
     "data_publicacao": "2026-04-05T01:16:48Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "fAUQWeRrcIE",
+    "titulo": "(01.04.26 - 18h30) Semana Santa | Quarta-feira - Ofício das Trevas 20h",
+    "thumbnail": "https://i.ytimg.com/vi/fAUQWeRrcIE/hqdefault.jpg",
+    "data_publicacao": "2026-04-02T01:12:18Z",
     "isLive": false,
     "isUpcoming": false
   }
