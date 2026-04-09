@@ -1,13 +1,5 @@
 [
   {
-    "id": "pvoHZ37cToQ",
-    "titulo": "(09.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/pvoHZ37cToQ/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-06T12:07:53Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "hQPPlWcP8Lg",
     "titulo": "(13.04.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/hQPPlWcP8Lg/hqdefault_live.jpg",
@@ -56,18 +48,18 @@
     "isUpcoming": false
   },
   {
-    "id": "u9EEh12k1iI",
-    "titulo": "(05.04.26 - 19h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/u9EEh12k1iI/hqdefault.jpg",
-    "data_publicacao": "2026-04-06T00:25:03Z",
+    "id": "pvoHZ37cToQ",
+    "titulo": "(09.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/pvoHZ37cToQ/hqdefault.jpg",
+    "data_publicacao": "2026-04-06T12:07:53Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "5boieltIP6c",
-    "titulo": "(05.04.26 - 11h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
-    "thumbnail": "https://i.ytimg.com/vi/5boieltIP6c/hqdefault.jpg",
-    "data_publicacao": "2026-04-05T16:33:08Z",
+    "id": "u9EEh12k1iI",
+    "titulo": "(05.04.26 - 19h) Semana Santa | Domingo da Páscoa na Ressureição do Senhor",
+    "thumbnail": "https://i.ytimg.com/vi/u9EEh12k1iI/hqdefault.jpg",
+    "data_publicacao": "2026-04-06T00:25:03Z",
     "isLive": false,
     "isUpcoming": false
   },
