@@ -1,13 +1,5 @@
 [
   {
-    "id": "DZHggKidw1w",
-    "titulo": "(11.04.26 - 18h30) Santa Missa | Domingo na Oitava da Páscoa | Dom. da Divina Misericórdia | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/DZHggKidw1w/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-06T12:11:26Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "hQPPlWcP8Lg",
     "titulo": "(13.04.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/hQPPlWcP8Lg/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-04-06T12:23:11Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "DZHggKidw1w",
+    "titulo": "(11.04.26 - 18h30) Santa Missa | Domingo na Oitava da Páscoa | Dom. da Divina Misericórdia | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/DZHggKidw1w/hqdefault.jpg",
+    "data_publicacao": "2026-04-11T23:33:10Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "EDvgTs-m3lk",
