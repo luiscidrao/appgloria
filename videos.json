@@ -1,13 +1,5 @@
 [
   {
-    "id": "dm-IVnHXT6E",
-    "titulo": "(12.04.26 - 19h) Santa Missa | Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
-    "thumbnail": "https://i.ytimg.com/vi/dm-IVnHXT6E/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-06T12:12:52Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "hQPPlWcP8Lg",
     "titulo": "(13.04.26 - 12h) Santa Missa | Nossa Senhora de Fátima |  Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/hQPPlWcP8Lg/hqdefault_live.jpg",
@@ -24,18 +16,26 @@
     "isUpcoming": true
   },
   {
-    "id": "ThmxZVpord8",
-    "titulo": "(12.04.26 - 11h) Santa Missa | Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
-    "thumbnail": "https://i.ytimg.com/vi/ThmxZVpord8/hqdefault.jpg",
-    "data_publicacao": "2026-04-12T16:24:14Z",
+    "id": "7B3mzcxFtEM",
+    "titulo": "(12.04.26 - 09h) Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
+    "thumbnail": "https://i.ytimg.com/vi/7B3mzcxFtEM/hqdefault.jpg",
+    "data_publicacao": "2026-04-13T02:09:40Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "7B3mzcxFtEM",
-    "titulo": "(12.04.26 - 09h) Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
-    "thumbnail": "https://i.ytimg.com/vi/7B3mzcxFtEM/hqdefault.jpg",
-    "data_publicacao": "2026-04-12T11:25:54Z",
+    "id": "dm-IVnHXT6E",
+    "titulo": "(12.04.26 - 19h) Santa Missa | Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
+    "thumbnail": "https://i.ytimg.com/vi/dm-IVnHXT6E/hqdefault.jpg",
+    "data_publicacao": "2026-04-13T00:24:19Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "ThmxZVpord8",
+    "titulo": "(12.04.26 - 11h) Santa Missa | Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
+    "thumbnail": "https://i.ytimg.com/vi/ThmxZVpord8/hqdefault.jpg",
+    "data_publicacao": "2026-04-12T16:24:14Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -68,14 +68,6 @@
     "titulo": "(09.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/pvoHZ37cToQ/hqdefault.jpg",
     "data_publicacao": "2026-04-10T00:27:56Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "3x3M3e2wSlw",
-    "titulo": "(07.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/3x3M3e2wSlw/hqdefault.jpg",
-    "data_publicacao": "2026-04-08T10:52:16Z",
     "isLive": false,
     "isUpcoming": false
   },
