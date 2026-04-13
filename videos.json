@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "Y0YAD8D2kaU",
+    "titulo": "(12.04.26 - 17h) Semana Santa | Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
+    "thumbnail": "https://i.ytimg.com/vi/Y0YAD8D2kaU/hqdefault.jpg",
+    "data_publicacao": "2026-04-13T09:14:40Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "7B3mzcxFtEM",
     "titulo": "(12.04.26 - 09h) Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
     "thumbnail": "https://i.ytimg.com/vi/7B3mzcxFtEM/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(10.04.26 - 18h30) Santa Missa | Oitava da Páscoa | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/-fzPuUs2dJ4/hqdefault.jpg",
     "data_publicacao": "2026-04-11T04:15:07Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Y0YAD8D2kaU",
-    "titulo": "(12.04.26 - 17h) Semana Santa | Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
-    "thumbnail": "https://i.ytimg.com/vi/Y0YAD8D2kaU/hqdefault.jpg",
-    "data_publicacao": "2026-04-06T12:20:55Z",
     "isLive": false,
     "isUpcoming": false
   }
