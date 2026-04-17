@@ -1,19 +1,35 @@
 [
   {
-    "id": "IGxMFJUl-9Y",
-    "titulo": "Terço das Famílias",
-    "thumbnail": "https://i.ytimg.com/vi/IGxMFJUl-9Y/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-16T14:41:10Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "nbZMrvV3JU8",
     "titulo": "(19.04.26 - 11h) Santa Missa | 3º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/nbZMrvV3JU8/hqdefault_live.jpg",
     "data_publicacao": "2026-04-14T16:03:44Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "0gUyKlgbyPg",
+    "titulo": "(19.04.26 - 9h) Santa Missa | 3º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/0gUyKlgbyPg/hqdefault_live.jpg",
+    "data_publicacao": "2026-04-14T16:04:39Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "d0YO-zhp5tk",
+    "titulo": "(16.04.26 - 18h30) Santa Missa | 2ª Semana da Páscoa | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/d0YO-zhp5tk/hqdefault.jpg",
+    "data_publicacao": "2026-04-16T23:28:23Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "IGxMFJUl-9Y",
+    "titulo": "Terço das Famílias",
+    "thumbnail": "https://i.ytimg.com/vi/IGxMFJUl-9Y/hqdefault.jpg",
+    "data_publicacao": "2026-04-16T14:41:10Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "lHmR8k2cvEc",
@@ -28,22 +44,6 @@
     "titulo": "(14.04.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | DIAC. CLÁUDIO CARVALHO",
     "thumbnail": "https://i.ytimg.com/vi/uHDDD9wTRyA/hqdefault.jpg",
     "data_publicacao": "2026-04-15T01:49:09Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "d0YO-zhp5tk",
-    "titulo": "(16.04.26 - 18h30) Santa Missa | 2ª Semana da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/d0YO-zhp5tk/hqdefault.jpg",
-    "data_publicacao": "2026-04-14T15:59:02Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "lpRDeUPcXjQ",
-    "titulo": "(13.04.26 - 18h30) Santa Missa | 2ª Semana da Páscoa | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/lpRDeUPcXjQ/hqdefault.jpg",
-    "data_publicacao": "2026-04-13T22:53:24Z",
     "isLive": false,
     "isUpcoming": false
   },
