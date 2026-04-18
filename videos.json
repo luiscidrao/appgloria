@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "sBMY07J5uhQ",
+    "titulo": "(17.04.26 - 18h30) Santa Missa | 2ª Semana da Páscoa | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/sBMY07J5uhQ/hqdefault.jpg",
+    "data_publicacao": "2026-04-18T00:16:58Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "IGxMFJUl-9Y",
     "titulo": "Terço das Famílias",
     "thumbnail": "https://i.ytimg.com/vi/IGxMFJUl-9Y/hqdefault.jpg",
@@ -48,26 +56,10 @@
     "isUpcoming": false
   },
   {
-    "id": "sBMY07J5uhQ",
-    "titulo": "(17.04.26 - 18h30) Santa Missa | 2ª Semana da Páscoa | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/sBMY07J5uhQ/hqdefault.jpg",
-    "data_publicacao": "2026-04-14T16:00:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "dm-IVnHXT6E",
     "titulo": "(12.04.26 - 19h) Santa Missa | Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
     "thumbnail": "https://i.ytimg.com/vi/dm-IVnHXT6E/hqdefault.jpg",
     "data_publicacao": "2026-04-13T00:24:19Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "ThmxZVpord8",
-    "titulo": "(12.04.26 - 11h) Santa Missa | Domingo na Oitava da Páscoa | Domingo da Divina Misericórdia",
-    "thumbnail": "https://i.ytimg.com/vi/ThmxZVpord8/hqdefault.jpg",
-    "data_publicacao": "2026-04-12T16:24:14Z",
     "isLive": false,
     "isUpcoming": false
   }
