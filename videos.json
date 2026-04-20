@@ -1,17 +1,25 @@
 [
   {
-    "id": "VEZNzg0tJQY",
-    "titulo": "(19.04.26 - 19h) Santa Missa | 3º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/VEZNzg0tJQY/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-14T16:02:04Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "wI6f77m5FLU",
     "titulo": "(19.04.26 - 17h) Semana Santa | 3º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/wI6f77m5FLU/hqdefault.jpg",
     "data_publicacao": "2026-04-14T16:02:47Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "VEZNzg0tJQY",
+    "titulo": "(19.04.26 - 19h) Santa Missa | 3º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/VEZNzg0tJQY/hqdefault.jpg",
+    "data_publicacao": "2026-04-20T00:33:28Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "0gUyKlgbyPg",
+    "titulo": "(19.04.26 - 9h) Santa Missa | 3º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/0gUyKlgbyPg/hqdefault.jpg",
+    "data_publicacao": "2026-04-20T01:46:46Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -68,22 +76,6 @@
     "titulo": "(15.04.26 - 18h30) Santa Missa | 2ª Semana da Páscoa | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/lHmR8k2cvEc/hqdefault.jpg",
     "data_publicacao": "2026-04-15T23:20:54Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "uHDDD9wTRyA",
-    "titulo": "(14.04.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | DIAC. CLÁUDIO CARVALHO",
-    "thumbnail": "https://i.ytimg.com/vi/uHDDD9wTRyA/hqdefault.jpg",
-    "data_publicacao": "2026-04-15T01:49:09Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "0gUyKlgbyPg",
-    "titulo": "(19.04.26 - 9h) Santa Missa | 3º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/0gUyKlgbyPg/hqdefault.jpg",
-    "data_publicacao": "2026-04-14T16:04:39Z",
     "isLive": false,
     "isUpcoming": false
   }
