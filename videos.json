@@ -8,18 +8,18 @@
     "isUpcoming": false
   },
   {
-    "id": "VEZNzg0tJQY",
-    "titulo": "(19.04.26 - 19h) Santa Missa | 3º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/VEZNzg0tJQY/hqdefault.jpg",
-    "data_publicacao": "2026-04-20T00:33:28Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "0gUyKlgbyPg",
     "titulo": "(19.04.26 - 9h) Santa Missa | 3º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/0gUyKlgbyPg/hqdefault.jpg",
     "data_publicacao": "2026-04-20T01:46:46Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "VEZNzg0tJQY",
+    "titulo": "(19.04.26 - 19h) Santa Missa | 3º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/VEZNzg0tJQY/hqdefault.jpg",
+    "data_publicacao": "2026-04-20T00:33:28Z",
     "isLive": false,
     "isUpcoming": false
   },
