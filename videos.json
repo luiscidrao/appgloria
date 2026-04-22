@@ -1,13 +1,5 @@
 [
   {
-    "id": "EDdH-DOQrJs",
-    "titulo": "(22.04.26 - 18h30) Santa Missa | 3ª Semana da Páscoa | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/EDdH-DOQrJs/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-20T18:15:00Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "-oslHoFv554",
     "titulo": "(24.04.26 - 18h30) Santa Missa | 3ª Semana da Páscoa | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/-oslHoFv554/hqdefault_live.jpg",
@@ -36,6 +28,14 @@
     "titulo": "(20.04.26 - 18h30) Santa Missa | 3ª Semana da Páscoa | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/RrV_t7-5LNw/hqdefault.jpg",
     "data_publicacao": "2026-04-20T22:52:21Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "EDdH-DOQrJs",
+    "titulo": "(22.04.26 - 18h30) Santa Missa | 3ª Semana da Páscoa | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/EDdH-DOQrJs/hqdefault.jpg",
+    "data_publicacao": "2026-04-20T18:15:00Z",
     "isLive": false,
     "isUpcoming": false
   },
