@@ -1,13 +1,5 @@
 [
   {
-    "id": "xjDfFYT5SqQ",
-    "titulo": "(26.04.26 - 19h) Santa Missa | 4º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/xjDfFYT5SqQ/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-23T19:53:44Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "St4XHhoILAI",
     "titulo": "Eu vejo milagres todos os dias | Formação para homens - Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/St4XHhoILAI/hqdefault_live.jpg",
@@ -16,10 +8,10 @@
     "isUpcoming": true
   },
   {
-    "id": "dAnXQK4eQk8",
-    "titulo": "(26.04.26 - 17h) Semana Santa | 4º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/dAnXQK4eQk8/hqdefault.jpg",
-    "data_publicacao": "2026-04-23T19:54:15Z",
+    "id": "xjDfFYT5SqQ",
+    "titulo": "(26.04.26 - 19h) Santa Missa | 4º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/xjDfFYT5SqQ/hqdefault.jpg",
+    "data_publicacao": "2026-04-27T00:28:28Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -52,6 +44,14 @@
     "titulo": "(23.04.26 - 18h30) Santa Missa | 3ª Semana da Páscoa | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/vASTQOhAMX0/hqdefault.jpg",
     "data_publicacao": "2026-04-23T23:28:58Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "dAnXQK4eQk8",
+    "titulo": "(26.04.26 - 17h) Semana Santa | 4º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/dAnXQK4eQk8/hqdefault.jpg",
+    "data_publicacao": "2026-04-23T19:54:15Z",
     "isLive": false,
     "isUpcoming": false
   },
