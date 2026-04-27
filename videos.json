@@ -8,6 +8,14 @@
     "isUpcoming": true
   },
   {
+    "id": "_RtkN9RHFLI",
+    "titulo": "(26.04.26 - 9h) Santa Missa | 4º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/_RtkN9RHFLI/hqdefault.jpg",
+    "data_publicacao": "2026-04-27T01:47:00Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "xjDfFYT5SqQ",
     "titulo": "(26.04.26 - 19h) Santa Missa | 4º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/xjDfFYT5SqQ/hqdefault.jpg",
@@ -40,26 +48,10 @@
     "isUpcoming": false
   },
   {
-    "id": "vASTQOhAMX0",
-    "titulo": "(23.04.26 - 18h30) Santa Missa | 3ª Semana da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/vASTQOhAMX0/hqdefault.jpg",
-    "data_publicacao": "2026-04-23T23:28:58Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "dAnXQK4eQk8",
     "titulo": "(26.04.26 - 17h) Semana Santa | 4º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/dAnXQK4eQk8/hqdefault.jpg",
     "data_publicacao": "2026-04-23T19:54:15Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "_RtkN9RHFLI",
-    "titulo": "(26.04.26 - 9h) Santa Missa | 4º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/_RtkN9RHFLI/hqdefault.jpg",
-    "data_publicacao": "2026-04-23T19:55:34Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -76,14 +68,6 @@
     "titulo": "(21.04.26 - 18h30) Santa Missa | 3ª Semana da Páscoa | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/1WD2TNV88M4/hqdefault.jpg",
     "data_publicacao": "2026-04-21T23:16:16Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "VEZNzg0tJQY",
-    "titulo": "(19.04.26 - 19h) Santa Missa | 3º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/VEZNzg0tJQY/hqdefault.jpg",
-    "data_publicacao": "2026-04-20T00:33:28Z",
     "isLive": false,
     "isUpcoming": false
   }
