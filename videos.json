@@ -4,14 +4,22 @@
     "titulo": "(04.04.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/b489itB-biY/hqdefault_live.jpg",
     "data_publicacao": "2026-05-02T09:54:42Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "ypuN8O-sp7k",
     "titulo": "(03.05.26 - 11h) Santa Missa | 5º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/ypuN8O-sp7k/hqdefault_live.jpg",
     "data_publicacao": "2026-04-27T12:03:03Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "zHdyOzoXkbU",
+    "titulo": "(03.05.26 - 9h) Santa Missa | 5º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/zHdyOzoXkbU/hqdefault_live.jpg",
+    "data_publicacao": "2026-04-27T12:03:40Z",
     "isLive": false,
     "isUpcoming": true
   },
