@@ -2,18 +2,18 @@
   {
     "id": "ypuN8O-sp7k",
     "titulo": "(03.05.26 - 11h) Santa Missa | 5º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/ypuN8O-sp7k/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-27T12:03:03Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/ypuN8O-sp7k/hqdefault.jpg",
+    "data_publicacao": "2026-05-03T16:39:41Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "zHdyOzoXkbU",
-    "titulo": "(03.05.26 - 9h) Santa Missa | 5º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/zHdyOzoXkbU/hqdefault.jpg",
-    "data_publicacao": "2026-04-27T12:03:40Z",
+    "id": "tJfVXxZdAXQ",
+    "titulo": "(03.05.26 - 17h) Semana Santa | 5º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/tJfVXxZdAXQ/hqdefault_live.jpg",
+    "data_publicacao": "2026-04-27T12:02:34Z",
     "isLive": false,
-    "isUpcoming": false
+    "isUpcoming": true
   },
   {
     "id": "b489itB-biY",
@@ -52,6 +52,14 @@
     "titulo": "(28.04.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | FÁTIMA SOUZA",
     "thumbnail": "https://i.ytimg.com/vi/zspG7_7kBTE/hqdefault.jpg",
     "data_publicacao": "2026-04-29T01:47:13Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "zHdyOzoXkbU",
+    "titulo": "(03.05.26 - 9h) Santa Missa | 5º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/zHdyOzoXkbU/hqdefault.jpg",
+    "data_publicacao": "2026-04-27T12:03:40Z",
     "isLive": false,
     "isUpcoming": false
   }
