@@ -1,17 +1,17 @@
 [
   {
-    "id": "tJfVXxZdAXQ",
-    "titulo": "(03.05.26 - 17h) Semana Santa | 5º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/tJfVXxZdAXQ/hqdefault_live.jpg",
-    "data_publicacao": "2026-04-27T12:02:34Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "ypuN8O-sp7k",
     "titulo": "(03.05.26 - 11h) Santa Missa | 5º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/ypuN8O-sp7k/hqdefault.jpg",
     "data_publicacao": "2026-05-03T16:39:41Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "tJfVXxZdAXQ",
+    "titulo": "(03.05.26 - 17h) Semana Santa | 5º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/tJfVXxZdAXQ/hqdefault.jpg",
+    "data_publicacao": "2026-04-27T12:02:34Z",
     "isLive": false,
     "isUpcoming": false
   },
