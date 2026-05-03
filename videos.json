@@ -16,14 +16,6 @@
     "isUpcoming": false
   },
   {
-    "id": "tJfVXxZdAXQ",
-    "titulo": "(03.05.26 - 17h) Semana Santa | 5º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/tJfVXxZdAXQ/hqdefault.jpg",
-    "data_publicacao": "2026-04-27T12:02:34Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "b489itB-biY",
     "titulo": "(02.05.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/b489itB-biY/hqdefault.jpg",
@@ -68,6 +60,14 @@
     "titulo": "(03.05.26 - 9h) Santa Missa | 5º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/zHdyOzoXkbU/hqdefault.jpg",
     "data_publicacao": "2026-04-27T12:03:40Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "tJfVXxZdAXQ",
+    "titulo": "(03.05.26 - 17h) Semana Santa | 5º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/tJfVXxZdAXQ/hqdefault.jpg",
+    "data_publicacao": "2026-04-27T12:02:34Z",
     "isLive": false,
     "isUpcoming": false
   }
