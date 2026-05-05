@@ -1,13 +1,5 @@
 [
   {
-    "id": "wb_0uJchtFs",
-    "titulo": "(05.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/wb_0uJchtFs/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-04T14:24:00Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "fKjSqGd4Ouo",
     "titulo": "(05.05.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
     "thumbnail": "https://i.ytimg.com/vi/fKjSqGd4Ouo/hqdefault_live.jpg",
@@ -28,6 +20,22 @@
     "titulo": "(04.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/SlW6G-f62uA/hqdefault.jpg",
     "data_publicacao": "2026-05-04T23:12:19Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "wb_0uJchtFs",
+    "titulo": "(05.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/wb_0uJchtFs/hqdefault.jpg",
+    "data_publicacao": "2026-05-04T14:24:00Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "tJfVXxZdAXQ",
+    "titulo": "(03.05.26 - 17h) Semana Santa | 5º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/tJfVXxZdAXQ/hqdefault.jpg",
+    "data_publicacao": "2026-05-04T09:11:25Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -84,14 +92,6 @@
     "titulo": "(30.04.26 - 18h30) Santa Missa | 4ª Semana da Páscoa | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/YmQ-aYMk_wo/hqdefault.jpg",
     "data_publicacao": "2026-05-01T00:30:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "zspG7_7kBTE",
-    "titulo": "(28.04.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | FÁTIMA SOUZA",
-    "thumbnail": "https://i.ytimg.com/vi/zspG7_7kBTE/hqdefault.jpg",
-    "data_publicacao": "2026-04-29T01:47:13Z",
     "isLive": false,
     "isUpcoming": false
   }
