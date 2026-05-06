@@ -1,13 +1,5 @@
 [
   {
-    "id": "fKjSqGd4Ouo",
-    "titulo": "(05.05.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
-    "thumbnail": "https://i.ytimg.com/vi/fKjSqGd4Ouo/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-05T20:32:21Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "j1vf6kaPa1A",
     "titulo": "(10.05.26 - 9h) Santa Missa | 6º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/j1vf6kaPa1A/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-05-04T14:37:20Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "fKjSqGd4Ouo",
+    "titulo": "(05.05.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
+    "thumbnail": "https://i.ytimg.com/vi/fKjSqGd4Ouo/hqdefault.jpg",
+    "data_publicacao": "2026-05-05T20:32:21Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "SlW6G-f62uA",
@@ -92,14 +92,6 @@
     "titulo": "(01.05.26 - 18h30) Santa Missa | 4ª Semana da Páscoa | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/8stvYJEU4Aw/hqdefault.jpg",
     "data_publicacao": "2026-05-02T00:36:42Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "YmQ-aYMk_wo",
-    "titulo": "(30.04.26 - 18h30) Santa Missa | 4ª Semana da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/YmQ-aYMk_wo/hqdefault.jpg",
-    "data_publicacao": "2026-05-01T00:30:41Z",
     "isLive": false,
     "isUpcoming": false
   }
