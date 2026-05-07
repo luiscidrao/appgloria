@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "YjZsNVfARg8",
+    "titulo": "(06.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/YjZsNVfARg8/hqdefault.jpg",
+    "data_publicacao": "2026-05-06T23:55:43Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "fKjSqGd4Ouo",
     "titulo": "(05.05.26 - 20h) Mergulhar | Uma série sobre maturidade, propósito, vida sacramental e de oração",
     "thumbnail": "https://i.ytimg.com/vi/fKjSqGd4Ouo/hqdefault.jpg",
@@ -40,14 +48,6 @@
     "isUpcoming": false
   },
   {
-    "id": "YjZsNVfARg8",
-    "titulo": "(06.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/YjZsNVfARg8/hqdefault.jpg",
-    "data_publicacao": "2026-05-04T14:27:30Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "tJfVXxZdAXQ",
     "titulo": "(03.05.26 - 17h) Semana Santa | 5º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/tJfVXxZdAXQ/hqdefault.jpg",
@@ -56,26 +56,10 @@
     "isUpcoming": false
   },
   {
-    "id": "zHdyOzoXkbU",
-    "titulo": "(03.05.26 - 9h) Santa Missa | 5º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/zHdyOzoXkbU/hqdefault.jpg",
-    "data_publicacao": "2026-05-04T01:38:37Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "CcH8dEg9Ah8",
     "titulo": "(03.05.26 - 19h) Santa Missa | 5º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/CcH8dEg9Ah8/hqdefault.jpg",
     "data_publicacao": "2026-05-04T00:28:51Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "ypuN8O-sp7k",
-    "titulo": "(03.05.26 - 11h) Santa Missa | 5º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/ypuN8O-sp7k/hqdefault.jpg",
-    "data_publicacao": "2026-05-03T16:39:41Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,6 +76,14 @@
     "titulo": "(02.05.26 - 18h30) Santa Missa | 5º Domingo da Páscoa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/-8lw3l109Yc/hqdefault.jpg",
     "data_publicacao": "2026-05-02T23:23:30Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "8stvYJEU4Aw",
+    "titulo": "(01.05.26 - 18h30) Santa Missa | 4ª Semana da Páscoa | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/8stvYJEU4Aw/hqdefault.jpg",
+    "data_publicacao": "2026-05-02T00:36:42Z",
     "isLive": false,
     "isUpcoming": false
   }
