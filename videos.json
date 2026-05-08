@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "4KrKOKbL6Js",
+    "titulo": "(07.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/4KrKOKbL6Js/hqdefault.jpg",
+    "data_publicacao": "2026-05-08T11:38:51Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "YjZsNVfARg8",
     "titulo": "(06.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/YjZsNVfARg8/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(05.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/wb_0uJchtFs/hqdefault.jpg",
     "data_publicacao": "2026-05-06T11:03:33Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "4KrKOKbL6Js",
-    "titulo": "(07.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/4KrKOKbL6Js/hqdefault.jpg",
-    "data_publicacao": "2026-05-04T14:28:23Z",
     "isLive": false,
     "isUpcoming": false
   },
