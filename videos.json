@@ -1,17 +1,17 @@
 [
   {
-    "id": "DA0DSfLdar8",
-    "titulo": "(10.05.26 - 11h) Santa Missa | 6º Domingo da Páscoa | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/DA0DSfLdar8/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-04T14:37:20Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "j1vf6kaPa1A",
     "titulo": "(10.05.26 - 9h) Santa Missa | 6º Domingo da Páscoa | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/j1vf6kaPa1A/hqdefault.jpg",
     "data_publicacao": "2026-05-04T14:37:45Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "DA0DSfLdar8",
+    "titulo": "(10.05.26 - 11h) Santa Missa | 6º Domingo da Páscoa | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/DA0DSfLdar8/hqdefault.jpg",
+    "data_publicacao": "2026-05-10T16:27:59Z",
     "isLive": false,
     "isUpcoming": false
   },
