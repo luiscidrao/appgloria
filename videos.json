@@ -1,13 +1,5 @@
 [
   {
-    "id": "U77_TdZTvNk",
-    "titulo": "(13.05.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/U77_TdZTvNk/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-11T17:47:49Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "77Bal6LY5Wo",
     "titulo": "(17.05.26 - 9h) Santa Missa | Ascensão do Senhor | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/77Bal6LY5Wo/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-05-11T17:54:35Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "U77_TdZTvNk",
+    "titulo": "(13.05.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/U77_TdZTvNk/hqdefault.jpg",
+    "data_publicacao": "2026-05-13T17:12:28Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "OenpmUDmdYw",
