@@ -1,13 +1,5 @@
 [
   {
-    "id": "OenpmUDmdYw",
-    "titulo": "(12.05.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | HUGO SANTOS",
-    "thumbnail": "https://i.ytimg.com/vi/OenpmUDmdYw/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-11T17:46:29Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "77Bal6LY5Wo",
     "titulo": "(17.05.26 - 9h) Santa Missa | Ascensão do Senhor | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/77Bal6LY5Wo/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-05-11T17:54:35Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "OenpmUDmdYw",
+    "titulo": "(12.05.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | HUGO SANTOS",
+    "thumbnail": "https://i.ytimg.com/vi/OenpmUDmdYw/hqdefault.jpg",
+    "data_publicacao": "2026-05-13T01:43:47Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "8h2AfRAkQ1U",
