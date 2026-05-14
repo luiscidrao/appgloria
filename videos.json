@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "Ftjqc-9ui1I",
+    "titulo": "(13.05.26 - 18h30) Santa Missa | 6ª Semana da Páscoa | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/Ftjqc-9ui1I/hqdefault.jpg",
+    "data_publicacao": "2026-05-14T01:42:59Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "U77_TdZTvNk",
     "titulo": "(13.05.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/U77_TdZTvNk/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(11.05.26 - 18h30) Santa Missa | 6ª Semana da Páscoa | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/8h2AfRAkQ1U/hqdefault.jpg",
     "data_publicacao": "2026-05-11T22:45:29Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Ftjqc-9ui1I",
-    "titulo": "(13.05.26 - 18h30) Santa Missa | 6ª Semana da Páscoa | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Ftjqc-9ui1I/hqdefault.jpg",
-    "data_publicacao": "2026-05-11T17:47:16Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -84,14 +84,6 @@
     "titulo": "(09.05.26 - 18h30) Santa Missa | 6º Domingo da Páscoa | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/Bj3Ix0a6UDk/hqdefault.jpg",
     "data_publicacao": "2026-05-09T23:34:32Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "ajhN4T2wMAQ",
-    "titulo": "(08.05.26 - 18h30) Santa Missa | 5ª Semana da Páscoa | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/ajhN4T2wMAQ/hqdefault.jpg",
-    "data_publicacao": "2026-05-08T23:59:45Z",
     "isLive": false,
     "isUpcoming": false
   }
