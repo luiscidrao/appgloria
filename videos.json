@@ -1,13 +1,5 @@
 [
   {
-    "id": "19fHbJYURoE",
-    "titulo": "(14.05.26 - 18h30) Santa Missa | 6ª Semana da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/19fHbJYURoE/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-11T17:48:59Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "77Bal6LY5Wo",
     "titulo": "(17.05.26 - 9h) Santa Missa | Ascensão do Senhor | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/77Bal6LY5Wo/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-05-11T17:54:35Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "19fHbJYURoE",
+    "titulo": "(14.05.26 - 18h30) Santa Missa | 6ª Semana da Páscoa | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/19fHbJYURoE/hqdefault.jpg",
+    "data_publicacao": "2026-05-15T00:09:39Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "Ftjqc-9ui1I",
