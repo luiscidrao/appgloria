@@ -1,13 +1,5 @@
 [
   {
-    "id": "W-9V6x4goSU",
-    "titulo": "(17.05.26 - 11h) Santa Missa | Ascensão do Senhor | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/W-9V6x4goSU/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-11T17:53:56Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "77Bal6LY5Wo",
     "titulo": "(17.05.26 - 9h) Santa Missa | Ascensão do Senhor | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/77Bal6LY5Wo/hqdefault.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-05-11T17:54:35Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "W-9V6x4goSU",
+    "titulo": "(17.05.26 - 11h) Santa Missa | Ascensão do Senhor | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/W-9V6x4goSU/hqdefault.jpg",
+    "data_publicacao": "2026-05-17T16:22:07Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "FRh0IRU3dlE",
