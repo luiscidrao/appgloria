@@ -1,13 +1,5 @@
 [
   {
-    "id": "FNFRfW9xiNQ",
-    "titulo": "(18.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/FNFRfW9xiNQ/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-18T13:30:44Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "_jHdrb2wp_g",
     "titulo": "(24.05.26 - 9h) Santa Missa | Domingo de Pentecostes | Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/_jHdrb2wp_g/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-05-18T13:37:19Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "FNFRfW9xiNQ",
+    "titulo": "(18.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/FNFRfW9xiNQ/hqdefault.jpg",
+    "data_publicacao": "2026-05-18T22:45:05Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "TpY9he7owcY",
@@ -92,14 +92,6 @@
     "titulo": "(13.05.26 - 18h30) Santa Missa | 6ª Semana da Páscoa | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/Ftjqc-9ui1I/hqdefault.jpg",
     "data_publicacao": "2026-05-14T01:42:59Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "U77_TdZTvNk",
-    "titulo": "(13.05.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/U77_TdZTvNk/hqdefault.jpg",
-    "data_publicacao": "2026-05-13T17:12:28Z",
     "isLive": false,
     "isUpcoming": false
   }
