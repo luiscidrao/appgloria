@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "HcMUJt_KHjM",
+    "titulo": "(19.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/HcMUJt_KHjM/hqdefault.jpg",
+    "data_publicacao": "2026-05-19T23:06:58Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "Co0LxXqdoak",
     "titulo": "(18.05.26 - 20h) Movimento Aviva",
     "thumbnail": "https://i.ytimg.com/vi/Co0LxXqdoak/hqdefault.jpg",
@@ -28,14 +36,6 @@
     "titulo": "(18.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/FNFRfW9xiNQ/hqdefault.jpg",
     "data_publicacao": "2026-05-18T22:45:05Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "HcMUJt_KHjM",
-    "titulo": "(19.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/HcMUJt_KHjM/hqdefault.jpg",
-    "data_publicacao": "2026-05-18T13:31:29Z",
     "isLive": false,
     "isUpcoming": false
   },
