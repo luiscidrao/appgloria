@@ -16,6 +16,22 @@
     "isUpcoming": true
   },
   {
+    "id": "OPixPiE2MMI",
+    "titulo": "(21.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/OPixPiE2MMI/hqdefault.jpg",
+    "data_publicacao": "2026-05-22T00:39:54Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "m1055BCkVqo",
+    "titulo": "Terço das Famílias | Movimento Cenáculo da Glória",
+    "thumbnail": "https://i.ytimg.com/vi/m1055BCkVqo/hqdefault.jpg",
+    "data_publicacao": "2026-05-21T23:13:07Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "QYZ5q-9KNEU",
     "titulo": "(20.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/QYZ5q-9KNEU/hqdefault.jpg",
@@ -44,14 +60,6 @@
     "titulo": "(18.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/FNFRfW9xiNQ/hqdefault.jpg",
     "data_publicacao": "2026-05-18T22:45:05Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "OPixPiE2MMI",
-    "titulo": "(21.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/OPixPiE2MMI/hqdefault.jpg",
-    "data_publicacao": "2026-05-18T13:33:35Z",
     "isLive": false,
     "isUpcoming": false
   },
