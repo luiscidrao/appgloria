@@ -1,19 +1,27 @@
 [
   {
-    "id": "Fi75LcPyuGA",
-    "titulo": "(23.05.26 - 22h) Vigília de Pentecostes",
-    "thumbnail": "https://i.ytimg.com/vi/Fi75LcPyuGA/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-23T10:22:59Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "_jHdrb2wp_g",
     "titulo": "(24.05.26 - 9h) Santa Missa | Domingo de Pentecostes | Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/_jHdrb2wp_g/hqdefault_live.jpg",
     "data_publicacao": "2026-05-18T13:37:43Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "nDBNLFGvJGk",
+    "titulo": "(24.05.26 - 11h) Santa Missa | Domingo de Pentecostes | Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/nDBNLFGvJGk/hqdefault_live.jpg",
+    "data_publicacao": "2026-05-18T13:37:19Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "Fi75LcPyuGA",
+    "titulo": "(23.05.26 - 22h) Vigília de Pentecostes",
+    "thumbnail": "https://i.ytimg.com/vi/Fi75LcPyuGA/hqdefault.jpg",
+    "data_publicacao": "2026-05-24T08:21:11Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "SvhvpYwPwvs",
