@@ -2,9 +2,17 @@
   {
     "id": "4LLA9wvn9Mg",
     "titulo": "(24.05.26 - 19h) Santa Missa | Domingo de Pentecostes | Solenidade",
-    "thumbnail": "https://i.ytimg.com/vi/4LLA9wvn9Mg/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-18T13:36:34Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/4LLA9wvn9Mg/hqdefault.jpg",
+    "data_publicacao": "2026-05-25T00:35:02Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "_jHdrb2wp_g",
+    "titulo": "(24.05.26 - 9h) Santa Missa | Domingo de Pentecostes | Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/_jHdrb2wp_g/hqdefault.jpg",
+    "data_publicacao": "2026-05-25T01:30:22Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -12,14 +20,6 @@
     "titulo": "(24.05.26 - 11h) Santa Missa | Domingo de Pentecostes | Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/nDBNLFGvJGk/hqdefault.jpg",
     "data_publicacao": "2026-05-24T16:20:33Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "hcRD_6Ewa88",
-    "titulo": "(24.05.26 - 17h) Santa Missa | Domingo de Pentecostes | Solenidade",
-    "thumbnail": "https://i.ytimg.com/vi/hcRD_6Ewa88/hqdefault.jpg",
-    "data_publicacao": "2026-05-18T13:36:56Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -64,14 +64,6 @@
     "isUpcoming": false
   },
   {
-    "id": "OPixPiE2MMI",
-    "titulo": "(21.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/OPixPiE2MMI/hqdefault.jpg",
-    "data_publicacao": "2026-05-22T00:39:54Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "QYZ5q-9KNEU",
     "titulo": "(20.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/QYZ5q-9KNEU/hqdefault.jpg",
@@ -80,10 +72,10 @@
     "isUpcoming": false
   },
   {
-    "id": "_jHdrb2wp_g",
-    "titulo": "(24.05.26 - 9h) Santa Missa | Domingo de Pentecostes | Solenidade",
-    "thumbnail": "https://i.ytimg.com/vi/_jHdrb2wp_g/hqdefault.jpg",
-    "data_publicacao": "2026-05-18T13:37:43Z",
+    "id": "hcRD_6Ewa88",
+    "titulo": "(24.05.26 - 17h) Santa Missa | Domingo de Pentecostes | Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/hcRD_6Ewa88/hqdefault.jpg",
+    "data_publicacao": "2026-05-18T13:36:56Z",
     "isLive": false,
     "isUpcoming": false
   }
