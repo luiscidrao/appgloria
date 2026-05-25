@@ -1,17 +1,17 @@
 [
   {
-    "id": "4LLA9wvn9Mg",
-    "titulo": "(24.05.26 - 19h) Santa Missa | Domingo de Pentecostes | Solenidade",
-    "thumbnail": "https://i.ytimg.com/vi/4LLA9wvn9Mg/hqdefault.jpg",
-    "data_publicacao": "2026-05-25T00:35:02Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "_jHdrb2wp_g",
     "titulo": "(24.05.26 - 9h) Santa Missa | Domingo de Pentecostes | Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/_jHdrb2wp_g/hqdefault.jpg",
     "data_publicacao": "2026-05-25T01:30:22Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "4LLA9wvn9Mg",
+    "titulo": "(24.05.26 - 19h) Santa Missa | Domingo de Pentecostes | Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/4LLA9wvn9Mg/hqdefault.jpg",
+    "data_publicacao": "2026-05-25T00:35:02Z",
     "isLive": false,
     "isUpcoming": false
   },
