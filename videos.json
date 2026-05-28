@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "WWx4LZwi9QE",
+    "titulo": "(27.05.26 - 18h30) Santa Missa | 8ª Semana da Páscoa | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/WWx4LZwi9QE/hqdefault.jpg",
+    "data_publicacao": "2026-05-28T00:00:17Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "3c7fd8e3d58",
     "titulo": "(26.05.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | ANA CLARA E ITALO",
     "thumbnail": "https://i.ytimg.com/vi/3c7fd8e3d58/hqdefault.jpg",
@@ -32,14 +40,6 @@
     "isUpcoming": false
   },
   {
-    "id": "WWx4LZwi9QE",
-    "titulo": "(27.05.26 - 18h30) Santa Missa | 8ª Semana da Páscoa | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/WWx4LZwi9QE/hqdefault.jpg",
-    "data_publicacao": "2026-05-25T21:57:11Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "hcRD_6Ewa88",
     "titulo": "(24.05.26 - 17h) Santa Missa | Domingo de Pentecostes | Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/hcRD_6Ewa88/hqdefault.jpg",
@@ -48,26 +48,10 @@
     "isUpcoming": false
   },
   {
-    "id": "_jHdrb2wp_g",
-    "titulo": "(24.05.26 - 9h) Santa Missa | Domingo de Pentecostes | Solenidade",
-    "thumbnail": "https://i.ytimg.com/vi/_jHdrb2wp_g/hqdefault.jpg",
-    "data_publicacao": "2026-05-25T01:30:22Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "4LLA9wvn9Mg",
     "titulo": "(24.05.26 - 19h) Santa Missa | Domingo de Pentecostes | Solenidade",
     "thumbnail": "https://i.ytimg.com/vi/4LLA9wvn9Mg/hqdefault.jpg",
     "data_publicacao": "2026-05-25T00:35:02Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "nDBNLFGvJGk",
-    "titulo": "(24.05.26 - 11h) Santa Missa | Domingo de Pentecostes | Solenidade",
-    "thumbnail": "https://i.ytimg.com/vi/nDBNLFGvJGk/hqdefault.jpg",
-    "data_publicacao": "2026-05-24T16:20:33Z",
     "isLive": false,
     "isUpcoming": false
   },
