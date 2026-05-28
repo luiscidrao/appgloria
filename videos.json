@@ -1,5 +1,13 @@
 [
   {
+    "id": "HvVh_PlM9RE",
+    "titulo": "(28.05.26 - 18h30) Santa Missa | 8ª Semana da Páscoa | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/HvVh_PlM9RE/hqdefault_live.jpg",
+    "data_publicacao": "2026-05-25T21:57:54Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
     "id": "KynezqhnTQs",
     "titulo": "(30.05.26 - 20h00) Coroação de Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/KynezqhnTQs/hqdefault_live.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(25.05.26 - 18h30) Santa Missa | Bem-aventurada Virgem Maria, Mãe da Igreja | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/PGM91khXHks/hqdefault.jpg",
     "data_publicacao": "2026-05-26T10:47:40Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "hcRD_6Ewa88",
-    "titulo": "(24.05.26 - 17h) Santa Missa | Domingo de Pentecostes | Solenidade",
-    "thumbnail": "https://i.ytimg.com/vi/hcRD_6Ewa88/hqdefault.jpg",
-    "data_publicacao": "2026-05-25T10:12:06Z",
     "isLive": false,
     "isUpcoming": false
   },
