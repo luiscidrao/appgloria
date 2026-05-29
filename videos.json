@@ -1,45 +1,5 @@
 [
   {
-    "id": "HvVh_PlM9RE",
-    "titulo": "(28.05.26 - 18h30) Santa Missa | 8ª Semana da Páscoa | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/HvVh_PlM9RE/hqdefault.jpg",
-    "data_publicacao": "2026-05-28T23:46:58Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "u3eN8vgjkw8",
-    "titulo": "Que eu Te veja -  Minuto do Evangelho - Pe. Helano Samy | Evangelho (Mc 10,46-52)",
-    "thumbnail": "https://i.ytimg.com/vi/u3eN8vgjkw8/hqdefault.jpg",
-    "data_publicacao": "2026-05-28T19:23:30Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "I8rJINYYDq8",
-    "titulo": "Jesus é Jerusalém -  Minuto do Evangelho - Pe. Helano Samy | Evangelho (Mc 10,32-45)",
-    "thumbnail": "https://i.ytimg.com/vi/I8rJINYYDq8/hqdefault.jpg",
-    "data_publicacao": "2026-05-28T17:59:09Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "4GWoNuGdYKg",
-    "titulo": "Das drogas à defesa da fé católica | Daniel Silveira",
-    "thumbnail": "https://i.ytimg.com/vi/4GWoNuGdYKg/hqdefault.jpg",
-    "data_publicacao": "2026-05-28T15:00:06Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "bdtu4ayStYk",
-    "titulo": "Domingo de Pentecostes | Solenidade - Homilia Pe. Helano Samy | Evangelho (Jo 20.19-23)",
-    "thumbnail": "https://i.ytimg.com/vi/bdtu4ayStYk/hqdefault.jpg",
-    "data_publicacao": "2026-05-28T13:21:15Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "KynezqhnTQs",
     "titulo": "(30.05.26 - 20h00) Coroação de Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/KynezqhnTQs/hqdefault_live.jpg",
@@ -48,10 +8,18 @@
     "isUpcoming": true
   },
   {
-    "id": "1VW9VZtTQe0",
-    "titulo": "7ª Semana da Páscoa | Sexta-feira - Homilia Pe. Helano Samy | Evangelho (Jo 21,15-19)",
-    "thumbnail": "https://i.ytimg.com/vi/1VW9VZtTQe0/hqdefault.jpg",
-    "data_publicacao": "2026-05-28T12:43:11Z",
+    "id": "iUm-hXxSbZU",
+    "titulo": "(31.05.26 - 9h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/iUm-hXxSbZU/hqdefault_live.jpg",
+    "data_publicacao": "2026-05-25T22:01:38Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "HvVh_PlM9RE",
+    "titulo": "(28.05.26 - 18h30) Santa Missa | 8ª Semana da Páscoa | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/HvVh_PlM9RE/hqdefault.jpg",
+    "data_publicacao": "2026-05-28T23:46:58Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -64,18 +32,42 @@
     "isUpcoming": false
   },
   {
-    "id": "w5xvANZ9XsI",
-    "titulo": "A Santa Missa",
-    "thumbnail": "https://i.ytimg.com/vi/w5xvANZ9XsI/hqdefault.jpg",
-    "data_publicacao": "2026-05-27T11:45:12Z",
+    "id": "hcRD_6Ewa88",
+    "titulo": "(24.05.26 - 17h) Santa Missa | Domingo de Pentecostes | Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/hcRD_6Ewa88/hqdefault.jpg",
+    "data_publicacao": "2026-05-25T10:12:06Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "3c7fd8e3d58",
-    "titulo": "(26.05.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | ANA CLARA E ITALO",
-    "thumbnail": "https://i.ytimg.com/vi/3c7fd8e3d58/hqdefault.jpg",
-    "data_publicacao": "2026-05-27T02:09:20Z",
+    "id": "4LLA9wvn9Mg",
+    "titulo": "(24.05.26 - 19h) Santa Missa | Domingo de Pentecostes | Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/4LLA9wvn9Mg/hqdefault.jpg",
+    "data_publicacao": "2026-05-25T00:35:02Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "nDBNLFGvJGk",
+    "titulo": "(24.05.26 - 11h) Santa Missa | Domingo de Pentecostes | Solenidade",
+    "thumbnail": "https://i.ytimg.com/vi/nDBNLFGvJGk/hqdefault.jpg",
+    "data_publicacao": "2026-05-24T16:20:33Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "Fi75LcPyuGA",
+    "titulo": "(23.05.26 - 22h) Vigília de Pentecostes",
+    "thumbnail": "https://i.ytimg.com/vi/Fi75LcPyuGA/hqdefault.jpg",
+    "data_publicacao": "2026-05-24T08:21:11Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "h15W93MaBu4",
+    "titulo": "(22.05.26 - 18h30) Santa Missa | 7ª Semana da Páscoa | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/h15W93MaBu4/hqdefault.jpg",
+    "data_publicacao": "2026-05-22T23:30:47Z",
     "isLive": false,
     "isUpcoming": false
   }
