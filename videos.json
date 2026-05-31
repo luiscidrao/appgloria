@@ -1,13 +1,5 @@
 [
   {
-    "id": "h8rQ7xgwTwE",
-    "titulo": "(31.05.26 - 17h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/h8rQ7xgwTwE/hqdefault_live.jpg",
-    "data_publicacao": "2026-05-25T22:00:39Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "iUm-hXxSbZU",
     "titulo": "(31.05.26 - 9h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/iUm-hXxSbZU/hqdefault.jpg",
@@ -60,6 +52,14 @@
     "titulo": "(27.05.26 - 18h30) Santa Missa | 8ª Semana da Páscoa | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/WWx4LZwi9QE/hqdefault.jpg",
     "data_publicacao": "2026-05-28T00:00:17Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "h8rQ7xgwTwE",
+    "titulo": "(31.05.26 - 17h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/h8rQ7xgwTwE/hqdefault.jpg",
+    "data_publicacao": "2026-05-25T22:00:39Z",
     "isLive": false,
     "isUpcoming": false
   },
