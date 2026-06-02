@@ -1,7 +1,7 @@
 [
   {
     "id": "kEmD5D1HOeM",
-    "titulo": "(02.06.26 - 20h) Movimento Aviva",
+    "titulo": "(02.06.26 - 20h) Movimento Aviva - Marcelo Viana",
     "thumbnail": "https://i.ytimg.com/vi/kEmD5D1HOeM/hqdefault_live.jpg",
     "data_publicacao": "2026-06-02T12:58:40Z",
     "isLive": false,
@@ -20,6 +20,14 @@
     "titulo": "(01.06.26 - 18h30) Santa Missa | 9ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/yQRruZg5DvI/hqdefault.jpg",
     "data_publicacao": "2026-06-01T23:09:37Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "YgK8Ot9_NNI",
+    "titulo": "(02.06.26 - 18h30) Santa Missa | 9ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/YgK8Ot9_NNI/hqdefault.jpg",
+    "data_publicacao": "2026-06-01T18:18:54Z",
     "isLive": false,
     "isUpcoming": false
   },
