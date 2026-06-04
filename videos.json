@@ -1,10 +1,18 @@
 [
   {
+    "id": "TQ5VfuEE4VA",
+    "titulo": "(04.06.26 - 19h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/TQ5VfuEE4VA/hqdefault_live.jpg",
+    "data_publicacao": "2026-06-01T18:19:29Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
     "id": "GAyqz1KhM_Y",
     "titulo": "(04.06.26 - 17h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/GAyqz1KhM_Y/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-04T10:19:56Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/GAyqz1KhM_Y/hqdefault.jpg",
+    "data_publicacao": "2026-06-04T21:46:33Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -14,14 +22,6 @@
     "data_publicacao": "2026-06-04T16:18:01Z",
     "isLive": false,
     "isUpcoming": false
-  },
-  {
-    "id": "ZLfvxBxx9TI",
-    "titulo": "(07.06.26 - 11h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/ZLfvxBxx9TI/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-01T18:22:31Z",
-    "isLive": false,
-    "isUpcoming": true
   },
   {
     "id": "dXgZp3pgtS0",
@@ -84,14 +84,6 @@
     "titulo": "(31.05.26 - 19h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/DgrpgLNnkbM/hqdefault.jpg",
     "data_publicacao": "2026-06-01T00:25:37Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "HmwX2fj0Y6s",
-    "titulo": "(31.05.26 - 11h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/HmwX2fj0Y6s/hqdefault.jpg",
-    "data_publicacao": "2026-05-31T16:30:47Z",
     "isLive": false,
     "isUpcoming": false
   }
