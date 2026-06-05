@@ -1,13 +1,5 @@
 [
   {
-    "id": "TQ5VfuEE4VA",
-    "titulo": "(04.06.26 - 19h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/TQ5VfuEE4VA/hqdefault.jpg",
-    "data_publicacao": "2026-06-05T00:50:49Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "ZLfvxBxx9TI",
     "titulo": "(07.06.26 - 11h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/ZLfvxBxx9TI/hqdefault_live.jpg",
@@ -16,10 +8,26 @@
     "isUpcoming": true
   },
   {
+    "id": "qnPCaYHwuWU",
+    "titulo": "(07.06.26 - 17h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/qnPCaYHwuWU/hqdefault_live.jpg",
+    "data_publicacao": "2026-06-01T18:22:55Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
     "id": "dXgZp3pgtS0",
     "titulo": "(04.06.26 - 9h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/dXgZp3pgtS0/hqdefault.jpg",
     "data_publicacao": "2026-06-05T01:53:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "TQ5VfuEE4VA",
+    "titulo": "(04.06.26 - 19h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/TQ5VfuEE4VA/hqdefault.jpg",
+    "data_publicacao": "2026-06-05T00:50:49Z",
     "isLive": false,
     "isUpcoming": false
   },
