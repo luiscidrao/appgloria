@@ -80,18 +80,18 @@
     "isUpcoming": false
   },
   {
-    "id": "kEmD5D1HOeM",
-    "titulo": "(02.06.26 - 20h) Movimento Aviva - Marcelo Viana",
-    "thumbnail": "https://i.ytimg.com/vi/kEmD5D1HOeM/hqdefault.jpg",
-    "data_publicacao": "2026-06-03T13:42:36Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "YgK8Ot9_NNI",
     "titulo": "(02.06.26 - 18h30) Santa Missa | 9ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/YgK8Ot9_NNI/hqdefault.jpg",
     "data_publicacao": "2026-06-02T22:39:22Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "iUm-hXxSbZU",
+    "titulo": "(31.05.26 - 9h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/iUm-hXxSbZU/hqdefault.jpg",
+    "data_publicacao": "2026-06-01T01:43:51Z",
     "isLive": false,
     "isUpcoming": false
   }
