@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "sMc14xzlblY",
+    "titulo": "(05.06.26 - 18h30) Santa Missa | 9ª Semana do Tempo Comum  | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/sMc14xzlblY/hqdefault.jpg",
+    "data_publicacao": "2026-06-06T01:50:41Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "dXgZp3pgtS0",
     "titulo": "(04.06.26 - 9h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/dXgZp3pgtS0/hqdefault.jpg",
@@ -76,14 +84,6 @@
     "titulo": "(02.06.26 - 18h30) Santa Missa | 9ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/YgK8Ot9_NNI/hqdefault.jpg",
     "data_publicacao": "2026-06-02T22:39:22Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "sMc14xzlblY",
-    "titulo": "(05.06.26 - 18h30) Santa Missa | 9ª Semana do Tempo Comum  | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/sMc14xzlblY/hqdefault.jpg",
-    "data_publicacao": "2026-06-01T18:20:19Z",
     "isLive": false,
     "isUpcoming": false
   },
