@@ -1,13 +1,5 @@
 [
   {
-    "id": "Pl9qdIUbIHA",
-    "titulo": "(06.06.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/Pl9qdIUbIHA/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-06T10:28:59Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "ZLfvxBxx9TI",
     "titulo": "(07.06.26 - 11h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/ZLfvxBxx9TI/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-06-01T18:22:55Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "Pl9qdIUbIHA",
+    "titulo": "(06.06.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
+    "thumbnail": "https://i.ytimg.com/vi/Pl9qdIUbIHA/hqdefault.jpg",
+    "data_publicacao": "2026-06-06T10:28:59Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "sMc14xzlblY",
@@ -92,14 +92,6 @@
     "titulo": "(02.06.26 - 18h30) Santa Missa | 9ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/YgK8Ot9_NNI/hqdefault.jpg",
     "data_publicacao": "2026-06-02T22:39:22Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "iUm-hXxSbZU",
-    "titulo": "(31.05.26 - 9h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/iUm-hXxSbZU/hqdefault.jpg",
-    "data_publicacao": "2026-06-01T01:43:51Z",
     "isLive": false,
     "isUpcoming": false
   }
