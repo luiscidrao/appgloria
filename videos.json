@@ -1,13 +1,5 @@
 [
   {
-    "id": "eGyDJLwqxSU",
-    "titulo": "(06.06.26 - 18h30) Santa Missa | 10º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/eGyDJLwqxSU/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-01T18:21:12Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "ZLfvxBxx9TI",
     "titulo": "(07.06.26 - 11h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/ZLfvxBxx9TI/hqdefault_live.jpg",
@@ -96,10 +88,10 @@
     "isUpcoming": false
   },
   {
-    "id": "iUm-hXxSbZU",
-    "titulo": "(31.05.26 - 9h) Santa Missa | Santíssima Trindade | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/iUm-hXxSbZU/hqdefault.jpg",
-    "data_publicacao": "2026-06-01T01:43:51Z",
+    "id": "eGyDJLwqxSU",
+    "titulo": "(06.06.26 - 18h30) Santa Missa | 10º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/eGyDJLwqxSU/hqdefault.jpg",
+    "data_publicacao": "2026-06-01T18:21:12Z",
     "isLive": false,
     "isUpcoming": false
   }
