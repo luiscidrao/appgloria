@@ -4,8 +4,8 @@
     "titulo": "(07.06.26 - 11h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/ZLfvxBxx9TI/hqdefault_live.jpg",
     "data_publicacao": "2026-06-01T18:22:31Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "qnPCaYHwuWU",
@@ -68,14 +68,6 @@
     "titulo": "(04.06.26 - 11h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/og-REqHwd5E/hqdefault.jpg",
     "data_publicacao": "2026-06-04T16:18:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "J--I4BoVuwQ",
-    "titulo": "Tapetes de Corpus Christi",
-    "thumbnail": "https://i.ytimg.com/vi/J--I4BoVuwQ/hqdefault.jpg",
-    "data_publicacao": "2026-06-04T10:10:28Z",
     "isLive": false,
     "isUpcoming": false
   },
