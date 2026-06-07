@@ -4,8 +4,8 @@
     "titulo": "(07.06.26 - 17h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/qnPCaYHwuWU/hqdefault_live.jpg",
     "data_publicacao": "2026-06-01T18:22:55Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "M621_afFwik",
