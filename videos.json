@@ -1,17 +1,17 @@
 [
   {
-    "id": "M621_afFwik",
-    "titulo": "(07.06.26 - 19h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/M621_afFwik/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-01T18:22:07Z",
-    "isLive": true,
-    "isUpcoming": false
+    "id": "mpIgwJf9H4E",
+    "titulo": "(07.06.26 - 9h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/mpIgwJf9H4E/hqdefault_live.jpg",
+    "data_publicacao": "2026-06-01T18:23:16Z",
+    "isLive": false,
+    "isUpcoming": true
   },
   {
-    "id": "qnPCaYHwuWU",
-    "titulo": "(07.06.26 - 17h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/qnPCaYHwuWU/hqdefault.jpg",
-    "data_publicacao": "2026-06-01T18:22:55Z",
+    "id": "M621_afFwik",
+    "titulo": "(07.06.26 - 19h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/M621_afFwik/hqdefault.jpg",
+    "data_publicacao": "2026-06-08T00:20:25Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -48,14 +48,6 @@
     "isUpcoming": false
   },
   {
-    "id": "dXgZp3pgtS0",
-    "titulo": "(04.06.26 - 9h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/dXgZp3pgtS0/hqdefault.jpg",
-    "data_publicacao": "2026-06-05T01:53:20Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "TQ5VfuEE4VA",
     "titulo": "(04.06.26 - 19h) Santíssimo Corpo e Sangue de Cristo | Solenidade | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/TQ5VfuEE4VA/hqdefault.jpg",
@@ -84,6 +76,14 @@
     "titulo": "(03.06.26 - 18h30) Santa Missa | 9ª Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/Zs5AmowZZoM/hqdefault.jpg",
     "data_publicacao": "2026-06-03T23:27:49Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "qnPCaYHwuWU",
+    "titulo": "(07.06.26 - 17h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/qnPCaYHwuWU/hqdefault.jpg",
+    "data_publicacao": "2026-06-01T18:22:55Z",
     "isLive": false,
     "isUpcoming": false
   }
