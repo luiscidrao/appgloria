@@ -4,8 +4,8 @@
     "titulo": "(14.06.26 - 9h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/MErVbaonLjc/hqdefault_live.jpg",
     "data_publicacao": "2026-06-08T20:15:39Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "G4WmvfHD37E",
@@ -14,6 +14,14 @@
     "data_publicacao": "2026-06-08T20:13:54Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "zKbRwKngt6I",
+    "titulo": "(13.06.26 - 18h30) Santa Missa | 11º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/zKbRwKngt6I/hqdefault.jpg",
+    "data_publicacao": "2026-06-14T11:19:48Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "F7kCksq3zeI",
@@ -36,14 +44,6 @@
     "titulo": "(11.06.26 - 18h30) Santa Missa | 10ª Semana do Tempo Comum  | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/vX0D4xym4ak/hqdefault.jpg",
     "data_publicacao": "2026-06-11T23:59:13Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "zKbRwKngt6I",
-    "titulo": "(13.06.26 - 18h30) Santa Missa | 11º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/zKbRwKngt6I/hqdefault.jpg",
-    "data_publicacao": "2026-06-08T20:10:27Z",
     "isLive": false,
     "isUpcoming": false
   }
