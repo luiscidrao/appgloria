@@ -8,6 +8,14 @@
     "isUpcoming": true
   },
   {
+    "id": "G4WmvfHD37E",
+    "titulo": "(14.06.26 - 11h) Santa Missa | 11º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/G4WmvfHD37E/hqdefault_live.jpg",
+    "data_publicacao": "2026-06-08T20:13:54Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
     "id": "F7kCksq3zeI",
     "titulo": "(13.06.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/F7kCksq3zeI/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(13.06.26 - 18h30) Santa Missa | 11º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/zKbRwKngt6I/hqdefault.jpg",
     "data_publicacao": "2026-06-08T20:10:27Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "M621_afFwik",
-    "titulo": "(07.06.26 - 19h) Santa Missa | 10º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/M621_afFwik/hqdefault.jpg",
-    "data_publicacao": "2026-06-08T00:20:25Z",
     "isLive": false,
     "isUpcoming": false
   }
