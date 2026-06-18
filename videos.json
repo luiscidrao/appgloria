@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "XrXwzloTfLM",
+    "titulo": "(17.06.26 - 18h30) Santa Missa | 11ª Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/XrXwzloTfLM/hqdefault.jpg",
+    "data_publicacao": "2026-06-18T00:42:38Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "rdtmJ7QpYC4",
     "titulo": "(16.06.26 - 20h) Movimento Aviva - Gustavo Brígido",
     "thumbnail": "https://i.ytimg.com/vi/rdtmJ7QpYC4/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(15.06.26 - 18h30) Santa Missa | 11º Semana do Tempo Comum  | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/Lv2TI5u9Jkc/hqdefault.jpg",
     "data_publicacao": "2026-06-15T22:47:24Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "XrXwzloTfLM",
-    "titulo": "(17.06.26 - 18h30) Santa Missa | 11ª Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/XrXwzloTfLM/hqdefault.jpg",
-    "data_publicacao": "2026-06-15T13:30:49Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -72,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "G4WmvfHD37E",
-    "titulo": "(14.06.26 - 11h) Santa Missa | 11º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/G4WmvfHD37E/hqdefault.jpg",
-    "data_publicacao": "2026-06-14T16:20:07Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "zKbRwKngt6I",
     "titulo": "(13.06.26 - 18h30) Santa Missa | 11º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/zKbRwKngt6I/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(13.06.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/F7kCksq3zeI/hqdefault.jpg",
     "data_publicacao": "2026-06-13T16:57:03Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "vX0D4xym4ak",
+    "titulo": "(11.06.26 - 18h30) Santa Missa | 10ª Semana do Tempo Comum  | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/vX0D4xym4ak/hqdefault.jpg",
+    "data_publicacao": "2026-06-11T23:59:13Z",
     "isLive": false,
     "isUpcoming": false
   }
