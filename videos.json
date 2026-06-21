@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "3-qYjoCO54I",
+    "titulo": "(20.06.26 - 18h30) Santa Missa | 12º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/3-qYjoCO54I/hqdefault.jpg",
+    "data_publicacao": "2026-06-21T00:43:19Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "psPy_57XnCk",
     "titulo": "(19.06.26 - 18h30) Santa Missa | 11º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/psPy_57XnCk/hqdefault.jpg",
@@ -48,26 +56,10 @@
     "isUpcoming": false
   },
   {
-    "id": "xyM2UAe5hFY",
-    "titulo": "(16.06.26 - 18h30) Santa Missa | 11º Semana do Tempo Comum  | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/xyM2UAe5hFY/hqdefault.jpg",
-    "data_publicacao": "2026-06-16T23:42:03Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "Lv2TI5u9Jkc",
     "titulo": "(15.06.26 - 18h30) Santa Missa | 11º Semana do Tempo Comum  | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/Lv2TI5u9Jkc/hqdefault.jpg",
     "data_publicacao": "2026-06-15T22:47:24Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "3-qYjoCO54I",
-    "titulo": "(20.06.26 - 18h30) Santa Missa | 12º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/3-qYjoCO54I/hqdefault.jpg",
-    "data_publicacao": "2026-06-15T13:34:54Z",
     "isLive": false,
     "isUpcoming": false
   },
