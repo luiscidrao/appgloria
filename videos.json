@@ -48,14 +48,6 @@
     "isUpcoming": false
   },
   {
-    "id": "2RB67kn9TYw",
-    "titulo": "(21.06.26 - 9h) Santa Missa | 12º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/2RB67kn9TYw/hqdefault.jpg",
-    "data_publicacao": "2026-06-22T01:21:07Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "MM2dql6vQIU",
     "titulo": "(21.06.26 - 19h) Santa Missa | 12º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/MM2dql6vQIU/hqdefault.jpg",
@@ -84,14 +76,6 @@
     "titulo": "(19.06.26 - 18h30) Santa Missa | 11º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/psPy_57XnCk/hqdefault.jpg",
     "data_publicacao": "2026-06-20T00:02:43Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Xm12peagnDc",
-    "titulo": "(18.06.26 - 18h30) Santa Missa | 11ª Semana do Tempo Comum  | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Xm12peagnDc/hqdefault.jpg",
-    "data_publicacao": "2026-06-19T00:03:43Z",
     "isLive": false,
     "isUpcoming": false
   }
