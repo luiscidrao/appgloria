@@ -1,19 +1,11 @@
 [
   {
-    "id": "lPk1xrOiGiU",
-    "titulo": "(26.06.26 - 18h30) Santa Missa | 12º Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/lPk1xrOiGiU/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-23T19:30:30Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "eNF1HL9OFPk",
     "titulo": "(26.06.26 - 20h30) Encerramento do mês do Sagrado Coração de Jesus | Adoração e formação Pe. Helano",
     "thumbnail": "https://i.ytimg.com/vi/eNF1HL9OFPk/hqdefault_live.jpg",
     "data_publicacao": "2026-06-25T22:49:58Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "BjlJHIR6psk",
@@ -44,6 +36,14 @@
     "titulo": "(23.06.26 - 18h30) Santa Missa | 12º Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/sWQ5_D38tew/hqdefault.jpg",
     "data_publicacao": "2026-06-24T12:37:21Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "lPk1xrOiGiU",
+    "titulo": "(26.06.26 - 18h30) Santa Missa | 12º Semana do Tempo Comum | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/lPk1xrOiGiU/hqdefault.jpg",
+    "data_publicacao": "2026-06-23T19:30:30Z",
     "isLive": false,
     "isUpcoming": false
   },
