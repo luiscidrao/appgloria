@@ -1,9 +1,9 @@
 [
   {
-    "id": "BiZqf7Zwx9I",
-    "titulo": "(28.06.26 - 9h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/BiZqf7Zwx9I/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-23T19:39:48Z",
+    "id": "ZIKEMtwoO1U",
+    "titulo": "(28.06.26 - 11h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/ZIKEMtwoO1U/hqdefault_live.jpg",
+    "data_publicacao": "2026-06-23T19:39:08Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -12,14 +12,6 @@
     "titulo": "(30.06.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
     "thumbnail": "https://i.ytimg.com/vi/BjlJHIR6psk/hqdefault_live.jpg",
     "data_publicacao": "2026-06-23T19:40:59Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "ZIKEMtwoO1U",
-    "titulo": "(28.06.26 - 11h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/ZIKEMtwoO1U/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-23T19:39:08Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -60,6 +52,14 @@
     "titulo": "(23.06.26 - 18h30) Santa Missa | 12º Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/sWQ5_D38tew/hqdefault.jpg",
     "data_publicacao": "2026-06-24T12:37:21Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "BiZqf7Zwx9I",
+    "titulo": "(28.06.26 - 9h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/BiZqf7Zwx9I/hqdefault.jpg",
+    "data_publicacao": "2026-06-23T19:39:48Z",
     "isLive": false,
     "isUpcoming": false
   },
