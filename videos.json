@@ -1,13 +1,5 @@
 [
   {
-    "id": "SYsGoz0z7fw",
-    "titulo": "(28.06.26 - 17h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/SYsGoz0z7fw/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-23T19:38:35Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "BjlJHIR6psk",
     "titulo": "(30.06.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
     "thumbnail": "https://i.ytimg.com/vi/BjlJHIR6psk/hqdefault_live.jpg",
@@ -68,6 +60,14 @@
     "titulo": "(28.06.26 - 9h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/BiZqf7Zwx9I/hqdefault.jpg",
     "data_publicacao": "2026-06-23T19:39:48Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "SYsGoz0z7fw",
+    "titulo": "(28.06.26 - 17h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/SYsGoz0z7fw/hqdefault.jpg",
+    "data_publicacao": "2026-06-23T19:38:35Z",
     "isLive": false,
     "isUpcoming": false
   },
