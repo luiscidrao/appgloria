@@ -1,17 +1,17 @@
 [
   {
-    "id": "BjlJHIR6psk",
-    "titulo": "(30.06.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
-    "thumbnail": "https://i.ytimg.com/vi/BjlJHIR6psk/hqdefault_live.jpg",
-    "data_publicacao": "2026-06-23T19:40:59Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "nH7a07Gmn7c",
     "titulo": "(29.06.26 - 18h30) Santa Missa | 13º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/nH7a07Gmn7c/hqdefault_live.jpg",
     "data_publicacao": "2026-06-23T19:40:24Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "BjlJHIR6psk",
+    "titulo": "(30.06.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
+    "thumbnail": "https://i.ytimg.com/vi/BjlJHIR6psk/hqdefault_live.jpg",
+    "data_publicacao": "2026-06-23T19:40:59Z",
     "isLive": false,
     "isUpcoming": true
   },
