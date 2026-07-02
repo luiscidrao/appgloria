@@ -1,13 +1,5 @@
 [
   {
-    "id": "Hg59iD4SxWY",
-    "titulo": "(01.07.26 - 18h30) Santa Missa | 13º Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Hg59iD4SxWY/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-01T11:28:03Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "javBT8e23B4",
     "titulo": "(05.07.26 - 11h) Santa Missa | 14º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/javBT8e23B4/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-07-01T11:34:34Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "Hg59iD4SxWY",
+    "titulo": "(01.07.26 - 18h30) Santa Missa | 13º Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/Hg59iD4SxWY/hqdefault.jpg",
+    "data_publicacao": "2026-07-01T23:33:40Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "BjlJHIR6psk",
@@ -60,14 +60,6 @@
     "titulo": "(28.06.26 - 19h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/Il4GDKv8FU8/hqdefault.jpg",
     "data_publicacao": "2026-06-29T00:40:23Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "ZIKEMtwoO1U",
-    "titulo": "(28.06.26 - 11h) Santa Missa | São Pedro e São Paulo Apóstolos | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/ZIKEMtwoO1U/hqdefault.jpg",
-    "data_publicacao": "2026-06-28T16:31:34Z",
     "isLive": false,
     "isUpcoming": false
   },
