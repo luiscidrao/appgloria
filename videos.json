@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "YiUp-c9hYe4",
+    "titulo": "(04.07.26 - 18h30) Santa Missa | 14º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/YiUp-c9hYe4/hqdefault.jpg",
+    "data_publicacao": "2026-07-04T23:47:24Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "frYyiBCmfAE",
     "titulo": "(04.07.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/frYyiBCmfAE/hqdefault.jpg",
@@ -44,14 +52,6 @@
     "titulo": "(01.07.26 - 18h30) Santa Missa | 13º Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/Hg59iD4SxWY/hqdefault.jpg",
     "data_publicacao": "2026-07-01T23:33:40Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "YiUp-c9hYe4",
-    "titulo": "(04.07.26 - 18h30) Santa Missa | 14º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/YiUp-c9hYe4/hqdefault.jpg",
-    "data_publicacao": "2026-07-01T11:31:09Z",
     "isLive": false,
     "isUpcoming": false
   },
