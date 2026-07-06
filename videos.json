@@ -1,5 +1,13 @@
 [
   {
+    "id": "dU05WPcqET8",
+    "titulo": "(06.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/dU05WPcqET8/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-06T19:01:27Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
     "id": "mcQk2iGDUe4",
     "titulo": "(13.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/mcQk2iGDUe4/hqdefault_live.jpg",
@@ -84,14 +92,6 @@
     "titulo": "(01.07.26 - 18h30) Santa Missa | 13º Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/Hg59iD4SxWY/hqdefault.jpg",
     "data_publicacao": "2026-07-01T23:33:40Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "BjlJHIR6psk",
-    "titulo": "(30.06.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
-    "thumbnail": "https://i.ytimg.com/vi/BjlJHIR6psk/hqdefault.jpg",
-    "data_publicacao": "2026-07-01T01:36:38Z",
     "isLive": false,
     "isUpcoming": false
   }
