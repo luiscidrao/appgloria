@@ -2,9 +2,9 @@
   {
     "id": "VLumsPTEYoo",
     "titulo": "(07.07.26 - 20h) Movimento Aviva",
-    "thumbnail": "https://i.ytimg.com/vi/VLumsPTEYoo/hqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VLumsPTEYoo/hqdefault.jpg",
     "data_publicacao": "2026-07-07T17:03:01Z",
-    "isLive": true,
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -84,14 +84,6 @@
     "titulo": "(03.07.26 - 18h30) Santa Missa | 13º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/HE4wvOeRGKE/hqdefault.jpg",
     "data_publicacao": "2026-07-03T23:25:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "1G_-WlDr0I8",
-    "titulo": "(02.07.26 - 18h30) Santa Missa | 13º Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/1G_-WlDr0I8/hqdefault.jpg",
-    "data_publicacao": "2026-07-02T23:44:52Z",
     "isLive": false,
     "isUpcoming": false
   }
