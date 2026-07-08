@@ -1,19 +1,27 @@
 [
   {
-    "id": "VLumsPTEYoo",
-    "titulo": "(07.07.26 - 20h) Movimento Aviva",
-    "thumbnail": "https://i.ytimg.com/vi/VLumsPTEYoo/hqdefault.jpg",
-    "data_publicacao": "2026-07-07T17:03:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "mcQk2iGDUe4",
     "titulo": "(13.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/mcQk2iGDUe4/hqdefault_live.jpg",
     "data_publicacao": "2026-07-06T19:13:37Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "jKwUuecBdAo",
+    "titulo": "(13.07.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/jKwUuecBdAo/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-06T19:12:34Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "VLumsPTEYoo",
+    "titulo": "(07.07.26 - 20h) Movimento Aviva",
+    "thumbnail": "https://i.ytimg.com/vi/VLumsPTEYoo/hqdefault.jpg",
+    "data_publicacao": "2026-07-07T17:03:01Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "dU05WPcqET8",
