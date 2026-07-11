@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "2eNSjYiDrPQ",
+    "titulo": "(10.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/2eNSjYiDrPQ/hqdefault.jpg",
+    "data_publicacao": "2026-07-10T23:22:44Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "gsf3Btt0YQA",
     "titulo": "Terço das Famílias | Movimento Cenáculo da Glória",
     "thumbnail": "https://i.ytimg.com/vi/gsf3Btt0YQA/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(06.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/dU05WPcqET8/hqdefault.jpg",
     "data_publicacao": "2026-07-06T22:52:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "2eNSjYiDrPQ",
-    "titulo": "(10.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/2eNSjYiDrPQ/hqdefault.jpg",
-    "data_publicacao": "2026-07-06T19:07:06Z",
     "isLive": false,
     "isUpcoming": false
   },
