@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "MCOKxQNw6yk",
+    "titulo": "(10.07.26 - 19h) Missa Jovem - Adoração ao Santíssimo | Movimento Aviva",
+    "thumbnail": "https://i.ytimg.com/vi/MCOKxQNw6yk/hqdefault.jpg",
+    "data_publicacao": "2026-07-11T13:09:53Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "2eNSjYiDrPQ",
     "titulo": "(10.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/2eNSjYiDrPQ/hqdefault.jpg",
@@ -28,14 +36,6 @@
     "titulo": "Terço das Famílias | Movimento Cenáculo da Glória",
     "thumbnail": "https://i.ytimg.com/vi/gsf3Btt0YQA/hqdefault.jpg",
     "data_publicacao": "2026-07-10T13:10:14Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "MCOKxQNw6yk",
-    "titulo": "(10.07.26 - 19h) Missa Jovem - Adoração ao Santíssimo | Movimento Aviva",
-    "thumbnail": "https://i.ytimg.com/vi/MCOKxQNw6yk/hqdefault.jpg",
-    "data_publicacao": "2026-07-10T12:41:48Z",
     "isLive": false,
     "isUpcoming": false
   },
