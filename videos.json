@@ -1,17 +1,17 @@
 [
   {
-    "id": "MCOKxQNw6yk",
-    "titulo": "(10.07.26 - 19h) Missa Jovem - Adoração ao Santíssimo | Movimento Aviva",
-    "thumbnail": "https://i.ytimg.com/vi/MCOKxQNw6yk/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-10T12:41:48Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "mcQk2iGDUe4",
     "titulo": "(13.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/mcQk2iGDUe4/hqdefault_live.jpg",
     "data_publicacao": "2026-07-06T19:13:37Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "jKwUuecBdAo",
+    "titulo": "(13.07.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/jKwUuecBdAo/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-06T19:12:34Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -28,6 +28,14 @@
     "titulo": "Terço das Famílias | Movimento Cenáculo da Glória",
     "thumbnail": "https://i.ytimg.com/vi/gsf3Btt0YQA/hqdefault.jpg",
     "data_publicacao": "2026-07-10T13:10:14Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "MCOKxQNw6yk",
+    "titulo": "(10.07.26 - 19h) Missa Jovem - Adoração ao Santíssimo | Movimento Aviva",
+    "thumbnail": "https://i.ytimg.com/vi/MCOKxQNw6yk/hqdefault.jpg",
+    "data_publicacao": "2026-07-10T12:41:48Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -84,14 +92,6 @@
     "titulo": "(05.07.26 - 11h) Santa Missa | 14º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/javBT8e23B4/hqdefault.jpg",
     "data_publicacao": "2026-07-05T16:26:23Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "frYyiBCmfAE",
-    "titulo": "(04.07.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/frYyiBCmfAE/hqdefault.jpg",
-    "data_publicacao": "2026-07-05T01:20:17Z",
     "isLive": false,
     "isUpcoming": false
   }
