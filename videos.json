@@ -1,13 +1,5 @@
 [
   {
-    "id": "sg4O1BbVtJA",
-    "titulo": "(11.07.26 - 18h30) Santa Missa | 15º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/sg4O1BbVtJA/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-06T19:07:58Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "mcQk2iGDUe4",
     "titulo": "(13.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/mcQk2iGDUe4/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-07-06T19:12:34Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "sg4O1BbVtJA",
+    "titulo": "(11.07.26 - 18h30) Santa Missa | 15º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/sg4O1BbVtJA/hqdefault.jpg",
+    "data_publicacao": "2026-07-11T23:42:45Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "MCOKxQNw6yk",
