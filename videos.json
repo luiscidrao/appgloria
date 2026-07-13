@@ -1,13 +1,5 @@
 [
   {
-    "id": "D0WAG2_qJQg",
-    "titulo": "(12.07.26 - 19h) Santa Missa | 15º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/D0WAG2_qJQg/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-06T19:08:40Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "mcQk2iGDUe4",
     "titulo": "(13.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/mcQk2iGDUe4/hqdefault_live.jpg",
@@ -22,6 +14,22 @@
     "data_publicacao": "2026-07-06T19:12:34Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "HWAhfUoSCDg",
+    "titulo": "(12.07.26 - 9h) Santa Missa | 15º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/HWAhfUoSCDg/hqdefault.jpg",
+    "data_publicacao": "2026-07-13T01:21:50Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "D0WAG2_qJQg",
+    "titulo": "(12.07.26 - 19h) Santa Missa | 15º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/D0WAG2_qJQg/hqdefault.jpg",
+    "data_publicacao": "2026-07-13T00:36:42Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "DphUatwYrqE",
@@ -80,26 +88,10 @@
     "isUpcoming": false
   },
   {
-    "id": "HWAhfUoSCDg",
-    "titulo": "(12.07.26 - 9h) Santa Missa | 15º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/HWAhfUoSCDg/hqdefault.jpg",
-    "data_publicacao": "2026-07-06T19:11:44Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "Clz23Uzz9iY",
     "titulo": "(12.07.26 - 17h) Santa Missa | 15º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/Clz23Uzz9iY/hqdefault.jpg",
     "data_publicacao": "2026-07-06T19:10:46Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "njPsJ_ONKAY",
-    "titulo": "(05.07.26 - 19h) Santa Missa | 14º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/njPsJ_ONKAY/hqdefault.jpg",
-    "data_publicacao": "2026-07-06T00:12:47Z",
     "isLive": false,
     "isUpcoming": false
   }
