@@ -1,17 +1,25 @@
 [
   {
-    "id": "mcQk2iGDUe4",
-    "titulo": "(13.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/mcQk2iGDUe4/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-06T19:13:37Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "jKwUuecBdAo",
     "titulo": "(13.07.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/jKwUuecBdAo/hqdefault_live.jpg",
     "data_publicacao": "2026-07-06T19:12:34Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "YZfO-VPWNBM",
+    "titulo": "(19.07.26 - 17h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/YZfO-VPWNBM/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-13T13:31:09Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "n2l9nnmSxq8",
+    "titulo": "(19.07.26 - 19h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/n2l9nnmSxq8/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-13T13:29:59Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -68,14 +76,6 @@
     "titulo": "(10.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/2eNSjYiDrPQ/hqdefault.jpg",
     "data_publicacao": "2026-07-10T23:22:44Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "gsf3Btt0YQA",
-    "titulo": "Terço das Famílias | Movimento Cenáculo da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/gsf3Btt0YQA/hqdefault.jpg",
-    "data_publicacao": "2026-07-10T13:10:14Z",
     "isLive": false,
     "isUpcoming": false
   },
