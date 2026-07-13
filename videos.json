@@ -1,13 +1,5 @@
 [
   {
-    "id": "jKwUuecBdAo",
-    "titulo": "(13.07.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/jKwUuecBdAo/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-06T19:12:34Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "YZfO-VPWNBM",
     "titulo": "(19.07.26 - 17h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/YZfO-VPWNBM/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-07-13T13:29:59Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "jKwUuecBdAo",
+    "titulo": "(13.07.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/jKwUuecBdAo/hqdefault.jpg",
+    "data_publicacao": "2026-07-13T16:45:30Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "Clz23Uzz9iY",
