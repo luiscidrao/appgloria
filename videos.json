@@ -72,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "MCOKxQNw6yk",
-    "titulo": "(10.07.26 - 19h) Missa Jovem - Adoração ao Santíssimo | Movimento Aviva",
-    "thumbnail": "https://i.ytimg.com/vi/MCOKxQNw6yk/hqdefault.jpg",
-    "data_publicacao": "2026-07-11T13:09:53Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "2eNSjYiDrPQ",
     "titulo": "(10.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/2eNSjYiDrPQ/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(09.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/Yl8IQJaSh6U/hqdefault.jpg",
     "data_publicacao": "2026-07-09T23:29:28Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "_jZc27tNbNM",
+    "titulo": "(08.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/_jZc27tNbNM/hqdefault.jpg",
+    "data_publicacao": "2026-07-08T23:00:03Z",
     "isLive": false,
     "isUpcoming": false
   }
