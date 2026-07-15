@@ -1,13 +1,5 @@
 [
   {
-    "id": "FNI3pW3uNDg",
-    "titulo": "(14.07.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
-    "thumbnail": "https://i.ytimg.com/vi/FNI3pW3uNDg/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-13T13:26:10Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "YZfO-VPWNBM",
     "titulo": "(19.07.26 - 17h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/YZfO-VPWNBM/hqdefault_live.jpg",
@@ -24,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "FNI3pW3uNDg",
+    "titulo": "(14.07.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
+    "thumbnail": "https://i.ytimg.com/vi/FNI3pW3uNDg/hqdefault.jpg",
+    "data_publicacao": "2026-07-15T01:52:46Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "mcQk2iGDUe4",
     "titulo": "(13.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/mcQk2iGDUe4/hqdefault.jpg",
@@ -36,6 +36,14 @@
     "titulo": "(13.07.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/jKwUuecBdAo/hqdefault.jpg",
     "data_publicacao": "2026-07-13T16:45:30Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "Clz23Uzz9iY",
+    "titulo": "(12.07.26 - 17h) Santa Missa | 15º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/Clz23Uzz9iY/hqdefault.jpg",
+    "data_publicacao": "2026-07-13T11:20:00Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -84,14 +92,6 @@
     "titulo": "(09.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/Yl8IQJaSh6U/hqdefault.jpg",
     "data_publicacao": "2026-07-09T23:29:28Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "_jZc27tNbNM",
-    "titulo": "(08.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/_jZc27tNbNM/hqdefault.jpg",
-    "data_publicacao": "2026-07-08T23:00:03Z",
     "isLive": false,
     "isUpcoming": false
   }
