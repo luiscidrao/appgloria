@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "Yb1GM4WLuuk",
+    "titulo": "(15.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/Yb1GM4WLuuk/hqdefault.jpg",
+    "data_publicacao": "2026-07-15T23:32:57Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "FNI3pW3uNDg",
     "titulo": "(14.07.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
     "thumbnail": "https://i.ytimg.com/vi/FNI3pW3uNDg/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(13.07.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/jKwUuecBdAo/hqdefault.jpg",
     "data_publicacao": "2026-07-13T16:45:30Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Yb1GM4WLuuk",
-    "titulo": "(15.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Yb1GM4WLuuk/hqdefault.jpg",
-    "data_publicacao": "2026-07-13T13:26:51Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -88,10 +88,10 @@
     "isUpcoming": false
   },
   {
-    "id": "2eNSjYiDrPQ",
-    "titulo": "(10.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/2eNSjYiDrPQ/hqdefault.jpg",
-    "data_publicacao": "2026-07-10T23:22:44Z",
+    "id": "Yl8IQJaSh6U",
+    "titulo": "(09.07.26 - 18h30) Santa Missa | 14º Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/Yl8IQJaSh6U/hqdefault.jpg",
+    "data_publicacao": "2026-07-09T23:29:28Z",
     "isLive": false,
     "isUpcoming": false
   }
