@@ -1,10 +1,18 @@
 [
   {
+    "id": "1myuUXONv2k",
+    "titulo": "(19.07.26 - 9h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/1myuUXONv2k/hqdefault.jpg",
+    "data_publicacao": "2026-07-20T01:20:50Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "n2l9nnmSxq8",
     "titulo": "(19.07.26 - 19h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/n2l9nnmSxq8/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-13T13:29:59Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/n2l9nnmSxq8/hqdefault.jpg",
+    "data_publicacao": "2026-07-20T00:34:09Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -68,22 +76,6 @@
     "titulo": "(19.07.26 - 17h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/YZfO-VPWNBM/hqdefault.jpg",
     "data_publicacao": "2026-07-13T13:31:09Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "1myuUXONv2k",
-    "titulo": "(19.07.26 - 9h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/1myuUXONv2k/hqdefault.jpg",
-    "data_publicacao": "2026-07-13T13:31:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "D0WAG2_qJQg",
-    "titulo": "(12.07.26 - 19h) Santa Missa | 15º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/D0WAG2_qJQg/hqdefault.jpg",
-    "data_publicacao": "2026-07-13T00:36:42Z",
     "isLive": false,
     "isUpcoming": false
   }
