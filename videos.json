@@ -1,5 +1,13 @@
 [
   {
+    "id": "YZfO-VPWNBM",
+    "titulo": "(19.07.26 - 17h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/YZfO-VPWNBM/hqdefault.jpg",
+    "data_publicacao": "2026-07-20T10:01:06Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "1myuUXONv2k",
     "titulo": "(19.07.26 - 9h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/1myuUXONv2k/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(14.07.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
     "thumbnail": "https://i.ytimg.com/vi/FNI3pW3uNDg/hqdefault.jpg",
     "data_publicacao": "2026-07-15T01:52:46Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "YZfO-VPWNBM",
-    "titulo": "(19.07.26 - 17h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/YZfO-VPWNBM/hqdefault.jpg",
-    "data_publicacao": "2026-07-13T13:31:09Z",
     "isLive": false,
     "isUpcoming": false
   }
