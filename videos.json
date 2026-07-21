@@ -1,5 +1,13 @@
 [
   {
+    "id": "MuqaDoRzYF0",
+    "titulo": "(21.07.26 - 18h30) Santa Missa | 16º Semana do Tempo Comum | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/MuqaDoRzYF0/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-20T15:45:07Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
     "id": "9TBfAk6anqA",
     "titulo": "(21.07.26 - 20h) Movimento Aviva",
     "thumbnail": "https://i.ytimg.com/vi/9TBfAk6anqA/hqdefault_live.jpg",
@@ -76,14 +84,6 @@
     "titulo": "(16.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/lGJV5jMYgC0/hqdefault.jpg",
     "data_publicacao": "2026-07-16T23:30:28Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "FNI3pW3uNDg",
-    "titulo": "(14.07.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
-    "thumbnail": "https://i.ytimg.com/vi/FNI3pW3uNDg/hqdefault.jpg",
-    "data_publicacao": "2026-07-15T01:52:46Z",
     "isLive": false,
     "isUpcoming": false
   }
