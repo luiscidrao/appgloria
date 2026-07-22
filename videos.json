@@ -2,9 +2,9 @@
   {
     "id": "9TBfAk6anqA",
     "titulo": "(21.07.26 - 20h) Movimento Aviva",
-    "thumbnail": "https://i.ytimg.com/vi/9TBfAk6anqA/hqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9TBfAk6anqA/hqdefault.jpg",
     "data_publicacao": "2026-07-20T18:19:25Z",
-    "isLive": true,
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -68,14 +68,6 @@
     "titulo": "(18.07.26 - 18h30) Santa Missa | 16º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/wScwxO4k9Ac/hqdefault.jpg",
     "data_publicacao": "2026-07-18T23:30:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "s-fMCyvcRoY",
-    "titulo": "(17.07.26 - 18h30) Santa Missa | 15º Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/s-fMCyvcRoY/hqdefault.jpg",
-    "data_publicacao": "2026-07-17T23:21:04Z",
     "isLive": false,
     "isUpcoming": false
   },
