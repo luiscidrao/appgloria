@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "9TBfAk6anqA",
+    "titulo": "(21.07.26 - 20h) Movimento Aviva",
+    "thumbnail": "https://i.ytimg.com/vi/9TBfAk6anqA/hqdefault.jpg",
+    "data_publicacao": "2026-07-22T13:39:16Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "MuqaDoRzYF0",
     "titulo": "(21.07.26 - 18h30) Santa Missa | 16º Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/MuqaDoRzYF0/hqdefault.jpg",
@@ -28,14 +36,6 @@
     "titulo": "(20.07.26 - 18h30) Santa Missa | 16º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/5ud07Vju1LE/hqdefault.jpg",
     "data_publicacao": "2026-07-20T23:04:38Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "9TBfAk6anqA",
-    "titulo": "(21.07.26 - 20h) Movimento Aviva",
-    "thumbnail": "https://i.ytimg.com/vi/9TBfAk6anqA/hqdefault.jpg",
-    "data_publicacao": "2026-07-20T18:19:25Z",
     "isLive": false,
     "isUpcoming": false
   },
