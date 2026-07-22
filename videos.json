@@ -1,17 +1,25 @@
 [
   {
-    "id": "5TNqc41qr-k",
-    "titulo": "(31.07.26 - 18h30) Santa Missa | 17º Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/5TNqc41qr-k/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-20T16:14:52Z",
+    "id": "0TpIJfrJkOk",
+    "titulo": "(22.07.26 - 18h30) Santa Missa | 16º Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/0TpIJfrJkOk/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-20T15:45:41Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "aov0PlGzTXU",
+    "titulo": "(22.07.26 - 20h30) Pregação para servos - Pe. Helano Samy | Adoração ao Santíssimo",
+    "thumbnail": "https://i.ytimg.com/vi/aov0PlGzTXU/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-22T22:01:21Z",
     "isLive": false,
     "isUpcoming": true
   },
   {
-    "id": "pyLl7Ybeix8",
-    "titulo": "30.07.26 - 18h30) Santa Missa | 17º Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/pyLl7Ybeix8/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-20T16:14:09Z",
+    "id": "5TNqc41qr-k",
+    "titulo": "(31.07.26 - 18h30) Santa Missa | 17º Semana do Tempo Comum | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/5TNqc41qr-k/hqdefault_live.jpg",
+    "data_publicacao": "2026-07-20T16:14:52Z",
     "isLive": false,
     "isUpcoming": true
   },
