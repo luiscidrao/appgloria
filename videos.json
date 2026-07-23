@@ -1,13 +1,5 @@
 [
   {
-    "id": "aov0PlGzTXU",
-    "titulo": "(22.07.26 - 20h30) Pregação para servos - Pe. Helano Samy | Adoração ao Santíssimo",
-    "thumbnail": "https://i.ytimg.com/vi/aov0PlGzTXU/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-22T22:01:21Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "5TNqc41qr-k",
     "titulo": "(31.07.26 - 18h30) Santa Missa | 17º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/5TNqc41qr-k/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-07-20T16:14:09Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "aov0PlGzTXU",
+    "titulo": "(22.07.26 - 20h30) Pregação para servos - Pe. Helano Samy | Adoração ao Santíssimo",
+    "thumbnail": "https://i.ytimg.com/vi/aov0PlGzTXU/hqdefault.jpg",
+    "data_publicacao": "2026-07-23T01:54:57Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "0TpIJfrJkOk",
@@ -64,26 +64,10 @@
     "isUpcoming": false
   },
   {
-    "id": "1myuUXONv2k",
-    "titulo": "(19.07.26 - 9h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/1myuUXONv2k/hqdefault.jpg",
-    "data_publicacao": "2026-07-20T01:20:50Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "n2l9nnmSxq8",
     "titulo": "(19.07.26 - 19h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/n2l9nnmSxq8/hqdefault.jpg",
     "data_publicacao": "2026-07-20T00:34:09Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "R6WW-dpfdJM",
-    "titulo": "(19.07.26 - 11h) Santa Missa | 16º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/R6WW-dpfdJM/hqdefault.jpg",
-    "data_publicacao": "2026-07-19T16:31:05Z",
     "isLive": false,
     "isUpcoming": false
   },
