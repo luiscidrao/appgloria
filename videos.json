@@ -1,13 +1,5 @@
 [
   {
-    "id": "LlS34-GXwFc",
-    "titulo": "(23.07.26 - 18h30) Santa Missa | 16º Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/LlS34-GXwFc/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-20T15:47:54Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "5TNqc41qr-k",
     "titulo": "(31.07.26 - 18h30) Santa Missa | 17º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/5TNqc41qr-k/hqdefault_live.jpg",
@@ -60,6 +52,14 @@
     "titulo": "(20.07.26 - 18h30) Santa Missa | 16º Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/5ud07Vju1LE/hqdefault.jpg",
     "data_publicacao": "2026-07-20T23:04:38Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "LlS34-GXwFc",
+    "titulo": "(23.07.26 - 18h30) Santa Missa | 16º Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/LlS34-GXwFc/hqdefault.jpg",
+    "data_publicacao": "2026-07-20T15:47:54Z",
     "isLive": false,
     "isUpcoming": false
   },
