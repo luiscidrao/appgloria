@@ -1,13 +1,5 @@
 [
   {
-    "id": "vHnlScLbcE4",
-    "titulo": "(26.07.26 - 19h) Santa Missa | 17º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/vHnlScLbcE4/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-20T15:51:31Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "5TNqc41qr-k",
     "titulo": "(31.07.26 - 18h30) Santa Missa | 17º Semana do Tempo Comum | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/5TNqc41qr-k/hqdefault_live.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(26.07.26 - 17h) Santa Missa | 17º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/Ats6XwkgR5s/hqdefault.jpg",
     "data_publicacao": "2026-07-20T16:09:06Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "vHnlScLbcE4",
+    "titulo": "(26.07.26 - 19h) Santa Missa | 17º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/vHnlScLbcE4/hqdefault.jpg",
+    "data_publicacao": "2026-07-20T15:51:31Z",
     "isLive": false,
     "isUpcoming": false
   }
