@@ -1,13 +1,5 @@
 [
   {
-    "id": "gPs9I7CSsYg",
-    "titulo": "(01.08.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/gPs9I7CSsYg/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-01T10:17:44Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "bfyL2-SYrP8",
     "titulo": "(15.08.25 - 19h) Santa Missa | Dom Antônio Carlos | Adoração e Vida | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/bfyL2-SYrP8/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-07-30T20:04:23Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "gPs9I7CSsYg",
+    "titulo": "(01.08.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
+    "thumbnail": "https://i.ytimg.com/vi/gPs9I7CSsYg/hqdefault.jpg",
+    "data_publicacao": "2026-08-01T10:17:44Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "5TNqc41qr-k",
