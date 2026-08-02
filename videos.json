@@ -1,13 +1,5 @@
 [
   {
-    "id": "pjuA1ydhwpA",
-    "titulo": "(01.08.25 - 19h) Santa Missa | Pe. Antônio Furtado | Ramon &amp; Rafael | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/pjuA1ydhwpA/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-30T19:40:29Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "bfyL2-SYrP8",
     "titulo": "(15.08.25 - 19h) Santa Missa | Dom Antônio Carlos | Adoração e Vida | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/bfyL2-SYrP8/hqdefault_live.jpg",
@@ -24,10 +16,18 @@
     "isUpcoming": true
   },
   {
+    "id": "pjuA1ydhwpA",
+    "titulo": "(01.08.25 - 19h) Santa Missa | Pe. Antônio Furtado | Ramon &amp; Rafael | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/pjuA1ydhwpA/hqdefault.jpg",
+    "data_publicacao": "2026-08-02T02:55:51Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "gPs9I7CSsYg",
     "titulo": "(01.08.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/gPs9I7CSsYg/hqdefault.jpg",
-    "data_publicacao": "2026-08-01T10:17:44Z",
+    "data_publicacao": "2026-08-02T01:37:29Z",
     "isLive": false,
     "isUpcoming": false
   },
