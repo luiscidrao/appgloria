@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "vODuuPTSsHw",
+    "titulo": "(02.08.26 - 17h) Santa Missa | 18º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/vODuuPTSsHw/hqdefault.jpg",
+    "data_publicacao": "2026-08-03T09:19:50Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "xiHzI-ZaZrQ",
     "titulo": "(02.08.25 - 19h) Santa Missa | Pe. Helano Samy | Rodrigo Ferreira | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/xiHzI-ZaZrQ/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(02.08.26 - 11h) Santa Missa | 18º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/XDQzzb73ho4/hqdefault.jpg",
     "data_publicacao": "2026-08-02T16:28:23Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "vODuuPTSsHw",
-    "titulo": "(02.08.26 - 17h) Santa Missa | 18º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/vODuuPTSsHw/hqdefault.jpg",
-    "data_publicacao": "2026-08-02T03:57:27Z",
     "isLive": false,
     "isUpcoming": false
   },
