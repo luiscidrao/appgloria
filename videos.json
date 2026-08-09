@@ -4,8 +4,8 @@
     "titulo": "(09.08.26 - 17h) Santa Missa | 19º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/3Xq1AeMT8I0/hqdefault_live.jpg",
     "data_publicacao": "2026-08-03T17:11:11Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "bfyL2-SYrP8",
