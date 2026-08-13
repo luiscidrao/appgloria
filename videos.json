@@ -1,13 +1,5 @@
 [
   {
-    "id": "LHX5vWsBYUM",
-    "titulo": "(12.08.26 - 19h) Santa Missa |  Pe. Vanderlúcio Souza | Laura Salvador | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/LHX5vWsBYUM/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-30T20:02:54Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "NYujd3vRNz8",
     "titulo": "(13.08.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/NYujd3vRNz8/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-08-10T11:55:06Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "LHX5vWsBYUM",
+    "titulo": "(12.08.26 - 19h) Santa Missa |  Pe. Vanderlúcio Souza | Laura Salvador | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/LHX5vWsBYUM/hqdefault.jpg",
+    "data_publicacao": "2026-08-13T01:46:33Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "NBwg_ulGKh0",
