@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "PsBhcpeGfRk",
+    "titulo": "(13.08.26 - 19h) Santa Missa | Pe. Davi de Melo | Luisinho Magalhães | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/PsBhcpeGfRk/hqdefault.jpg",
+    "data_publicacao": "2026-08-14T03:06:45Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "NYujd3vRNz8",
     "titulo": "(13.08.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/NYujd3vRNz8/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(07.08.26 - 19h) Santa Missa | Pe. Daniel Antônio | Flávio Vitor Jr. | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/ysI0rtQyEPI/hqdefault.jpg",
     "data_publicacao": "2026-08-08T05:29:31Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "PsBhcpeGfRk",
-    "titulo": "(13.08.26 - 19h) Santa Missa | Pe. Davi de Melo | Luisinho Magalhães | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/PsBhcpeGfRk/hqdefault.jpg",
-    "data_publicacao": "2026-07-30T20:04:23Z",
     "isLive": false,
     "isUpcoming": false
   }
