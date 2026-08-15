@@ -2,9 +2,9 @@
   {
     "id": "U3VPYG22ZH8",
     "titulo": "(15.08.26 - 11h) Santa Missa",
-    "thumbnail": "https://i.ytimg.com/vi/U3VPYG22ZH8/hqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/U3VPYG22ZH8/hqdefault.jpg",
     "data_publicacao": "2026-08-15T10:45:43Z",
-    "isLive": true,
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -84,14 +84,6 @@
     "titulo": "(08.08.26 - 19h) Santa Missa | Pe. Adriano Zandoná | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/v06Hj3MDNqo/hqdefault.jpg",
     "data_publicacao": "2026-08-09T02:51:46Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "ysI0rtQyEPI",
-    "titulo": "(07.08.26 - 19h) Santa Missa | Pe. Daniel Antônio | Flávio Vitor Jr. | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/ysI0rtQyEPI/hqdefault.jpg",
-    "data_publicacao": "2026-08-08T05:29:31Z",
     "isLive": false,
     "isUpcoming": false
   }
