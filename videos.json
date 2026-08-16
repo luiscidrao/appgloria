@@ -1,29 +1,5 @@
 [
   {
-    "id": "bfyL2-SYrP8",
-    "titulo": "(15.08.26 - 16h) Santa Missa | Procissão | Dom Antônio Carlos | Adoração e Vida | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/bfyL2-SYrP8/hqdefault_live.jpg",
-    "data_publicacao": "2026-07-30T20:07:17Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
-    "id": "U3VPYG22ZH8",
-    "titulo": "(15.08.26 - 11h) Santa Missa",
-    "thumbnail": "https://i.ytimg.com/vi/U3VPYG22ZH8/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T10:45:43Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "4_AolRj3TjI",
-    "titulo": "(16.08.26 - 19h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/4_AolRj3TjI/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-13T12:03:21Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "LkNjRUa20r4",
     "titulo": "(15.08.26 - 9h) Santa Missa",
     "thumbnail": "https://i.ytimg.com/vi/LkNjRUa20r4/hqdefault.jpg",
@@ -32,50 +8,10 @@
     "isUpcoming": false
   },
   {
-    "id": "zOKJg__ClbI",
-    "titulo": "TODA FORMOSA ÉS, AMADA MINHA!",
-    "thumbnail": "https://i.ytimg.com/vi/zOKJg__ClbI/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T22:28:10Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "j64J9S8s97Q",
-    "titulo": "Show - Eliana Ribeiro | Glória 2026",
-    "thumbnail": "https://i.ytimg.com/vi/j64J9S8s97Q/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T11:30:35Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "BicLm55mxUI",
-    "titulo": "Por trás da celebração | Bastidores da Glória 2026 Ep. 07",
-    "thumbnail": "https://i.ytimg.com/vi/BicLm55mxUI/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T11:30:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "3XrM0_IwZms",
-    "titulo": "Entrevista - Dom José Antônio | Glória 2026",
-    "thumbnail": "https://i.ytimg.com/vi/3XrM0_IwZms/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T11:30:37Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "q531xgRdM-I",
-    "titulo": "Homilia - Dom José Antônio - São Maximiliano Maria Kolbe | Sexta-feira | Evangelho (Mt 19,3-12)",
-    "thumbnail": "https://i.ytimg.com/vi/q531xgRdM-I/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T11:11:32Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "vkIU6ZymQHk",
-    "titulo": "Entrevista - Marleudo Costa | Glória 2026",
-    "thumbnail": "https://i.ytimg.com/vi/vkIU6ZymQHk/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T11:11:35Z",
+    "id": "U3VPYG22ZH8",
+    "titulo": "(15.08.26 - 11h) Santa Missa",
+    "thumbnail": "https://i.ytimg.com/vi/U3VPYG22ZH8/hqdefault.jpg",
+    "data_publicacao": "2026-08-15T10:45:43Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,6 +28,54 @@
     "titulo": "(14.08.26 - 19h) Santa Missa | Dom José Antônio | Eliana Ribeiro | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/oTke_asJVws/hqdefault.jpg",
     "data_publicacao": "2026-08-15T03:00:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "PsBhcpeGfRk",
+    "titulo": "(13.08.26 - 19h) Santa Missa | Pe. Davi de Melo | Luisinho Magalhães | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/PsBhcpeGfRk/hqdefault.jpg",
+    "data_publicacao": "2026-08-14T03:06:45Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "NYujd3vRNz8",
+    "titulo": "(13.08.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/NYujd3vRNz8/hqdefault.jpg",
+    "data_publicacao": "2026-08-13T17:33:18Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "LHX5vWsBYUM",
+    "titulo": "(12.08.26 - 19h) Santa Missa |  Pe. Vanderlúcio Souza | Laura Salvador | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/LHX5vWsBYUM/hqdefault.jpg",
+    "data_publicacao": "2026-08-13T01:46:33Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "NBwg_ulGKh0",
+    "titulo": "(11.08.26 - 19h) Santa Missa | Dom Janison de Sá | Waldonys | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/NBwg_ulGKh0/hqdefault.jpg",
+    "data_publicacao": "2026-08-12T02:23:12Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "EaSK_R6Qlho",
+    "titulo": "(10.08.26 - 19h) Santa Missa | Pe. Fábio Lima | Tony Allysson | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/EaSK_R6Qlho/hqdefault.jpg",
+    "data_publicacao": "2026-08-11T02:19:15Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "HRsZlboDviE",
+    "titulo": "(09.08.26 - 11h) Santa Missa | 19º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/HRsZlboDviE/hqdefault.jpg",
+    "data_publicacao": "2026-08-09T16:23:48Z",
     "isLive": false,
     "isUpcoming": false
   }
