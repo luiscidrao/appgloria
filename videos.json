@@ -1,13 +1,5 @@
 [
   {
-    "id": "4SF0y1I67U4",
-    "titulo": "(16.08.26 - 9h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/4SF0y1I67U4/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-13T12:00:22Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "4_AolRj3TjI",
     "titulo": "(16.08.26 - 19h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/4_AolRj3TjI/hqdefault_live.jpg",
@@ -72,10 +64,10 @@
     "isUpcoming": false
   },
   {
-    "id": "NYujd3vRNz8",
-    "titulo": "(13.08.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/NYujd3vRNz8/hqdefault.jpg",
-    "data_publicacao": "2026-08-13T17:33:18Z",
+    "id": "4SF0y1I67U4",
+    "titulo": "(16.08.26 - 9h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/4SF0y1I67U4/hqdefault.jpg",
+    "data_publicacao": "2026-08-13T12:00:22Z",
     "isLive": false,
     "isUpcoming": false
   },
