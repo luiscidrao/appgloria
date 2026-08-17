@@ -1,13 +1,5 @@
 [
   {
-    "id": "lodGcp6b--o",
-    "titulo": "(17.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/lodGcp6b--o/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:37:59Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "E77l4TKOlSw",
     "titulo": "(23.08.26 - 11h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/E77l4TKOlSw/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-08-17T12:57:30Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "lodGcp6b--o",
+    "titulo": "(17.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/lodGcp6b--o/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T22:43:03Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "BKUbHGUqmqQ",
@@ -92,14 +92,6 @@
     "titulo": "(13.08.26 - 19h) Santa Missa | Pe. Davi de Melo | Luisinho Magalhães | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/PsBhcpeGfRk/hqdefault.jpg",
     "data_publicacao": "2026-08-14T03:06:45Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "NBwg_ulGKh0",
-    "titulo": "(11.08.26 - 19h) Santa Missa | Dom Janison de Sá | Waldonys | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/NBwg_ulGKh0/hqdefault.jpg",
-    "data_publicacao": "2026-08-12T02:23:12Z",
     "isLive": false,
     "isUpcoming": false
   }
