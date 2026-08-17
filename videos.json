@@ -1,13 +1,5 @@
 [
   {
-    "id": "4SF0y1I67U4",
-    "titulo": "(16.08.26 - 9h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/4SF0y1I67U4/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T01:17:48Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "4_AolRj3TjI",
     "titulo": "(16.08.26 - 19h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/4_AolRj3TjI/hqdefault.jpg",
@@ -16,50 +8,26 @@
     "isUpcoming": false
   },
   {
+    "id": "CJYMvNkQxLI",
+    "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-10T11:55:06Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "4SF0y1I67U4",
+    "titulo": "(16.08.26 - 9h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/4SF0y1I67U4/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T01:17:48Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "HIOjs9Fjq4Q",
     "titulo": "(16.08.26 - 11h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/HIOjs9Fjq4Q/hqdefault.jpg",
     "data_publicacao": "2026-08-16T16:15:26Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "TrVMz6pNCms",
-    "titulo": "A gente se encontra na Glória",
-    "thumbnail": "https://i.ytimg.com/vi/TrVMz6pNCms/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T14:27:33Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "7b00CuoTjc4",
-    "titulo": "Show - Adoração e Vida | Glória 2026",
-    "thumbnail": "https://i.ytimg.com/vi/7b00CuoTjc4/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T14:25:03Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "tzAtmQQkaXA",
-    "titulo": "Homilia - Dom Antônio Carlos | Glória 2026",
-    "thumbnail": "https://i.ytimg.com/vi/tzAtmQQkaXA/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T14:02:03Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "i_tpSJOsBEA",
-    "titulo": "Entrevista - Walmir Alencar (Adoração e Vida) | Glória 2026",
-    "thumbnail": "https://i.ytimg.com/vi/i_tpSJOsBEA/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T13:55:55Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "lDej9I4oPJY",
-    "titulo": "Entrevista - Ticiana de Paula | Glória 2026",
-    "thumbnail": "https://i.ytimg.com/vi/lDej9I4oPJY/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T13:55:05Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -76,6 +44,46 @@
     "titulo": "(15.08.26 - 11h) Santa Missa",
     "thumbnail": "https://i.ytimg.com/vi/U3VPYG22ZH8/hqdefault.jpg",
     "data_publicacao": "2026-08-16T03:47:01Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "bfyL2-SYrP8",
+    "titulo": "(15.08.26 - 16h) Santa Missa | Procissão | Dom Antônio Carlos | Adoração e Vida | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/bfyL2-SYrP8/hqdefault.jpg",
+    "data_publicacao": "2026-08-16T03:23:56Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "LkNjRUa20r4",
+    "titulo": "(15.08.26 - 9h) Santa Missa",
+    "thumbnail": "https://i.ytimg.com/vi/LkNjRUa20r4/hqdefault.jpg",
+    "data_publicacao": "2026-08-16T01:21:06Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "oTke_asJVws",
+    "titulo": "(14.08.26 - 19h) Santa Missa | Dom José Antônio | Eliana Ribeiro | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/oTke_asJVws/hqdefault.jpg",
+    "data_publicacao": "2026-08-15T03:00:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "PsBhcpeGfRk",
+    "titulo": "(13.08.26 - 19h) Santa Missa | Pe. Davi de Melo | Luisinho Magalhães | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/PsBhcpeGfRk/hqdefault.jpg",
+    "data_publicacao": "2026-08-14T03:06:45Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "BKUbHGUqmqQ",
+    "titulo": "(09.08.26 - 17h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/BKUbHGUqmqQ/hqdefault.jpg",
+    "data_publicacao": "2026-08-13T12:01:53Z",
     "isLive": false,
     "isUpcoming": false
   }
