@@ -1,17 +1,17 @@
 [
   {
-    "id": "4_AolRj3TjI",
-    "titulo": "(16.08.26 - 19h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/4_AolRj3TjI/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T00:08:45Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "CJYMvNkQxLI",
     "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
     "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault_live.jpg",
     "data_publicacao": "2026-08-10T11:55:06Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "-03Qf1lRx6k",
+    "titulo": "(15.09.26 - 20h) Movimento Aviva -  Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/-03Qf1lRx6k/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-10T11:52:12Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -28,6 +28,14 @@
     "titulo": "(16.08.26 - 9h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/4SF0y1I67U4/hqdefault.jpg",
     "data_publicacao": "2026-08-17T01:17:48Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "4_AolRj3TjI",
+    "titulo": "(16.08.26 - 19h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/4_AolRj3TjI/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T00:08:45Z",
     "isLive": false,
     "isUpcoming": false
   },
