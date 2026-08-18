@@ -1,21 +1,5 @@
 [
   {
-    "id": "E77l4TKOlSw",
-    "titulo": "(23.08.26 - 11h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/E77l4TKOlSw/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:56:48Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "fv4aHgDgzaU",
-    "titulo": "(23.08.26 - 9h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/fv4aHgDgzaU/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:57:30Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "lodGcp6b--o",
     "titulo": "(17.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/lodGcp6b--o/hqdefault.jpg",
@@ -24,59 +8,75 @@
     "isUpcoming": false
   },
   {
-    "id": "q1oyb48Ku24",
-    "titulo": "Ser todo de Deus - Minuto do Evangelho - Pe. Helano Samy | Evangelho (Mt 19,16-22)",
-    "thumbnail": "https://i.ytimg.com/vi/q1oyb48Ku24/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T22:06:16Z",
+    "id": "BKUbHGUqmqQ",
+    "titulo": "(09.08.26 - 17h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/BKUbHGUqmqQ/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T09:21:18Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "_oFckMs-4uI",
-    "titulo": "Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo | Evangelho (Lc 1,39-56)",
-    "thumbnail": "https://i.ytimg.com/vi/_oFckMs-4uI/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T16:00:43Z",
+    "id": "4SF0y1I67U4",
+    "titulo": "(16.08.26 - 9h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/4SF0y1I67U4/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T01:17:48Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "lyWBp7_C5b4",
-    "titulo": "(23.08.26 - 17h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/lyWBp7_C5b4/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:51:41Z",
+    "id": "4_AolRj3TjI",
+    "titulo": "(16.08.26 - 19h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/4_AolRj3TjI/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T00:08:45Z",
     "isLive": false,
-    "isUpcoming": true
+    "isUpcoming": false
   },
   {
-    "id": "_klRHmZMxao",
-    "titulo": "(22.08.26 - 18h30) Santa Missa | 21º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/_klRHmZMxao/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:50:20Z",
+    "id": "HIOjs9Fjq4Q",
+    "titulo": "(16.08.26 - 11h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/HIOjs9Fjq4Q/hqdefault.jpg",
+    "data_publicacao": "2026-08-16T16:15:26Z",
     "isLive": false,
-    "isUpcoming": true
+    "isUpcoming": false
   },
   {
-    "id": "WM1j0FvdbSs",
-    "titulo": "(23.08.26 - 19h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/WM1j0FvdbSs/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:51:04Z",
+    "id": "eLVvO1sASpI",
+    "titulo": "(15.08.26 - 17h) Santa Missa",
+    "thumbnail": "https://i.ytimg.com/vi/eLVvO1sASpI/hqdefault.jpg",
+    "data_publicacao": "2026-08-16T09:14:02Z",
     "isLive": false,
-    "isUpcoming": true
+    "isUpcoming": false
   },
   {
-    "id": "NNVTT8DecXs",
-    "titulo": "(21.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/NNVTT8DecXs/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:43:06Z",
+    "id": "U3VPYG22ZH8",
+    "titulo": "(15.08.26 - 11h) Santa Missa",
+    "thumbnail": "https://i.ytimg.com/vi/U3VPYG22ZH8/hqdefault.jpg",
+    "data_publicacao": "2026-08-16T03:47:01Z",
     "isLive": false,
-    "isUpcoming": true
+    "isUpcoming": false
   },
   {
-    "id": "hLuTbk6c538",
-    "titulo": "(20.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/hLuTbk6c538/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:41:46Z",
+    "id": "bfyL2-SYrP8",
+    "titulo": "(15.08.26 - 16h) Santa Missa | Procissão | Dom Antônio Carlos | Adoração e Vida | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/bfyL2-SYrP8/hqdefault.jpg",
+    "data_publicacao": "2026-08-16T03:23:56Z",
     "isLive": false,
-    "isUpcoming": true
+    "isUpcoming": false
+  },
+  {
+    "id": "LkNjRUa20r4",
+    "titulo": "(15.08.26 - 9h) Santa Missa",
+    "thumbnail": "https://i.ytimg.com/vi/LkNjRUa20r4/hqdefault.jpg",
+    "data_publicacao": "2026-08-16T01:21:06Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "oTke_asJVws",
+    "titulo": "(14.08.26 - 19h) Santa Missa | Dom José Antônio | Eliana Ribeiro | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/oTke_asJVws/hqdefault.jpg",
+    "data_publicacao": "2026-08-15T03:00:20Z",
+    "isLive": false,
+    "isUpcoming": false
   }
 ]
