@@ -1,13 +1,5 @@
 [
   {
-    "id": "KopdM0fSN5k",
-    "titulo": "(18.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/KopdM0fSN5k/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:36:38Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "E77l4TKOlSw",
     "titulo": "(23.08.26 - 11h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/E77l4TKOlSw/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(17.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/lodGcp6b--o/hqdefault.jpg",
     "data_publicacao": "2026-08-17T22:43:03Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "KopdM0fSN5k",
+    "titulo": "(18.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/KopdM0fSN5k/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T12:36:38Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "(15.08.26 - 9h) Santa Missa",
     "thumbnail": "https://i.ytimg.com/vi/LkNjRUa20r4/hqdefault.jpg",
     "data_publicacao": "2026-08-16T01:21:06Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "oTke_asJVws",
-    "titulo": "(14.08.26 - 19h) Santa Missa | Dom José Antônio | Eliana Ribeiro | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/oTke_asJVws/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T03:00:20Z",
     "isLive": false,
     "isUpcoming": false
   }
