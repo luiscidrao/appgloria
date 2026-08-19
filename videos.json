@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "X-EIBXwiFCI",
+    "titulo": "(18.08.26 - 20h) Movimento Aviva - Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/X-EIBXwiFCI/hqdefault.jpg",
+    "data_publicacao": "2026-08-19T13:54:11Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "KopdM0fSN5k",
     "titulo": "(18.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/KopdM0fSN5k/hqdefault.jpg",
@@ -60,14 +68,6 @@
     "titulo": "(16.08.26 - 11h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/HIOjs9Fjq4Q/hqdefault.jpg",
     "data_publicacao": "2026-08-16T16:15:26Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "eLVvO1sASpI",
-    "titulo": "(15.08.26 - 17h) Santa Missa",
-    "thumbnail": "https://i.ytimg.com/vi/eLVvO1sASpI/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T09:14:02Z",
     "isLive": false,
     "isUpcoming": false
   },
