@@ -24,6 +24,14 @@
     "isUpcoming": false
   },
   {
+    "id": "Xp0UumM36ng",
+    "titulo": "Livres para o Céu - Minuto do Evangelho - Pe. Helano Samy | Evangelho (Mt 19,23-30)",
+    "thumbnail": "https://i.ytimg.com/vi/Xp0UumM36ng/hqdefault.jpg",
+    "data_publicacao": "2026-08-18T22:04:52Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "lodGcp6b--o",
     "titulo": "(17.08.26 - 18h30) Santa Missa | 20ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/lodGcp6b--o/hqdefault.jpg",
@@ -32,67 +40,43 @@
     "isUpcoming": false
   },
   {
-    "id": "BKUbHGUqmqQ",
-    "titulo": "(09.08.26 - 17h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/BKUbHGUqmqQ/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T09:21:18Z",
+    "id": "q1oyb48Ku24",
+    "titulo": "Ser todo de Deus - Minuto do Evangelho - Pe. Helano Samy | Evangelho (Mt 19,16-22)",
+    "thumbnail": "https://i.ytimg.com/vi/q1oyb48Ku24/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T22:06:16Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "4SF0y1I67U4",
-    "titulo": "(16.08.26 - 9h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/4SF0y1I67U4/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T01:17:48Z",
+    "id": "_oFckMs-4uI",
+    "titulo": "Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo | Evangelho (Lc 1,39-56)",
+    "thumbnail": "https://i.ytimg.com/vi/_oFckMs-4uI/hqdefault.jpg",
+    "data_publicacao": "2026-08-17T16:00:43Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "4_AolRj3TjI",
-    "titulo": "(16.08.26 - 19h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/4_AolRj3TjI/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T00:08:45Z",
+    "id": "lyWBp7_C5b4",
+    "titulo": "(23.08.26 - 17h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/lyWBp7_C5b4/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-17T12:51:41Z",
     "isLive": false,
-    "isUpcoming": false
+    "isUpcoming": true
   },
   {
-    "id": "HIOjs9Fjq4Q",
-    "titulo": "(16.08.26 - 11h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/HIOjs9Fjq4Q/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T16:15:26Z",
+    "id": "_klRHmZMxao",
+    "titulo": "(22.08.26 - 18h30) Santa Missa | 21º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/_klRHmZMxao/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-17T12:50:20Z",
     "isLive": false,
-    "isUpcoming": false
+    "isUpcoming": true
   },
   {
-    "id": "eLVvO1sASpI",
-    "titulo": "(15.08.26 - 17h) Santa Missa",
-    "thumbnail": "https://i.ytimg.com/vi/eLVvO1sASpI/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T09:14:02Z",
+    "id": "WM1j0FvdbSs",
+    "titulo": "(23.08.26 - 19h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/WM1j0FvdbSs/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-17T12:51:04Z",
     "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "bfyL2-SYrP8",
-    "titulo": "(15.08.26 - 16h) Santa Missa | Procissão | Dom Antônio Carlos | Adoração e Vida | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/bfyL2-SYrP8/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T03:23:56Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "LkNjRUa20r4",
-    "titulo": "(15.08.26 - 9h) Santa Missa",
-    "thumbnail": "https://i.ytimg.com/vi/LkNjRUa20r4/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T01:21:06Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "oTke_asJVws",
-    "titulo": "(14.08.26 - 19h) Santa Missa | Dom José Antônio | Eliana Ribeiro | Glória 26",
-    "thumbnail": "https://i.ytimg.com/vi/oTke_asJVws/hqdefault.jpg",
-    "data_publicacao": "2026-08-15T03:00:20Z",
-    "isLive": false,
-    "isUpcoming": false
+    "isUpcoming": true
   }
 ]
