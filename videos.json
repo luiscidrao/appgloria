@@ -72,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "U3VPYG22ZH8",
-    "titulo": "(15.08.26 - 11h) Santa Missa",
-    "thumbnail": "https://i.ytimg.com/vi/U3VPYG22ZH8/hqdefault.jpg",
-    "data_publicacao": "2026-08-16T03:47:01Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "bfyL2-SYrP8",
     "titulo": "(15.08.26 - 16h) Santa Missa | Procissão | Dom Antônio Carlos | Adoração e Vida | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/bfyL2-SYrP8/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(15.08.26 - 9h) Santa Missa",
     "thumbnail": "https://i.ytimg.com/vi/LkNjRUa20r4/hqdefault.jpg",
     "data_publicacao": "2026-08-16T01:21:06Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "oTke_asJVws",
+    "titulo": "(14.08.26 - 19h) Santa Missa | Dom José Antônio | Eliana Ribeiro | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/oTke_asJVws/hqdefault.jpg",
+    "data_publicacao": "2026-08-15T03:00:20Z",
     "isLive": false,
     "isUpcoming": false
   }
