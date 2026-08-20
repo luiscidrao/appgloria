@@ -56,22 +56,6 @@
     "isUpcoming": false
   },
   {
-    "id": "4SF0y1I67U4",
-    "titulo": "(16.08.26 - 9h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/4SF0y1I67U4/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T01:17:48Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "4_AolRj3TjI",
-    "titulo": "(16.08.26 - 19h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/4_AolRj3TjI/hqdefault.jpg",
-    "data_publicacao": "2026-08-17T00:08:45Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "HIOjs9Fjq4Q",
     "titulo": "(16.08.26 - 11h) Santa Missa | Assunção da Bem-aventurada Virgem Maria | Solenidade | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/HIOjs9Fjq4Q/hqdefault.jpg",
@@ -92,6 +76,22 @@
     "titulo": "(14.08.26 - 19h) Santa Missa | Dom José Antônio | Eliana Ribeiro | Glória 26",
     "thumbnail": "https://i.ytimg.com/vi/oTke_asJVws/hqdefault.jpg",
     "data_publicacao": "2026-08-15T03:00:20Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "PsBhcpeGfRk",
+    "titulo": "(13.08.26 - 19h) Santa Missa | Pe. Davi de Melo | Luisinho Magalhães | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/PsBhcpeGfRk/hqdefault.jpg",
+    "data_publicacao": "2026-08-14T03:06:45Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "NBwg_ulGKh0",
+    "titulo": "(11.08.26 - 19h) Santa Missa | Dom Janison de Sá | Waldonys | Glória 26",
+    "thumbnail": "https://i.ytimg.com/vi/NBwg_ulGKh0/hqdefault.jpg",
+    "data_publicacao": "2026-08-12T02:23:12Z",
     "isLive": false,
     "isUpcoming": false
   }
