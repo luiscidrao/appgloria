@@ -1,13 +1,5 @@
 [
   {
-    "id": "WM1j0FvdbSs",
-    "titulo": "(23.08.26 - 19h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/WM1j0FvdbSs/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:51:04Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "fv4aHgDgzaU",
     "titulo": "(23.08.26 - 9h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/fv4aHgDgzaU/hqdefault_live.jpg",
@@ -20,6 +12,14 @@
     "titulo": "(23.08.26 - 17h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/lyWBp7_C5b4/hqdefault.jpg",
     "data_publicacao": "2026-08-17T12:51:41Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "WM1j0FvdbSs",
+    "titulo": "(23.08.26 - 19h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/WM1j0FvdbSs/hqdefault.jpg",
+    "data_publicacao": "2026-08-24T00:23:36Z",
     "isLive": false,
     "isUpcoming": false
   },
