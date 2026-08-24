@@ -1,17 +1,17 @@
 [
   {
-    "id": "fv4aHgDgzaU",
-    "titulo": "(23.08.26 - 9h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/fv4aHgDgzaU/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-17T12:57:30Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "CJYMvNkQxLI",
     "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
     "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault_live.jpg",
     "data_publicacao": "2026-08-10T11:55:06Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "-03Qf1lRx6k",
+    "titulo": "(15.09.26 - 20h) Movimento Aviva -  Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/-03Qf1lRx6k/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-10T11:52:12Z",
     "isLive": false,
     "isUpcoming": true
   },
