@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "T5q9Gys6jac",
+    "titulo": "(28.08.26 - 18h30) Santa Missa | 21ª Semana do Tempo Comum  | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/T5q9Gys6jac/hqdefault.jpg",
+    "data_publicacao": "2026-08-28T23:11:54Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "kxlmY73YKF8",
     "titulo": "(27.08.26 - 18h30) Santa Missa | 21ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/kxlmY73YKF8/hqdefault.jpg",
@@ -28,22 +36,6 @@
     "titulo": "(26.08.26 - 18h30) Santa Missa | 21ª Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/f4SatTiXb3o/hqdefault.jpg",
     "data_publicacao": "2026-08-26T22:52:47Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "xAv2DcTG7WI",
-    "titulo": "(25.08.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
-    "thumbnail": "https://i.ytimg.com/vi/xAv2DcTG7WI/hqdefault.jpg",
-    "data_publicacao": "2026-08-26T01:55:21Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "WM1j0FvdbSs",
-    "titulo": "(23.08.26 - 19h) Santa Missa | 21º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/WM1j0FvdbSs/hqdefault.jpg",
-    "data_publicacao": "2026-08-24T00:23:36Z",
     "isLive": false,
     "isUpcoming": false
   }
