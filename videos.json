@@ -16,6 +16,22 @@
     "isUpcoming": true
   },
   {
+    "id": "63L-R_rjQZY",
+    "titulo": "(30.08.26 - 11h) Santa Missa | 22º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/63L-R_rjQZY/hqdefault.jpg",
+    "data_publicacao": "2026-08-30T16:35:56Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "uMTWprQR0d4",
+    "titulo": "(30.08.26 - 9h) Santa Missa | 22ª Semana do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/uMTWprQR0d4/hqdefault.jpg",
+    "data_publicacao": "2026-08-30T13:22:22Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "iGjkFdABezM",
     "titulo": "(29.08.26 - 18h30) Santa Missa | 22º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/iGjkFdABezM/hqdefault.jpg",
@@ -36,14 +52,6 @@
     "titulo": "(27.08.26 - 18h30) Santa Missa | 21ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/kxlmY73YKF8/hqdefault.jpg",
     "data_publicacao": "2026-08-27T23:25:23Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "uMTWprQR0d4",
-    "titulo": "(30.08.26 - 9h) Santa Missa | 22ª Semana do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/uMTWprQR0d4/hqdefault.jpg",
-    "data_publicacao": "2026-08-24T16:32:57Z",
     "isLive": false,
     "isUpcoming": false
   },
