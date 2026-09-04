@@ -1,17 +1,25 @@
 [
   {
-    "id": "YqXGMDFY3Pk",
-    "titulo": "(06.09.26 - 11h) Santa Missa | 23º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/YqXGMDFY3Pk/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-31T16:14:29Z",
+    "id": "gMWcF8KYfVc",
+    "titulo": "(04.09.26 - 18h30) Santa Missa | 22ª Semana do Tempo Comum  | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/gMWcF8KYfVc/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-31T16:10:22Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "GKirISgQHws",
+    "titulo": "(07.09.26 - 18h30) Santa Missa | 23ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/GKirISgQHws/hqdefault_live.jpg",
+    "data_publicacao": "2026-09-04T19:54:36Z",
     "isLive": false,
     "isUpcoming": true
   },
   {
-    "id": "Lu-XJ2a3oa0",
-    "titulo": "(05.09.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/Lu-XJ2a3oa0/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-31T16:15:45Z",
+    "id": "FdI1b06PxgI",
+    "titulo": "(08.09.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA |",
+    "thumbnail": "https://i.ytimg.com/vi/FdI1b06PxgI/hqdefault_live.jpg",
+    "data_publicacao": "2026-09-04T19:55:35Z",
     "isLive": false,
     "isUpcoming": true
   },
