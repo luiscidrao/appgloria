@@ -1,13 +1,5 @@
 [
   {
-    "id": "MK8pEsZXauI",
-    "titulo": "(05.09.26 - 18h30) Santa Missa | 23º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/MK8pEsZXauI/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-31T16:12:37Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "GKirISgQHws",
     "titulo": "(07.09.26 - 18h30) Santa Missa | 23ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/GKirISgQHws/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-09-04T19:55:35Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "MK8pEsZXauI",
+    "titulo": "(05.09.26 - 18h30) Santa Missa | 23º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/MK8pEsZXauI/hqdefault.jpg",
+    "data_publicacao": "2026-09-05T23:25:43Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "gMWcF8KYfVc",
