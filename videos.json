@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "Lu-XJ2a3oa0",
+    "titulo": "(05.09.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
+    "thumbnail": "https://i.ytimg.com/vi/Lu-XJ2a3oa0/hqdefault.jpg",
+    "data_publicacao": "2026-09-06T01:39:46Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "MK8pEsZXauI",
     "titulo": "(05.09.26 - 18h30) Santa Missa | 23º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/MK8pEsZXauI/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(03.09.26 - 18h30) Santa Missa | 22ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/35Ok598xRk0/hqdefault.jpg",
     "data_publicacao": "2026-09-03T23:22:12Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Lu-XJ2a3oa0",
-    "titulo": "(05.09.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/Lu-XJ2a3oa0/hqdefault.jpg",
-    "data_publicacao": "2026-08-31T16:15:45Z",
     "isLive": false,
     "isUpcoming": false
   }
