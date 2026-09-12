@@ -1,13 +1,5 @@
 [
   {
-    "id": "6ha3brj9lHE",
-    "titulo": "(11.09.26 - 18h30) Santa Missa | 23ª Semana do Tempo Comum  | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/6ha3brj9lHE/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-09T16:11:02Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "uwiJlaiNMuE",
     "titulo": "Formação e Adoração com os pais da Catequese Eucarística",
     "thumbnail": "https://i.ytimg.com/vi/uwiJlaiNMuE/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-09-09T16:13:59Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "6ha3brj9lHE",
+    "titulo": "(11.09.26 - 18h30) Santa Missa | 23ª Semana do Tempo Comum  | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/6ha3brj9lHE/hqdefault.jpg",
+    "data_publicacao": "2026-09-11T23:33:12Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "jIELo57yf7o",
