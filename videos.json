@@ -1,9 +1,9 @@
 [
   {
-    "id": "Q2FfCTbGtpo",
-    "titulo": "(15.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Q2FfCTbGtpo/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-14T12:15:12Z",
+    "id": "-03Qf1lRx6k",
+    "titulo": "(15.09.26 - 20h) Movimento Aviva -  Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/-03Qf1lRx6k/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-10T11:52:12Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -22,6 +22,14 @@
     "data_publicacao": "2026-09-14T12:22:56Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "Q2FfCTbGtpo",
+    "titulo": "(15.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/Q2FfCTbGtpo/hqdefault.jpg",
+    "data_publicacao": "2026-09-15T23:02:34Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "mcS0MMNA-gw",
