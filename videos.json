@@ -1,13 +1,5 @@
 [
   {
-    "id": "yRwcFH7almk",
-    "titulo": "(18.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum  | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/yRwcFH7almk/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-14T12:18:23Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "BcuyQvXxBYg",
     "titulo": "(20.09.26 - 17h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/BcuyQvXxBYg/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-09-14T12:22:56Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "yRwcFH7almk",
+    "titulo": "(18.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum  | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/yRwcFH7almk/hqdefault.jpg",
+    "data_publicacao": "2026-09-19T00:21:38Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "DzrD6MECvcM",
