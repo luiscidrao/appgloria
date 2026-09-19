@@ -1,13 +1,5 @@
 [
   {
-    "id": "ZK8C2mYvKII",
-    "titulo": "(19.09.26 - 8h30) Batismo Comunitário",
-    "thumbnail": "https://i.ytimg.com/vi/ZK8C2mYvKII/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-19T10:16:10Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "BcuyQvXxBYg",
     "titulo": "(20.09.26 - 17h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/BcuyQvXxBYg/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-09-14T12:22:56Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "ZK8C2mYvKII",
+    "titulo": "(19.09.26 - 8h30) Batismo Comunitário",
+    "thumbnail": "https://i.ytimg.com/vi/ZK8C2mYvKII/hqdefault.jpg",
+    "data_publicacao": "2026-09-19T10:16:10Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "yRwcFH7almk",
@@ -60,14 +60,6 @@
     "titulo": "(16.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/1R3jSN_RDZo/hqdefault.jpg",
     "data_publicacao": "2026-09-16T23:46:42Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "-03Qf1lRx6k",
-    "titulo": "(15.09.26 - 20h) Movimento Aviva -  Até o fim",
-    "thumbnail": "https://i.ytimg.com/vi/-03Qf1lRx6k/hqdefault.jpg",
-    "data_publicacao": "2026-09-16T13:27:49Z",
     "isLive": false,
     "isUpcoming": false
   },
