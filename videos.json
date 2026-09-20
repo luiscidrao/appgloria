@@ -1,9 +1,9 @@
 [
   {
-    "id": "cUGf5ALBqok",
-    "titulo": "(20.09.26 - 9h) Santa Missa | 25ª Semana do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/cUGf5ALBqok/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-14T12:20:00Z",
+    "id": "W5UJ7u1trlY",
+    "titulo": "(20.09.26 - 11h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/W5UJ7u1trlY/hqdefault_live.jpg",
+    "data_publicacao": "2026-09-14T12:20:27Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -24,6 +24,14 @@
     "isUpcoming": true
   },
   {
+    "id": "IHuJitd1wIQ",
+    "titulo": "Sede santos, porque Eu sou Santo | Formação - Movimento Famílias Santas - Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/IHuJitd1wIQ/hqdefault.jpg",
+    "data_publicacao": "2026-09-20T13:55:39Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "ZK8C2mYvKII",
     "titulo": "(19.09.26 - 8h30) Batismo Comunitário",
     "thumbnail": "https://i.ytimg.com/vi/ZK8C2mYvKII/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(19.09.26 - 18h30) Santa Missa | 25º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/BJmtaZPIOFA/hqdefault.jpg",
     "data_publicacao": "2026-09-19T23:16:23Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "IHuJitd1wIQ",
-    "titulo": "Sede santos, porque Eu sou Santo | Formação - Movimento Famílias Santas - Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/IHuJitd1wIQ/hqdefault.jpg",
-    "data_publicacao": "2026-09-19T20:50:27Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -72,14 +72,6 @@
     "isUpcoming": false
   },
   {
-    "id": "hXsNmbk-FTo",
-    "titulo": "Atos 9 - Sobre Santa Missa",
-    "thumbnail": "https://i.ytimg.com/vi/hXsNmbk-FTo/hqdefault.jpg",
-    "data_publicacao": "2026-09-17T13:07:07Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "1R3jSN_RDZo",
     "titulo": "(16.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/1R3jSN_RDZo/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(15.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/Q2FfCTbGtpo/hqdefault.jpg",
     "data_publicacao": "2026-09-15T23:02:34Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cUGf5ALBqok",
+    "titulo": "(20.09.26 - 9h) Santa Missa | 25ª Semana do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/cUGf5ALBqok/hqdefault.jpg",
+    "data_publicacao": "2026-09-14T12:20:00Z",
     "isLive": false,
     "isUpcoming": false
   }
