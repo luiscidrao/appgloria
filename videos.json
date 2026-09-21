@@ -1,17 +1,25 @@
 [
   {
-    "id": "CJYMvNkQxLI",
-    "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
-    "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-10T11:55:06Z",
+    "id": "DGldcXUON1s",
+    "titulo": "(21.09.26 - 18h30) Santa Missa | São Mateus, Apóstolo e Evangelista - Festa | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/DGldcXUON1s/hqdefault_live.jpg",
+    "data_publicacao": "2026-09-21T21:11:13Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "IjRHDKomGIE",
+    "titulo": "22.09.26 - 20h30) Eu vejo milagres todos os dias | Formação Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/IjRHDKomGIE/hqdefault_live.jpg",
+    "data_publicacao": "2026-09-21T21:54:57Z",
     "isLive": false,
     "isUpcoming": true
   },
   {
-    "id": "Atq84wvd42s",
-    "titulo": "(22.09.26 - 20h) Movimento Aviva - Até o fim",
-    "thumbnail": "https://i.ytimg.com/vi/Atq84wvd42s/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-10T11:53:16Z",
+    "id": "CJYMvNkQxLI",
+    "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-10T11:55:06Z",
     "isLive": false,
     "isUpcoming": true
   },
