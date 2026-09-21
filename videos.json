@@ -1,19 +1,27 @@
 [
   {
-    "id": "BcuyQvXxBYg",
-    "titulo": "(20.09.26 - 17h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/BcuyQvXxBYg/hqdefault.jpg",
-    "data_publicacao": "2026-09-14T12:22:22Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "CJYMvNkQxLI",
     "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
     "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault_live.jpg",
     "data_publicacao": "2026-08-10T11:55:06Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "Atq84wvd42s",
+    "titulo": "(22.09.26 - 20h) Movimento Aviva - Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/Atq84wvd42s/hqdefault_live.jpg",
+    "data_publicacao": "2026-08-10T11:53:16Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "BcuyQvXxBYg",
+    "titulo": "(20.09.26 - 17h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/BcuyQvXxBYg/hqdefault.jpg",
+    "data_publicacao": "2026-09-21T09:30:46Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "cUGf5ALBqok",
@@ -68,14 +76,6 @@
     "titulo": "(18.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum  | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/yRwcFH7almk/hqdefault.jpg",
     "data_publicacao": "2026-09-19T00:21:38Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "DzrD6MECvcM",
-    "titulo": "Terço das Famílias | Movimento Cenáculo da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/DzrD6MECvcM/hqdefault.jpg",
-    "data_publicacao": "2026-09-18T13:30:25Z",
     "isLive": false,
     "isUpcoming": false
   },
