@@ -1,13 +1,5 @@
 [
   {
-    "id": "DGldcXUON1s",
-    "titulo": "(21.09.26 - 18h30) Santa Missa | São Mateus, Apóstolo e Evangelista - Festa | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/DGldcXUON1s/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-21T21:11:13Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "IjRHDKomGIE",
     "titulo": "22.09.26 - 20h30) Eu vejo milagres todos os dias | Formação Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/IjRHDKomGIE/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-08-10T11:55:06Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "DGldcXUON1s",
+    "titulo": "(21.09.26 - 18h30) Santa Missa | São Mateus, Apóstolo e Evangelista - Festa | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/DGldcXUON1s/hqdefault.jpg",
+    "data_publicacao": "2026-09-21T21:11:13Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "BcuyQvXxBYg",
@@ -92,14 +92,6 @@
     "titulo": "(17.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/bi3YjpapYlQ/hqdefault.jpg",
     "data_publicacao": "2026-09-17T23:18:58Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "1R3jSN_RDZo",
-    "titulo": "(16.09.26 - 18h30) Santa Missa | 24ª Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/1R3jSN_RDZo/hqdefault.jpg",
-    "data_publicacao": "2026-09-16T23:46:42Z",
     "isLive": false,
     "isUpcoming": false
   }
