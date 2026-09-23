@@ -1,13 +1,5 @@
 [
   {
-    "id": "IjRHDKomGIE",
-    "titulo": "22.09.26 - 20h30) Eu vejo milagres todos os dias | Formação Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/IjRHDKomGIE/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-21T21:54:57Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "Qa3u7ud6kCw",
     "titulo": "(27.09.26 - 19h) Santa Missa | 26º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/Qa3u7ud6kCw/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-09-22T11:43:38Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "IjRHDKomGIE",
+    "titulo": "22.09.26 - 20h30) Eu vejo milagres todos os dias | Formação Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/IjRHDKomGIE/hqdefault.jpg",
+    "data_publicacao": "2026-09-23T02:22:42Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "FANn9L2ATKU",
@@ -84,14 +84,6 @@
     "titulo": "Sede santos, porque Eu sou Santo | Formação - Movimento Famílias Santas - Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/IHuJitd1wIQ/hqdefault.jpg",
     "data_publicacao": "2026-09-20T13:55:39Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "ZK8C2mYvKII",
-    "titulo": "(19.09.26 - 8h30) Batismo Comunitário",
-    "thumbnail": "https://i.ytimg.com/vi/ZK8C2mYvKII/hqdefault.jpg",
-    "data_publicacao": "2026-09-20T04:36:49Z",
     "isLive": false,
     "isUpcoming": false
   },
