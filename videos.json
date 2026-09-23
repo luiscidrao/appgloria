@@ -16,6 +16,22 @@
     "isUpcoming": true
   },
   {
+    "id": "Atq84wvd42s",
+    "titulo": "(22.09.26 - 20h) Movimento Aviva - Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/Atq84wvd42s/hqdefault.jpg",
+    "data_publicacao": "2026-09-23T13:32:10Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "R2zIO_-BioI",
+    "titulo": "(22.09.26 ) Ao vivo na Glória - Uma noite, três encontros, uma só Glória",
+    "thumbnail": "https://i.ytimg.com/vi/R2zIO_-BioI/hqdefault.jpg",
+    "data_publicacao": "2026-09-23T12:37:13Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "IjRHDKomGIE",
     "titulo": "22.09.26 - 20h30) Eu vejo milagres todos os dias | Formação Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/IjRHDKomGIE/hqdefault.jpg",
@@ -28,14 +44,6 @@
     "titulo": "(22.09.26 - 18h30) Santa Missa | 25ª Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/FANn9L2ATKU/hqdefault.jpg",
     "data_publicacao": "2026-09-22T23:19:14Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "R2zIO_-BioI",
-    "titulo": "(22.09.26 ) Ao vivo na Glória - Uma noite, três encontros, uma só Glória",
-    "thumbnail": "https://i.ytimg.com/vi/R2zIO_-BioI/hqdefault.jpg",
-    "data_publicacao": "2026-09-22T21:47:28Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -84,14 +92,6 @@
     "titulo": "Sede santos, porque Eu sou Santo | Formação - Movimento Famílias Santas - Pe. Helano Samy",
     "thumbnail": "https://i.ytimg.com/vi/IHuJitd1wIQ/hqdefault.jpg",
     "data_publicacao": "2026-09-20T13:55:39Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "BJmtaZPIOFA",
-    "titulo": "(19.09.26 - 18h30) Santa Missa | 25º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/BJmtaZPIOFA/hqdefault.jpg",
-    "data_publicacao": "2026-09-19T23:16:23Z",
     "isLive": false,
     "isUpcoming": false
   }
