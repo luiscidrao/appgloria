@@ -1,27 +1,19 @@
 [
   {
-    "id": "Qa3u7ud6kCw",
-    "titulo": "(27.09.26 - 19h) Santa Missa | 26º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/Qa3u7ud6kCw/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-22T11:45:20Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
-    "id": "CWCR_JuCngY",
-    "titulo": "(27.09.26 - 11h) Santa Missa | 26º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/CWCR_JuCngY/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-22T11:43:38Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "eE06MNB94_k",
     "titulo": "(23.09.26 - 18h30) Santa Missa | 25ª Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/eE06MNB94_k/hqdefault.jpg",
     "data_publicacao": "2026-09-24T00:00:14Z",
     "isLive": false,
     "isUpcoming": false
+  },
+  {
+    "id": "Qa3u7ud6kCw",
+    "titulo": "(27.09.26 - 19h) Santa Missa | 26º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/Qa3u7ud6kCw/hqdefault_live.jpg",
+    "data_publicacao": "2026-09-22T11:45:20Z",
+    "isLive": false,
+    "isUpcoming": true
   },
   {
     "id": "Atq84wvd42s",
