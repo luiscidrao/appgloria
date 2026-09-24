@@ -1,13 +1,5 @@
 [
   {
-    "id": "eE06MNB94_k",
-    "titulo": "(23.09.26 - 18h30) Santa Missa | 25ª Semana do Tempo Comum | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/eE06MNB94_k/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-22T11:40:09Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "Qa3u7ud6kCw",
     "titulo": "(27.09.26 - 19h) Santa Missa | 26º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/Qa3u7ud6kCw/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-09-22T11:43:38Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "eE06MNB94_k",
+    "titulo": "(23.09.26 - 18h30) Santa Missa | 25ª Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/eE06MNB94_k/hqdefault.jpg",
+    "data_publicacao": "2026-09-24T00:00:14Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "Atq84wvd42s",
@@ -92,14 +92,6 @@
     "titulo": "(20.09.26 - 11h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/W5UJ7u1trlY/hqdefault.jpg",
     "data_publicacao": "2026-09-20T16:31:51Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "IHuJitd1wIQ",
-    "titulo": "Sede santos, porque Eu sou Santo | Formação - Movimento Famílias Santas - Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/IHuJitd1wIQ/hqdefault.jpg",
-    "data_publicacao": "2026-09-20T13:55:39Z",
     "isLive": false,
     "isUpcoming": false
   }
