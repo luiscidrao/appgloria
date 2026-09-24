@@ -64,14 +64,6 @@
     "isUpcoming": false
   },
   {
-    "id": "BcuyQvXxBYg",
-    "titulo": "(20.09.26 - 17h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/BcuyQvXxBYg/hqdefault.jpg",
-    "data_publicacao": "2026-09-21T09:30:46Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "cUGf5ALBqok",
     "titulo": "(20.09.26 - 9h) Santa Missa | 25ª Semana do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/cUGf5ALBqok/hqdefault.jpg",
@@ -92,6 +84,14 @@
     "titulo": "(20.09.26 - 11h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/W5UJ7u1trlY/hqdefault.jpg",
     "data_publicacao": "2026-09-20T16:31:51Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "IHuJitd1wIQ",
+    "titulo": "Sede santos, porque Eu sou Santo | Formação - Movimento Famílias Santas - Pe. Helano Samy",
+    "thumbnail": "https://i.ytimg.com/vi/IHuJitd1wIQ/hqdefault.jpg",
+    "data_publicacao": "2026-09-20T13:55:39Z",
     "isLive": false,
     "isUpcoming": false
   }
