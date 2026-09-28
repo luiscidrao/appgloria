@@ -1,17 +1,25 @@
 [
   {
     "id": "JrQm5doATnE",
-    "titulo": "(21.09.26 - 18h30) Santa Missa | 26ª Semana do Tempo Comum | Segunda-feira",
+    "titulo": "(28.09.26 - 18h30) Santa Missa | 26ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/JrQm5doATnE/hqdefault_live.jpg",
     "data_publicacao": "2026-09-28T14:16:33Z",
+    "isLive": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "SrnPUXUg1uI",
+    "titulo": "(04.10.26 - 17h) Santa Missa | 27º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/SrnPUXUg1uI/hqdefault_live.jpg",
+    "data_publicacao": "2026-09-28T17:24:27Z",
     "isLive": false,
     "isUpcoming": true
   },
   {
-    "id": "CJYMvNkQxLI",
-    "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
-    "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-10T11:55:06Z",
+    "id": "tC9hucX-2uo",
+    "titulo": "(04.10.26 - 19h) Santa Missa | 27º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/tC9hucX-2uo/hqdefault_live.jpg",
+    "data_publicacao": "2026-09-28T17:25:07Z",
     "isLive": false,
     "isUpcoming": true
   },
@@ -68,14 +76,6 @@
     "titulo": "(24.09.26 - 18h30) Santa Missa | 25ª Semana do Tempo Comum | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/wiwlmoyk400/hqdefault.jpg",
     "data_publicacao": "2026-09-24T23:39:17Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "IjRHDKomGIE",
-    "titulo": "22.09.26 - 20h30) Eu vejo milagres todos os dias | Formação Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/IjRHDKomGIE/hqdefault.jpg",
-    "data_publicacao": "2026-09-23T02:22:42Z",
     "isLive": false,
     "isUpcoming": false
   }
