@@ -1,13 +1,5 @@
 [
   {
-    "id": "xWONzv3IQy0",
-    "titulo": "(29.09.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | CLAYRA COUTINHO",
-    "thumbnail": "https://i.ytimg.com/vi/xWONzv3IQy0/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-28T17:19:05Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "SrnPUXUg1uI",
     "titulo": "(04.10.26 - 17h) Santa Missa | 27º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/SrnPUXUg1uI/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-09-28T17:25:07Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "xWONzv3IQy0",
+    "titulo": "(29.09.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | CLAYRA COUTINHO",
+    "thumbnail": "https://i.ytimg.com/vi/xWONzv3IQy0/hqdefault.jpg",
+    "data_publicacao": "2026-09-30T01:51:41Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "JrQm5doATnE",
