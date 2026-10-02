@@ -1,13 +1,5 @@
 [
   {
-    "id": "NCiKT_-ObAo",
-    "titulo": "(01.10.26 - 18h30) Santa Missa | Santa Teresa do Menino e da sagrada face | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/NCiKT_-ObAo/hqdefault_live.jpg",
-    "data_publicacao": "2026-09-28T17:20:27Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "JS7leSLFRag",
     "titulo": "(03.10.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
     "thumbnail": "https://i.ytimg.com/vi/JS7leSLFRag/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-09-28T17:24:27Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "NCiKT_-ObAo",
+    "titulo": "(01.10.26 - 18h30) Santa Missa | Santa Teresa do Menino e da sagrada face | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/NCiKT_-ObAo/hqdefault.jpg",
+    "data_publicacao": "2026-10-01T23:47:07Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "SIc16xkcT9g",
