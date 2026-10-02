@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "IXc963xMO6k",
+    "titulo": "(02.10.26 - 18h30) Santa Missa | 26ª Semana do Tempo Comum  | Sexta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/IXc963xMO6k/hqdefault.jpg",
+    "data_publicacao": "2026-10-02T22:55:47Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "NCiKT_-ObAo",
     "titulo": "(01.10.26 - 18h30) Santa Missa | Santa Teresa do Menino e da sagrada face | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/NCiKT_-ObAo/hqdefault.jpg",
@@ -72,26 +80,18 @@
     "isUpcoming": false
   },
   {
-    "id": "IjRHDKomGIE",
-    "titulo": "22.09.26 - 20h30) Eu vejo milagres todos os dias | Formação Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/IjRHDKomGIE/hqdefault.jpg",
-    "data_publicacao": "2026-09-23T02:22:42Z",
+    "id": "wiwlmoyk400",
+    "titulo": "(24.09.26 - 18h30) Santa Missa | 25ª Semana do Tempo Comum | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/wiwlmoyk400/hqdefault.jpg",
+    "data_publicacao": "2026-09-24T23:39:17Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "DGldcXUON1s",
-    "titulo": "(21.09.26 - 18h30) Santa Missa | São Mateus, Apóstolo e Evangelista - Festa | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/DGldcXUON1s/hqdefault.jpg",
-    "data_publicacao": "2026-09-22T10:38:29Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "00RMDt-MzB0",
-    "titulo": "(20.09.26 - 19h) Santa Missa | 25º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/00RMDt-MzB0/hqdefault.jpg",
-    "data_publicacao": "2026-09-21T00:13:20Z",
+    "id": "eE06MNB94_k",
+    "titulo": "(23.09.26 - 18h30) Santa Missa | 25ª Semana do Tempo Comum | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/eE06MNB94_k/hqdefault.jpg",
+    "data_publicacao": "2026-09-24T00:00:14Z",
     "isLive": false,
     "isUpcoming": false
   }
