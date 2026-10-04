@@ -16,6 +16,22 @@
     "isUpcoming": true
   },
   {
+    "id": "JS7leSLFRag",
+    "titulo": "(03.10.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
+    "thumbnail": "https://i.ytimg.com/vi/JS7leSLFRag/hqdefault.jpg",
+    "data_publicacao": "2026-10-04T02:21:54Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "cO86VUu0i1w",
+    "titulo": "(03.10.26 - 18h30) Santa Missa | 27º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/cO86VUu0i1w/hqdefault.jpg",
+    "data_publicacao": "2026-10-04T01:41:33Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "IXc963xMO6k",
     "titulo": "(02.10.26 - 18h30) Santa Missa | 26ª Semana do Tempo Comum  | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/IXc963xMO6k/hqdefault.jpg",
@@ -28,14 +44,6 @@
     "titulo": "(01.10.26 - 18h30) Santa Missa | Santa Teresa do Menino e da sagrada face | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/NCiKT_-ObAo/hqdefault.jpg",
     "data_publicacao": "2026-10-01T23:47:07Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "JS7leSLFRag",
-    "titulo": "(03.10.26 - 7h30) Terço Mariano | Babi Maria | Paróquia Nossa Senhora da Glória",
-    "thumbnail": "https://i.ytimg.com/vi/JS7leSLFRag/hqdefault.jpg",
-    "data_publicacao": "2026-10-01T13:05:09Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -60,14 +68,6 @@
     "titulo": "(28.09.26 - 18h30) Santa Missa | 26ª Semana do Tempo Comum | Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/JrQm5doATnE/hqdefault.jpg",
     "data_publicacao": "2026-09-29T11:55:46Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "cO86VUu0i1w",
-    "titulo": "(03.10.26 - 18h30) Santa Missa | 27º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/cO86VUu0i1w/hqdefault.jpg",
-    "data_publicacao": "2026-09-28T17:22:35Z",
     "isLive": false,
     "isUpcoming": false
   },
