@@ -1,11 +1,27 @@
 [
   {
-    "id": "CJYMvNkQxLI",
-    "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
-    "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault_live.jpg",
-    "data_publicacao": "2026-08-10T11:55:06Z",
+    "id": "CFxkT2k8en0",
+    "titulo": "(11.10.26 - 19h) Santa Missa | 28º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/CFxkT2k8en0/hqdefault_live.jpg",
+    "data_publicacao": "2026-10-05T12:44:11Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "Ujf3xnFmJCI",
+    "titulo": "(11.10.26 - 17h) Santa Missa | 28º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/Ujf3xnFmJCI/hqdefault_live.jpg",
+    "data_publicacao": "2026-10-05T12:43:30Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "SrnPUXUg1uI",
+    "titulo": "(04.10.26 - 17h) Santa Missa | 27º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/SrnPUXUg1uI/hqdefault.jpg",
+    "data_publicacao": "2026-10-05T09:22:17Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "Ar2lVylz6I8",
@@ -76,14 +92,6 @@
     "titulo": "(29.09.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | CLAYRA COUTINHO",
     "thumbnail": "https://i.ytimg.com/vi/xWONzv3IQy0/hqdefault.jpg",
     "data_publicacao": "2026-09-30T01:51:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "SrnPUXUg1uI",
-    "titulo": "(04.10.26 - 17h) Santa Missa | 27º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/SrnPUXUg1uI/hqdefault.jpg",
-    "data_publicacao": "2026-09-28T17:24:27Z",
     "isLive": false,
     "isUpcoming": false
   }
