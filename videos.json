@@ -24,6 +24,14 @@
     "isUpcoming": false
   },
   {
+    "id": "UZkD3fuswUI",
+    "titulo": "(06.10.26 - 18h30) Santa Missa | 27ª Semana do Tempo Comum | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/UZkD3fuswUI/hqdefault.jpg",
+    "data_publicacao": "2026-10-05T12:32:33Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "SrnPUXUg1uI",
     "titulo": "(04.10.26 - 17h) Santa Missa | 27º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/SrnPUXUg1uI/hqdefault.jpg",
@@ -84,14 +92,6 @@
     "titulo": "(01.10.26 - 18h30) Santa Missa | Santa Teresa do Menino e da sagrada face | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/NCiKT_-ObAo/hqdefault.jpg",
     "data_publicacao": "2026-10-01T23:47:07Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "SIc16xkcT9g",
-    "titulo": "(30.09.26 - 18h30) Santa Missa | São Jerônimo, presbítero e doutor da Igreja  Memória | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/SIc16xkcT9g/hqdefault.jpg",
-    "data_publicacao": "2026-10-01T00:01:21Z",
     "isLive": false,
     "isUpcoming": false
   }
