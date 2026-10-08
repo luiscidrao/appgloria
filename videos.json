@@ -1,13 +1,5 @@
 [
   {
-    "id": "eMalICqSJvg",
-    "titulo": "(07.10.26 - 18h30) Santa Missa | 27ª Semana do Tempo Comum  | Quarta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/eMalICqSJvg/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-05T12:33:41Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "CFxkT2k8en0",
     "titulo": "(11.10.26 - 19h) Santa Missa | 28º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/CFxkT2k8en0/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-10-05T12:43:30Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "eMalICqSJvg",
+    "titulo": "(07.10.26 - 18h30) Santa Missa | 27ª Semana do Tempo Comum  | Quarta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/eMalICqSJvg/hqdefault.jpg",
+    "data_publicacao": "2026-10-07T23:21:30Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "UZkD3fuswUI",
@@ -92,14 +92,6 @@
     "titulo": "(02.10.26 - 18h30) Santa Missa | 26ª Semana do Tempo Comum  | Sexta-feira",
     "thumbnail": "https://i.ytimg.com/vi/IXc963xMO6k/hqdefault.jpg",
     "data_publicacao": "2026-10-02T22:55:47Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "NCiKT_-ObAo",
-    "titulo": "(01.10.26 - 18h30) Santa Missa | Santa Teresa do Menino e da sagrada face | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/NCiKT_-ObAo/hqdefault.jpg",
-    "data_publicacao": "2026-10-01T23:47:07Z",
     "isLive": false,
     "isUpcoming": false
   }
