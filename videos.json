@@ -24,6 +24,14 @@
     "isUpcoming": false
   },
   {
+    "id": "CJYMvNkQxLI",
+    "titulo": "(06.10.26 - 20h) Movimento Aviva -  Até o fim",
+    "thumbnail": "https://i.ytimg.com/vi/CJYMvNkQxLI/hqdefault.jpg",
+    "data_publicacao": "2026-10-07T13:35:13Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "UZkD3fuswUI",
     "titulo": "(06.10.26 - 18h30) Santa Missa | 27ª Semana do Tempo Comum | Terça-feira",
     "thumbnail": "https://i.ytimg.com/vi/UZkD3fuswUI/hqdefault.jpg",
@@ -84,14 +92,6 @@
     "titulo": "(03.10.26 - 18h30) Santa Missa | 27º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/cO86VUu0i1w/hqdefault.jpg",
     "data_publicacao": "2026-10-04T01:41:33Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "IXc963xMO6k",
-    "titulo": "(02.10.26 - 18h30) Santa Missa | 26ª Semana do Tempo Comum  | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/IXc963xMO6k/hqdefault.jpg",
-    "data_publicacao": "2026-10-02T22:55:47Z",
     "isLive": false,
     "isUpcoming": false
   }
