@@ -1,13 +1,5 @@
 [
   {
-    "id": "a1mE6nx5zzI",
-    "titulo": "(10.10.26 - 18h30) Santa Missa | 28º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/a1mE6nx5zzI/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-05T12:40:58Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "CFxkT2k8en0",
     "titulo": "(11.10.26 - 19h) Santa Missa | 28º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/CFxkT2k8en0/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-10-05T12:43:30Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "a1mE6nx5zzI",
+    "titulo": "(10.10.26 - 18h30) Santa Missa | 28º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/a1mE6nx5zzI/hqdefault.jpg",
+    "data_publicacao": "2026-10-10T23:17:33Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "lhhyJGzWk4Y",
@@ -92,14 +92,6 @@
     "titulo": "(04.10.26 - 19h) Santa Missa | 27º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/tC9hucX-2uo/hqdefault.jpg",
     "data_publicacao": "2026-10-05T00:27:57Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "reAzWWsYZiE",
-    "titulo": "(04.10.26 - 11h) Santa Missa | 27º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/reAzWWsYZiE/hqdefault.jpg",
-    "data_publicacao": "2026-10-04T16:18:40Z",
     "isLive": false,
     "isUpcoming": false
   }
