@@ -1,13 +1,5 @@
 [
   {
-    "id": "z8IKlk9NvYE",
-    "titulo": "(15.10.26 - 20h30) Encontro de mulheres | Sou chamada pela graça todos os dias",
-    "thumbnail": "https://i.ytimg.com/vi/z8IKlk9NvYE/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-15T20:45:34Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "M22_aR3TPXU",
     "titulo": "(18.10.26 - 19h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/M22_aR3TPXU/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-10-15T12:56:37Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "z8IKlk9NvYE",
+    "titulo": "(15.10.26 - 20h30) Encontro de mulheres | Sou chamada pela graça todos os dias",
+    "thumbnail": "https://i.ytimg.com/vi/z8IKlk9NvYE/hqdefault.jpg",
+    "data_publicacao": "2026-10-16T02:05:58Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "X-gypL4yXLY",
@@ -92,14 +92,6 @@
     "titulo": "(11.10.26 - 19h) Santa Missa | 28º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/CFxkT2k8en0/hqdefault.jpg",
     "data_publicacao": "2026-10-12T00:23:08Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Z83txWtxRzI",
-    "titulo": "(11.10.26 - 11h) Santa Missa | 28º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/Z83txWtxRzI/hqdefault.jpg",
-    "data_publicacao": "2026-10-11T16:12:39Z",
     "isLive": false,
     "isUpcoming": false
   }
