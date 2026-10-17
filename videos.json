@@ -1,19 +1,11 @@
 [
   {
-    "id": "7xRfyeLyyX4",
-    "titulo": "(17.10.26 - 9h) Batismo Comunitário",
-    "thumbnail": "https://i.ytimg.com/vi/7xRfyeLyyX4/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-17T10:52:03Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "sam5Xd12Zpc",
     "titulo": "(17.10.26 - 11h) Batismo Comunitário - Catequese Eucarística",
     "thumbnail": "https://i.ytimg.com/vi/sam5Xd12Zpc/hqdefault_live.jpg",
     "data_publicacao": "2026-10-17T11:46:27Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "M22_aR3TPXU",
@@ -24,10 +16,26 @@
     "isUpcoming": true
   },
   {
+    "id": "B9_kN3q_Fc0",
+    "titulo": "(18.10.26 - 11h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/B9_kN3q_Fc0/hqdefault_live.jpg",
+    "data_publicacao": "2026-10-15T12:56:37Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
     "id": "B21crPXYjxw",
     "titulo": "(16.10.26 - 21h) Encontrão do ECC",
     "thumbnail": "https://i.ytimg.com/vi/B21crPXYjxw/hqdefault.jpg",
-    "data_publicacao": "2026-10-16T23:59:13Z",
+    "data_publicacao": "2026-10-17T14:00:48Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "7xRfyeLyyX4",
+    "titulo": "(17.10.26 - 9h) Batismo Comunitário",
+    "thumbnail": "https://i.ytimg.com/vi/7xRfyeLyyX4/hqdefault.jpg",
+    "data_publicacao": "2026-10-17T10:52:03Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +100,6 @@
     "titulo": "(12.10.26 -11h)   Bem-aventurada Virgem Maria da Conceição Aparecida Solenidade  Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/kgSE_clCzUI/hqdefault.jpg",
     "data_publicacao": "2026-10-12T16:15:55Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Ujf3xnFmJCI",
-    "titulo": "(11.10.26 - 17h) Santa Missa | 28º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/Ujf3xnFmJCI/hqdefault.jpg",
-    "data_publicacao": "2026-10-12T09:31:07Z",
     "isLive": false,
     "isUpcoming": false
   }
