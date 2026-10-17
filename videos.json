@@ -1,13 +1,5 @@
 [
   {
-    "id": "sam5Xd12Zpc",
-    "titulo": "(17.10.26 - 11h) Batismo Comunitário - Catequese Eucarística",
-    "thumbnail": "https://i.ytimg.com/vi/sam5Xd12Zpc/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-17T11:46:27Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "M22_aR3TPXU",
     "titulo": "(18.10.26 - 19h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/M22_aR3TPXU/hqdefault_live.jpg",
@@ -28,6 +20,14 @@
     "titulo": "(16.10.26 - 21h) Encontrão do ECC",
     "thumbnail": "https://i.ytimg.com/vi/B21crPXYjxw/hqdefault.jpg",
     "data_publicacao": "2026-10-17T14:00:48Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "sam5Xd12Zpc",
+    "titulo": "(17.10.26 - 11h) Batismo Comunitário - Catequese Eucarística",
+    "thumbnail": "https://i.ytimg.com/vi/sam5Xd12Zpc/hqdefault.jpg",
+    "data_publicacao": "2026-10-17T11:46:27Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -92,14 +92,6 @@
     "titulo": "(12.10.26 -19h)  Bem-aventurada Virgem Maria da Conceição Aparecida Solenidade Segunda-feira",
     "thumbnail": "https://i.ytimg.com/vi/Dr2Z-3kE74w/hqdefault.jpg",
     "data_publicacao": "2026-10-13T00:17:19Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "kgSE_clCzUI",
-    "titulo": "(12.10.26 -11h)   Bem-aventurada Virgem Maria da Conceição Aparecida Solenidade  Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/kgSE_clCzUI/hqdefault.jpg",
-    "data_publicacao": "2026-10-12T16:15:55Z",
     "isLive": false,
     "isUpcoming": false
   }
