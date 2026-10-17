@@ -1,9 +1,9 @@
 [
   {
-    "id": "BmUo61JSlNQ",
-    "titulo": "(16.10.26 - 18h30) Santa Missa | 28ª Semana do Tempo Comum  | Quinta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/BmUo61JSlNQ/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-15T12:52:48Z",
+    "id": "B21crPXYjxw",
+    "titulo": "(16.10.26 - 21h) Encontrão do ECC",
+    "thumbnail": "https://i.ytimg.com/vi/B21crPXYjxw/hqdefault_live.jpg",
+    "data_publicacao": "2026-10-16T23:59:13Z",
     "isLive": true,
     "isUpcoming": false
   },
@@ -22,6 +22,14 @@
     "data_publicacao": "2026-10-15T12:56:37Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "BmUo61JSlNQ",
+    "titulo": "(16.10.26 - 18h30) Santa Missa | 28ª Semana do Tempo Comum  | Quinta-feira",
+    "thumbnail": "https://i.ytimg.com/vi/BmUo61JSlNQ/hqdefault.jpg",
+    "data_publicacao": "2026-10-16T23:06:03Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "X-gypL4yXLY",
@@ -92,14 +100,6 @@
     "titulo": "(11.10.26 - 9h) Santa Missa | 28ª Semana do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/gTi01u3aVzI/hqdefault.jpg",
     "data_publicacao": "2026-10-12T01:09:42Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "CFxkT2k8en0",
-    "titulo": "(11.10.26 - 19h) Santa Missa | 28º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/CFxkT2k8en0/hqdefault.jpg",
-    "data_publicacao": "2026-10-12T00:23:08Z",
     "isLive": false,
     "isUpcoming": false
   }
