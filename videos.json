@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "7xRfyeLyyX4",
+    "titulo": "(17.10.26 - 9h) Batismo Comunitário",
+    "thumbnail": "https://i.ytimg.com/vi/7xRfyeLyyX4/hqdefault.jpg",
+    "data_publicacao": "2026-10-18T02:11:22Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "NxJ6eFvscVM",
     "titulo": "(17.10.26 - 18h30) Santa Missa | 29º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/NxJ6eFvscVM/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(17.10.26 - 11h) Batismo Comunitário - Catequese Eucarística",
     "thumbnail": "https://i.ytimg.com/vi/sam5Xd12Zpc/hqdefault.jpg",
     "data_publicacao": "2026-10-17T11:46:27Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "7xRfyeLyyX4",
-    "titulo": "(17.10.26 - 9h) Batismo Comunitário",
-    "thumbnail": "https://i.ytimg.com/vi/7xRfyeLyyX4/hqdefault.jpg",
-    "data_publicacao": "2026-10-17T10:52:03Z",
     "isLive": false,
     "isUpcoming": false
   },
