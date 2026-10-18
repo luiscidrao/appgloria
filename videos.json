@@ -1,13 +1,5 @@
 [
   {
-    "id": "NxJ6eFvscVM",
-    "titulo": "(17.10.26 - 18h30) Santa Missa | 29º Domingo do Tempo Comum | Sábado",
-    "thumbnail": "https://i.ytimg.com/vi/NxJ6eFvscVM/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-15T12:55:13Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "M22_aR3TPXU",
     "titulo": "(18.10.26 - 19h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/M22_aR3TPXU/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-10-15T12:56:37Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "NxJ6eFvscVM",
+    "titulo": "(17.10.26 - 18h30) Santa Missa | 29º Domingo do Tempo Comum | Sábado",
+    "thumbnail": "https://i.ytimg.com/vi/NxJ6eFvscVM/hqdefault.jpg",
+    "data_publicacao": "2026-10-17T23:17:41Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "B21crPXYjxw",
@@ -92,14 +92,6 @@
     "titulo": "(13.10.26 - 18h30) ADORAÇÃO NA GLÓRIA | SANTA MISSA | ADORAÇÃO EUCARÍSTICA | TICIANA DE PAULA",
     "thumbnail": "https://i.ytimg.com/vi/Le3zwYG8OB4/hqdefault.jpg",
     "data_publicacao": "2026-10-14T01:54:46Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "Dr2Z-3kE74w",
-    "titulo": "(12.10.26 -19h)  Bem-aventurada Virgem Maria da Conceição Aparecida Solenidade Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/Dr2Z-3kE74w/hqdefault.jpg",
-    "data_publicacao": "2026-10-13T00:17:19Z",
     "isLive": false,
     "isUpcoming": false
   }
