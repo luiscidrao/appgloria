@@ -1,19 +1,19 @@
 [
   {
-    "id": "B9_kN3q_Fc0",
-    "titulo": "(18.10.26 - 11h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/B9_kN3q_Fc0/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-15T12:56:37Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "M22_aR3TPXU",
     "titulo": "(18.10.26 - 19h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/M22_aR3TPXU/hqdefault_live.jpg",
     "data_publicacao": "2026-10-15T12:58:06Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "B9_kN3q_Fc0",
+    "titulo": "(18.10.26 - 11h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/B9_kN3q_Fc0/hqdefault.jpg",
+    "data_publicacao": "2026-10-18T16:13:24Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "sam5Xd12Zpc",
@@ -84,14 +84,6 @@
     "titulo": "(14.10.26 - 18h30) Santa Missa | 28ª Semana do Tempo Comum | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/3j7AFJT9_N4/hqdefault.jpg",
     "data_publicacao": "2026-10-14T23:02:44Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "MzQrNNjiax4",
-    "titulo": "(13.10.26 - 12h) Santa Missa | Nossa Senhora de Fátima | Pe. Helano Samy",
-    "thumbnail": "https://i.ytimg.com/vi/MzQrNNjiax4/hqdefault.jpg",
-    "data_publicacao": "2026-10-14T04:35:48Z",
     "isLive": false,
     "isUpcoming": false
   }
