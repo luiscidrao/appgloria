@@ -16,6 +16,14 @@
     "isUpcoming": true
   },
   {
+    "id": "sam5Xd12Zpc",
+    "titulo": "(17.10.26 - 11h) Batismo Comunitário - Catequese Eucarística",
+    "thumbnail": "https://i.ytimg.com/vi/sam5Xd12Zpc/hqdefault.jpg",
+    "data_publicacao": "2026-10-18T05:06:37Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
     "id": "7xRfyeLyyX4",
     "titulo": "(17.10.26 - 9h) Batismo Comunitário",
     "thumbnail": "https://i.ytimg.com/vi/7xRfyeLyyX4/hqdefault.jpg",
@@ -36,14 +44,6 @@
     "titulo": "(16.10.26 - 21h) Encontrão do ECC",
     "thumbnail": "https://i.ytimg.com/vi/B21crPXYjxw/hqdefault.jpg",
     "data_publicacao": "2026-10-17T14:00:48Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "sam5Xd12Zpc",
-    "titulo": "(17.10.26 - 11h) Batismo Comunitário - Catequese Eucarística",
-    "thumbnail": "https://i.ytimg.com/vi/sam5Xd12Zpc/hqdefault.jpg",
-    "data_publicacao": "2026-10-17T11:46:27Z",
     "isLive": false,
     "isUpcoming": false
   },
