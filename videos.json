@@ -2,9 +2,17 @@
   {
     "id": "M22_aR3TPXU",
     "titulo": "(18.10.26 - 19h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/M22_aR3TPXU/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-15T12:58:06Z",
-    "isLive": true,
+    "thumbnail": "https://i.ytimg.com/vi/M22_aR3TPXU/hqdefault.jpg",
+    "data_publicacao": "2026-10-19T00:08:47Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "DefzYOcPocg",
+    "titulo": "(18.10.26 - 17h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/DefzYOcPocg/hqdefault.jpg",
+    "data_publicacao": "2026-10-15T12:57:28Z",
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -76,14 +84,6 @@
     "titulo": "(18.10.26 - 9h) Santa Missa | 29ª Semana do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/Wbm0t9fldAM/hqdefault.jpg",
     "data_publicacao": "2026-10-15T12:55:59Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "DefzYOcPocg",
-    "titulo": "(18.10.26 - 17h) Santa Missa | 29º Domingo do Tempo Comum | Domingo",
-    "thumbnail": "https://i.ytimg.com/vi/DefzYOcPocg/hqdefault.jpg",
-    "data_publicacao": "2026-10-15T12:57:28Z",
     "isLive": false,
     "isUpcoming": false
   }
