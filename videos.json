@@ -1,13 +1,5 @@
 [
   {
-    "id": "znIS_aN11jE",
-    "titulo": "(19.10.26 - 18h30) Santa Missa | 29ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/znIS_aN11jE/hqdefault_live.jpg",
-    "data_publicacao": "2026-10-19T14:10:45Z",
-    "isLive": true,
-    "isUpcoming": false
-  },
-  {
     "id": "mNdO3RbjRJk",
     "titulo": "(20.10.26 - 20h) Movimento Aviva - Elos",
     "thumbnail": "https://i.ytimg.com/vi/mNdO3RbjRJk/hqdefault_live.jpg",
@@ -22,6 +14,14 @@
     "data_publicacao": "2026-10-19T14:26:44Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "znIS_aN11jE",
+    "titulo": "(19.10.26 - 18h30) Santa Missa | 29ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/znIS_aN11jE/hqdefault.jpg",
+    "data_publicacao": "2026-10-19T23:30:18Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "DefzYOcPocg",
@@ -92,14 +92,6 @@
     "titulo": "(16.10.26 - 18h30) Santa Missa | 28ª Semana do Tempo Comum  | Quinta-feira",
     "thumbnail": "https://i.ytimg.com/vi/BmUo61JSlNQ/hqdefault.jpg",
     "data_publicacao": "2026-10-16T23:06:03Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "X-gypL4yXLY",
-    "titulo": "(15.10.26 - 18h30) Santa Missa | 28ª Semana do Tempo Comum  | Sexta-feira",
-    "thumbnail": "https://i.ytimg.com/vi/X-gypL4yXLY/hqdefault.jpg",
-    "data_publicacao": "2026-10-16T11:25:16Z",
     "isLive": false,
     "isUpcoming": false
   }
