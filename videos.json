@@ -1,11 +1,11 @@
 [
   {
     "id": "mNdO3RbjRJk",
-    "titulo": "(20.10.26 - 20h) Movimento Aviva - Elos",
+    "titulo": "(20.10.26 - 20h) Movimento Aviva - Elos: Namoro Católico - Tobias e Sara",
     "thumbnail": "https://i.ytimg.com/vi/mNdO3RbjRJk/hqdefault_live.jpg",
     "data_publicacao": "2026-10-19T14:30:14Z",
-    "isLive": false,
-    "isUpcoming": true
+    "isLive": true,
+    "isUpcoming": false
   },
   {
     "id": "LIgib-ViRXI",
@@ -16,18 +16,18 @@
     "isUpcoming": true
   },
   {
-    "id": "znIS_aN11jE",
-    "titulo": "(19.10.26 - 18h30) Santa Missa | 29ª Semana do Tempo Comum | Segunda-feira",
-    "thumbnail": "https://i.ytimg.com/vi/znIS_aN11jE/hqdefault.jpg",
-    "data_publicacao": "2026-10-19T23:30:18Z",
+    "id": "-eVfVUL7_Og",
+    "titulo": "(20.10.26 - 18h30) Santa Missa | 29ª Semana do Tempo Comum | Terça-feira",
+    "thumbnail": "https://i.ytimg.com/vi/-eVfVUL7_Og/hqdefault.jpg",
+    "data_publicacao": "2026-10-20T22:58:43Z",
     "isLive": false,
     "isUpcoming": false
   },
   {
-    "id": "-eVfVUL7_Og",
-    "titulo": "(20.10.26 - 18h30) Santa Missa | 29ª Semana do Tempo Comum | Terça-feira",
-    "thumbnail": "https://i.ytimg.com/vi/-eVfVUL7_Og/hqdefault.jpg",
-    "data_publicacao": "2026-10-19T14:11:49Z",
+    "id": "znIS_aN11jE",
+    "titulo": "(19.10.26 - 18h30) Santa Missa | 29ª Semana do Tempo Comum | Segunda-feira",
+    "thumbnail": "https://i.ytimg.com/vi/znIS_aN11jE/hqdefault.jpg",
+    "data_publicacao": "2026-10-19T23:30:18Z",
     "isLive": false,
     "isUpcoming": false
   },
