@@ -2,9 +2,9 @@
   {
     "id": "mNdO3RbjRJk",
     "titulo": "(20.10.26 - 20h) Movimento Aviva - Elos: Namoro Católico - Tobias e Sara",
-    "thumbnail": "https://i.ytimg.com/vi/mNdO3RbjRJk/hqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mNdO3RbjRJk/hqdefault.jpg",
     "data_publicacao": "2026-10-19T14:30:14Z",
-    "isLive": true,
+    "isLive": false,
     "isUpcoming": false
   },
   {
@@ -84,14 +84,6 @@
     "titulo": "(17.10.26 - 18h30) Santa Missa | 29º Domingo do Tempo Comum | Sábado",
     "thumbnail": "https://i.ytimg.com/vi/NxJ6eFvscVM/hqdefault.jpg",
     "data_publicacao": "2026-10-17T23:17:41Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "B21crPXYjxw",
-    "titulo": "(16.10.26 - 21h) Encontrão do ECC",
-    "thumbnail": "https://i.ytimg.com/vi/B21crPXYjxw/hqdefault.jpg",
-    "data_publicacao": "2026-10-17T14:00:48Z",
     "isLive": false,
     "isUpcoming": false
   }
