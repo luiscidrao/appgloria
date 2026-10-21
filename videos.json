@@ -1,19 +1,27 @@
 [
   {
-    "id": "mNdO3RbjRJk",
-    "titulo": "(20.10.26 - 20h) Movimento Aviva - Elos: Namoro Católico - Tobias e Sara",
-    "thumbnail": "https://i.ytimg.com/vi/mNdO3RbjRJk/hqdefault.jpg",
-    "data_publicacao": "2026-10-19T14:30:14Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
     "id": "LIgib-ViRXI",
     "titulo": "(25.10.26 - 19h) Santa Missa | 30º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/LIgib-ViRXI/hqdefault_live.jpg",
     "data_publicacao": "2026-10-19T14:26:44Z",
     "isLive": false,
     "isUpcoming": true
+  },
+  {
+    "id": "221UzZqZ198",
+    "titulo": "(25.10.26 - 17h) Santa Missa | 30º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/221UzZqZ198/hqdefault_live.jpg",
+    "data_publicacao": "2026-10-19T14:25:06Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "mNdO3RbjRJk",
+    "titulo": "(20.10.26 - 20h) Movimento Aviva - Elos: Namoro Católico - Tobias e Sara",
+    "thumbnail": "https://i.ytimg.com/vi/mNdO3RbjRJk/hqdefault.jpg",
+    "data_publicacao": "2026-10-21T14:40:49Z",
+    "isLive": false,
+    "isUpcoming": false
   },
   {
     "id": "-eVfVUL7_Og",
