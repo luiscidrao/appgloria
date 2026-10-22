@@ -1,13 +1,5 @@
 [
   {
-    "id": "Jsr-M9tjCAs",
-    "titulo": "(21.10.26 - 20h) Batismo - Catequese de Adulto",
-    "thumbnail": "https://i.ytimg.com/vi/Jsr-M9tjCAs/hqdefault.jpg",
-    "data_publicacao": "2026-10-21T21:07:15Z",
-    "isLive": false,
-    "isUpcoming": true
-  },
-  {
     "id": "LIgib-ViRXI",
     "titulo": "(25.10.26 - 19h) Santa Missa | 30º Domingo do Tempo Comum | Domingo",
     "thumbnail": "https://i.ytimg.com/vi/LIgib-ViRXI/hqdefault.jpg",
@@ -16,10 +8,26 @@
     "isUpcoming": true
   },
   {
+    "id": "221UzZqZ198",
+    "titulo": "(25.10.26 - 17h) Santa Missa | 30º Domingo do Tempo Comum | Domingo",
+    "thumbnail": "https://i.ytimg.com/vi/221UzZqZ198/hqdefault.jpg",
+    "data_publicacao": "2026-10-19T14:25:06Z",
+    "isLive": false,
+    "isUpcoming": true
+  },
+  {
     "id": "3vNKxNWWmH0",
     "titulo": "(21.10.26 - 18h30) Santa Missa | 29ª Semana do Tempo Comum  | Quarta-feira",
     "thumbnail": "https://i.ytimg.com/vi/3vNKxNWWmH0/hqdefault.jpg",
     "data_publicacao": "2026-10-21T23:09:09Z",
+    "isLive": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "Jsr-M9tjCAs",
+    "titulo": "(21.10.26 - 20h) Batismo - Catequese de Adulto",
+    "thumbnail": "https://i.ytimg.com/vi/Jsr-M9tjCAs/hqdefault.jpg",
+    "data_publicacao": "2026-10-21T21:07:15Z",
     "isLive": false,
     "isUpcoming": false
   },
@@ -84,14 +92,6 @@
     "titulo": "(17.10.26 - 11h) Batismo Comunitário - Catequese Eucarística",
     "thumbnail": "https://i.ytimg.com/vi/sam5Xd12Zpc/hqdefault.jpg",
     "data_publicacao": "2026-10-18T05:06:37Z",
-    "isLive": false,
-    "isUpcoming": false
-  },
-  {
-    "id": "7xRfyeLyyX4",
-    "titulo": "(17.10.26 - 9h) Batismo Comunitário",
-    "thumbnail": "https://i.ytimg.com/vi/7xRfyeLyyX4/hqdefault.jpg",
-    "data_publicacao": "2026-10-18T02:11:22Z",
     "isLive": false,
     "isUpcoming": false
   }
